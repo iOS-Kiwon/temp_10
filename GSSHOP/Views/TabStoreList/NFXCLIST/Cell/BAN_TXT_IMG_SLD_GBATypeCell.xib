@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="BAN_TXT_IMG_SLD_GBATypeCell" rowHeight="330" id="sJL-FX-mdR" customClass="BAN_TXT_IMG_SLD_GBATypeCell" customModule="GSSHOP_APPSTORE" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="330"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="sJL-FX-mdR" id="j0H-Zp-8hR">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="330"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="AKT-2B-Dha">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="313.5"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="AKT-2B-Dha" secondAttribute="height" multiplier="375:284" id="SAz-qi-4pu"/>
+                        </constraints>
+                        <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="Gvv-w1-VzU">
+                            <size key="itemSize" width="50" height="50"/>
+                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        </collectionViewFlowLayout>
+                    </collectionView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SgC-aK-g1C">
+                        <rect key="frame" x="352.5" y="200" width="37.5" height="22"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1/4" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RRa-hF-eMM">
+                                <rect key="frame" x="10" y="4" width="17.5" height="14.5"/>
+                                <accessibility key="accessibilityConfiguration">
+                                    <bool key="isElement" value="NO"/>
+                                </accessibility>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="0.40000000000000002" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="RRa-hF-eMM" firstAttribute="centerY" secondItem="SgC-aK-g1C" secondAttribute="centerY" id="FO3-Yo-0J1"/>
+                            <constraint firstItem="RRa-hF-eMM" firstAttribute="leading" secondItem="SgC-aK-g1C" secondAttribute="leading" constant="10" id="bVd-vI-gDG"/>
+                            <constraint firstAttribute="height" constant="22" id="fRw-a3-9Ov"/>
+                            <constraint firstAttribute="trailing" secondItem="RRa-hF-eMM" secondAttribute="trailing" constant="10" id="tGD-Xr-ytT"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="SgC-aK-g1C" secondAttribute="bottom" constant="108" id="26x-zg-o1x"/>
+                    <constraint firstItem="AKT-2B-Dha" firstAttribute="top" secondItem="j0H-Zp-8hR" secondAttribute="top" id="Vse-qL-WJ3"/>
+                    <constraint firstAttribute="trailing" secondItem="AKT-2B-Dha" secondAttribute="trailing" id="osc-EP-Sbd"/>
+                    <constraint firstAttribute="trailing" secondItem="SgC-aK-g1C" secondAttribute="trailing" constant="24" id="twG-l5-3U0"/>
+                    <constraint firstItem="AKT-2B-Dha" firstAttribute="leading" secondItem="j0H-Zp-8hR" secondAttribute="leading" id="zQD-tW-wh7"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="collectionView" destination="AKT-2B-Dha" id="YiP-ye-Mk1"/>
+                <outlet property="pageCountLbl" destination="RRa-hF-eMM" id="gZu-lf-IP1"/>
+                <outlet property="pageView" destination="SgC-aK-g1C" id="rfc-Tm-yvY"/>
+            </connections>
+            <point key="canvasLocation" x="-84.057971014492765" y="21.428571428571427"/>
+        </tableViewCell>
+    </objects>
+</document>

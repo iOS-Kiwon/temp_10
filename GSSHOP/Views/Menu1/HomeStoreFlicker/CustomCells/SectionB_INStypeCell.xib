@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionB_INStypeCell" id="KGk-i7-Jjw" customClass="SectionB_INStypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="29"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="28"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_80.png" translatesAutoresizingMaskIntoConstraints="NO" id="BTT-RZ-dYl">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="29"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="JT0-gh-NEm">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="29"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="JT0-gh-NEm" secondAttribute="height" multiplier="320:29" id="3aZ-e5-fJW"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="BTT-RZ-dYl" firstAttribute="height" secondItem="JT0-gh-NEm" secondAttribute="height" id="1gz-TC-Akg"/>
+                    <constraint firstItem="BTT-RZ-dYl" firstAttribute="top" secondItem="JT0-gh-NEm" secondAttribute="top" id="4lH-Pl-84y"/>
+                    <constraint firstItem="BTT-RZ-dYl" firstAttribute="width" secondItem="JT0-gh-NEm" secondAttribute="width" id="Tho-q6-b7T"/>
+                    <constraint firstItem="BTT-RZ-dYl" firstAttribute="leading" secondItem="JT0-gh-NEm" secondAttribute="leading" id="h2E-zb-Vfv"/>
+                </constraints>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstItem="JT0-gh-NEm" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" id="URu-zg-uuA"/>
+                <constraint firstItem="JT0-gh-NEm" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="Zfd-vP-dfy"/>
+                <constraint firstItem="JT0-gh-NEm" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="asg-1D-oFO"/>
+            </constraints>
+            <connections>
+                <outlet property="imgBanner" destination="JT0-gh-NEm" id="Hx5-Uu-I4W"/>
+            </connections>
+            <point key="canvasLocation" x="441" y="332"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="noimg_80.png" width="640" height="80"/>
+    </resources>
+</document>

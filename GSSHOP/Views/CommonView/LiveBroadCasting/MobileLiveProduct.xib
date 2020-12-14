@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="8xE-xJ-4tc" userLabel="vProduct" customClass="MobileLiveProduct">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_160.png" translatesAutoresizingMaskIntoConstraints="NO" id="fHt-xs-QG3">
+                    <rect key="frame" x="8" y="8" width="48" height="48"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="48" id="8Ob-Js-Mby"/>
+                        <constraint firstAttribute="width" constant="48" id="HAy-cd-A2J"/>
+                    </constraints>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="vbt-S1-LHh">
+                    <rect key="frame" x="8" y="8" width="48" height="48"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="48" id="K5b-Mk-WIw"/>
+                        <constraint firstAttribute="height" constant="48" id="KBl-Wj-Tqb"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zJj-gG-c1j">
+                    <rect key="frame" x="64" y="32" width="154" height="24"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="24" id="53W-Hp-2mL"/>
+                        <constraint firstAttribute="width" constant="154" id="wnM-hM-bVv"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment content="8900005">
+                            <attributes>
+                                <color key="NSColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <font key="NSFont" size="16" name="AppleSDGothicNeo-Bold"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uF0-1U-wvW">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
+                    <connections>
+                        <action selector="click_ALL:" destination="8xE-xJ-4tc" eventType="touchUpInside" id="NZa-m0-sEs"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X10-d6-6Sl">
+                    <rect key="frame" x="295" y="24" width="72" height="32"/>
+                    <color key="backgroundColor" red="0.93333333330000001" green="0.1215686275" blue="0.37647058820000001" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="72" id="dky-Mx-ZTc"/>
+                        <constraint firstAttribute="height" constant="32" id="vJF-sx-6e6"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <state key="normal" title="바로구매"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                            <integer key="value" value="3"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="click_directOrder:" destination="8xE-xJ-4tc" eventType="touchUpInside" id="xmB-4r-ZuN"/>
+                    </connections>
+                </button>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="14" enabled="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uLy-kv-Zjx">
+                    <rect key="frame" x="64" y="11" width="227" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="IT1-4B-tfL"/>
+                    </constraints>
+                    <attributedString key="attributedText">
+                        <fragment content="리타직수입">
+                            <attributes>
+                                <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <font key="NSFont" size="14" name="AppleSDGothicNeo-Regular"/>
+                                <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="truncatingTail" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                            </attributes>
+                        </fragment>
+                    </attributedString>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="uF0-1U-wvW" firstAttribute="top" secondItem="oiR-nb-b0o" secondAttribute="top" id="1p4-X0-WF6"/>
+                <constraint firstItem="oiR-nb-b0o" firstAttribute="bottom" secondItem="uF0-1U-wvW" secondAttribute="bottom" id="83v-AK-Bjj"/>
+                <constraint firstItem="fHt-xs-QG3" firstAttribute="top" secondItem="oiR-nb-b0o" secondAttribute="top" constant="8" id="9N2-yg-tHt"/>
+                <constraint firstItem="oiR-nb-b0o" firstAttribute="trailing" secondItem="X10-d6-6Sl" secondAttribute="trailing" constant="8" id="GLh-Dx-fi5"/>
+                <constraint firstItem="fHt-xs-QG3" firstAttribute="centerX" secondItem="vbt-S1-LHh" secondAttribute="centerX" id="QxE-Dt-EVo"/>
+                <constraint firstItem="oiR-nb-b0o" firstAttribute="bottom" secondItem="zJj-gG-c1j" secondAttribute="bottom" constant="8" id="VMG-B6-1Bq"/>
+                <constraint firstItem="uF0-1U-wvW" firstAttribute="leading" secondItem="oiR-nb-b0o" secondAttribute="leading" id="VtY-wA-SFc"/>
+                <constraint firstItem="oiR-nb-b0o" firstAttribute="trailing" secondItem="uF0-1U-wvW" secondAttribute="trailing" id="WhE-9C-l2G"/>
+                <constraint firstItem="uLy-kv-Zjx" firstAttribute="top" secondItem="oiR-nb-b0o" secondAttribute="top" constant="11" id="Xzl-xW-wh0"/>
+                <constraint firstItem="fHt-xs-QG3" firstAttribute="centerY" secondItem="vbt-S1-LHh" secondAttribute="centerY" id="ccA-zu-nCu"/>
+                <constraint firstItem="oiR-nb-b0o" firstAttribute="bottom" secondItem="X10-d6-6Sl" secondAttribute="bottom" constant="8" id="gfn-ks-WzJ"/>
+                <constraint firstItem="zJj-gG-c1j" firstAttribute="leading" secondItem="vbt-S1-LHh" secondAttribute="trailing" constant="8" id="lvl-bO-sRl"/>
+                <constraint firstItem="uLy-kv-Zjx" firstAttribute="leading" secondItem="vbt-S1-LHh" secondAttribute="trailing" constant="8" id="n1n-FK-vHL"/>
+                <constraint firstItem="X10-d6-6Sl" firstAttribute="leading" secondItem="uLy-kv-Zjx" secondAttribute="trailing" constant="4" id="r72-GP-adK"/>
+                <constraint firstItem="oiR-nb-b0o" firstAttribute="bottom" secondItem="fHt-xs-QG3" secondAttribute="bottom" constant="8" id="yq1-mX-6PP"/>
+                <constraint firstItem="fHt-xs-QG3" firstAttribute="leading" secondItem="oiR-nb-b0o" secondAttribute="leading" constant="8" id="zkc-xk-s6C"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="oiR-nb-b0o"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                    <integer key="value" value="10"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="m_btnDirectOrder" destination="X10-d6-6Sl" id="eeG-Ul-5KW"/>
+                <outlet property="m_imgProduct" destination="vbt-S1-LHh" id="hw4-H5-KEV"/>
+                <outlet property="m_lbProductTitle" destination="uLy-kv-Zjx" id="OSK-4K-dkF"/>
+                <outlet property="m_lbSalePrice" destination="zJj-gG-c1j" id="aKG-N5-sM6"/>
+            </connections>
+            <point key="canvasLocation" x="-258" y="156"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="noimg_160.png" width="160" height="160"/>
+    </resources>
+</document>

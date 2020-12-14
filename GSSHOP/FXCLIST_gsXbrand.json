@@ -1,0 +1,2238 @@
+{
+  "mainTitle": "",
+  "banner": null,
+  "tvLiveBanner": null,
+  "dataLiveBanner": null,
+  "mobileLiveBanner": null,
+  "tvLiveDealBanner": null,
+  "tvLiveBannerList": [
+
+  ],
+  "no1DealList": [
+
+  ],
+  "no1DealZone": [
+
+  ],
+  "headerList": [
+
+  ],
+  "productList": [
+    {
+      "exposePriceText": "",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_CX_SLD_CATE_GBA",
+      "wiseLog": "",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "",
+      "linkUrl": "",
+      "hasVod": false,
+      "productName": "",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+        {
+          "exposePriceText": "",
+          "etcText1": "",
+          "pmoPrdTypList": [
+
+          ],
+          "rtamtCd": "",
+          "rtamt": 0,
+          "addTextLeft": "",
+          "addTextRight": "",
+          "moreBtnUrl": "",
+          "rentalPriceText": "",
+          "rentalPrice": "",
+          "rentalText": "",
+          "mnlyRentCostVal": "",
+          "deal": false,
+          "playUrl": "",
+          "viewType": "L",
+          "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-A-0",
+          "prdid": 415631,
+          "dealNo": 415631,
+          "imageUrl": "",
+          "linkUrl": "http://sm14.gsshop.com/app/ajax/prdList.gs?tg=showCase&version=7.1&pageSize=10&pageIdx=1&args=415631&naviId=210&fromApp=Y",
+          "hasVod": false,
+          "productName": "GS단독",
+          "promotionName": "",
+          "discountRate": 0,
+          "discountRateText": "",
+          "salePrice": "0",
+          "basePrice": "0",
+          "saleQuantity": "0",
+          "saleQuantityText": "",
+          "saleQuantitySubText": "",
+          "productType": "",
+          "isTempOut": false,
+          "isTempOutTime": 0,
+          "dealProductType": "",
+          "startDate": 0,
+          "endDate": 0,
+          "sectionId": "",
+          "prdGbnCd": "",
+          "cateGb": "",
+          "isNo1Schedule": "",
+          "no1ScheduleUrl": "",
+          "dealType": "Deal",
+          "subContentChild": [
+
+          ],
+          "subProductList": [
+
+          ],
+          "imgBadgeCorner": {
+            "LT": [
+
+            ],
+            "RT": [
+
+            ],
+            "LB": [
+
+            ],
+            "RB": [
+
+            ],
+            "ALL": [
+
+            ]
+          },
+          "wiseLog2": "",
+          "quickShippingYn": "",
+          "freeDlvYn": "",
+          "adultCertYn": "",
+          "no1DealYn": "",
+          "infoBadge": {
+            "TF": [
+
+            ],
+            "VT": [
+
+            ]
+          },
+          "valueText": "",
+          "valueInfo": "",
+          "broadTimeText": "",
+          "adDealYn": "",
+          "startDtm": "",
+          "isTvHot": "",
+          "isTvHotLogo": "",
+          "dealMcVideoUrlAddr": "",
+          "imageList": {
+
+          },
+          "videoTime": "",
+          "productHashTags": [
+
+          ],
+          "productHashTagWiseLogs": [
+
+          ],
+          "isWish": false,
+          "brandWishAddUrl": "",
+          "brandWishRemoveUrl": "",
+          "imageLayerFlag": "",
+          "sbCateGb": "",
+          "sbVideoNum": "",
+          "directOrdUrl": "",
+          "snsImageUrl": "",
+          "randomYn": "",
+          "rollingDelay": 0.0,
+          "rwImgList": [
+
+          ],
+          "height": 0,
+          "basket": null,
+          "videoid": "",
+          "exposPrSntncNm": "",
+          "directOrdInfo": null,
+          "broadAlarmDoneYn": "",
+          "reviewCount": "",
+          "bdrBottomYn": "",
+          "reviewAverage": "null",
+          "brandNm": "",
+          "source": null,
+          "allBenefit": [
+
+          ],
+          "badgeRTType": "",
+          "moreText": "",
+          "planBannerFlag": ""
+        },
+        {
+          "exposePriceText": "",
+          "etcText1": "",
+          "pmoPrdTypList": [
+
+          ],
+          "rtamtCd": "",
+          "rtamt": 0,
+          "addTextLeft": "",
+          "addTextRight": "",
+          "moreBtnUrl": "",
+          "rentalPriceText": "",
+          "rentalPrice": "",
+          "rentalText": "",
+          "mnlyRentCostVal": "",
+          "deal": false,
+          "playUrl": "",
+          "viewType": "L",
+          "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-A-1",
+          "prdid": 416023,
+          "dealNo": 416023,
+          "imageUrl": "",
+          "linkUrl": "http://sm14.gsshop.com/app/ajax/prdList.gs?tg=showCase&version=7.1&pageSize=10&pageIdx=1&args=416023&naviId=210&fromApp=Y",
+          "hasVod": false,
+          "productName": "명품관",
+          "promotionName": "",
+          "discountRate": 0,
+          "discountRateText": "",
+          "salePrice": "0",
+          "basePrice": "0",
+          "saleQuantity": "0",
+          "saleQuantityText": "",
+          "saleQuantitySubText": "",
+          "productType": "",
+          "isTempOut": false,
+          "isTempOutTime": 0,
+          "dealProductType": "",
+          "startDate": 0,
+          "endDate": 0,
+          "sectionId": "",
+          "prdGbnCd": "",
+          "cateGb": "",
+          "isNo1Schedule": "",
+          "no1ScheduleUrl": "",
+          "dealType": "Deal",
+          "subContentChild": [
+
+          ],
+          "subProductList": [
+
+          ],
+          "imgBadgeCorner": {
+            "LT": [
+
+            ],
+            "RT": [
+
+            ],
+            "LB": [
+
+            ],
+            "RB": [
+
+            ],
+            "ALL": [
+
+            ]
+          },
+          "wiseLog2": "",
+          "quickShippingYn": "",
+          "freeDlvYn": "",
+          "adultCertYn": "",
+          "no1DealYn": "",
+          "infoBadge": {
+            "TF": [
+
+            ],
+            "VT": [
+
+            ]
+          },
+          "valueText": "",
+          "valueInfo": "",
+          "broadTimeText": "",
+          "adDealYn": "",
+          "startDtm": "",
+          "isTvHot": "",
+          "isTvHotLogo": "",
+          "dealMcVideoUrlAddr": "",
+          "imageList": {
+
+          },
+          "videoTime": "",
+          "productHashTags": [
+
+          ],
+          "productHashTagWiseLogs": [
+
+          ],
+          "isWish": false,
+          "brandWishAddUrl": "",
+          "brandWishRemoveUrl": "",
+          "imageLayerFlag": "",
+          "sbCateGb": "",
+          "sbVideoNum": "",
+          "directOrdUrl": "",
+          "snsImageUrl": "",
+          "randomYn": "",
+          "rollingDelay": 0.0,
+          "rwImgList": [
+
+          ],
+          "height": 0,
+          "basket": null,
+          "videoid": "",
+          "exposPrSntncNm": "",
+          "directOrdInfo": null,
+          "broadAlarmDoneYn": "",
+          "reviewCount": "",
+          "bdrBottomYn": "",
+          "reviewAverage": "null",
+          "brandNm": "",
+          "source": null,
+          "allBenefit": [
+
+          ],
+          "badgeRTType": "",
+          "moreText": "",
+          "planBannerFlag": ""
+        },
+        {
+          "exposePriceText": "",
+          "etcText1": "",
+          "pmoPrdTypList": [
+
+          ],
+          "rtamtCd": "",
+          "rtamt": 0,
+          "addTextLeft": "",
+          "addTextRight": "",
+          "moreBtnUrl": "",
+          "rentalPriceText": "",
+          "rentalPrice": "",
+          "rentalText": "",
+          "mnlyRentCostVal": "",
+          "deal": false,
+          "playUrl": "",
+          "viewType": "L",
+          "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-A-2",
+          "prdid": 416018,
+          "dealNo": 416018,
+          "imageUrl": "",
+          "linkUrl": "http://sm14.gsshop.com/app/ajax/prdList.gs?tg=showCase&version=7.1&pageSize=10&pageIdx=1&args=416018&naviId=210&fromApp=Y",
+          "hasVod": false,
+          "productName": "패션",
+          "promotionName": "",
+          "discountRate": 0,
+          "discountRateText": "",
+          "salePrice": "0",
+          "basePrice": "0",
+          "saleQuantity": "0",
+          "saleQuantityText": "",
+          "saleQuantitySubText": "",
+          "productType": "",
+          "isTempOut": false,
+          "isTempOutTime": 0,
+          "dealProductType": "",
+          "startDate": 0,
+          "endDate": 0,
+          "sectionId": "",
+          "prdGbnCd": "",
+          "cateGb": "",
+          "isNo1Schedule": "",
+          "no1ScheduleUrl": "",
+          "dealType": "Deal",
+          "subContentChild": [
+
+          ],
+          "subProductList": [
+
+          ],
+          "imgBadgeCorner": {
+            "LT": [
+
+            ],
+            "RT": [
+
+            ],
+            "LB": [
+
+            ],
+            "RB": [
+
+            ],
+            "ALL": [
+
+            ]
+          },
+          "wiseLog2": "",
+          "quickShippingYn": "",
+          "freeDlvYn": "",
+          "adultCertYn": "",
+          "no1DealYn": "",
+          "infoBadge": {
+            "TF": [
+
+            ],
+            "VT": [
+
+            ]
+          },
+          "valueText": "",
+          "valueInfo": "",
+          "broadTimeText": "",
+          "adDealYn": "",
+          "startDtm": "",
+          "isTvHot": "",
+          "isTvHotLogo": "",
+          "dealMcVideoUrlAddr": "",
+          "imageList": {
+
+          },
+          "videoTime": "",
+          "productHashTags": [
+
+          ],
+          "productHashTagWiseLogs": [
+
+          ],
+          "isWish": false,
+          "brandWishAddUrl": "",
+          "brandWishRemoveUrl": "",
+          "imageLayerFlag": "",
+          "sbCateGb": "",
+          "sbVideoNum": "",
+          "directOrdUrl": "",
+          "snsImageUrl": "",
+          "randomYn": "",
+          "rollingDelay": 0.0,
+          "rwImgList": [
+
+          ],
+          "height": 0,
+          "basket": null,
+          "videoid": "",
+          "exposPrSntncNm": "",
+          "directOrdInfo": null,
+          "broadAlarmDoneYn": "",
+          "reviewCount": "",
+          "bdrBottomYn": "",
+          "reviewAverage": "null",
+          "brandNm": "",
+          "source": null,
+          "allBenefit": [
+
+          ],
+          "badgeRTType": "",
+          "moreText": "",
+          "planBannerFlag": ""
+        },
+        {
+          "exposePriceText": "",
+          "etcText1": "",
+          "pmoPrdTypList": [
+
+          ],
+          "rtamtCd": "",
+          "rtamt": 0,
+          "addTextLeft": "",
+          "addTextRight": "",
+          "moreBtnUrl": "",
+          "rentalPriceText": "",
+          "rentalPrice": "",
+          "rentalText": "",
+          "mnlyRentCostVal": "",
+          "deal": false,
+          "playUrl": "",
+          "viewType": "L",
+          "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-A-3",
+          "prdid": 416020,
+          "dealNo": 416020,
+          "imageUrl": "",
+          "linkUrl": "http://sm14.gsshop.com/app/ajax/prdList.gs?tg=showCase&version=7.1&pageSize=10&pageIdx=1&args=416020&naviId=210&fromApp=Y",
+          "hasVod": false,
+          "productName": "뷰티/잡화",
+          "promotionName": "",
+          "discountRate": 0,
+          "discountRateText": "",
+          "salePrice": "0",
+          "basePrice": "0",
+          "saleQuantity": "0",
+          "saleQuantityText": "",
+          "saleQuantitySubText": "",
+          "productType": "",
+          "isTempOut": false,
+          "isTempOutTime": 0,
+          "dealProductType": "",
+          "startDate": 0,
+          "endDate": 0,
+          "sectionId": "",
+          "prdGbnCd": "",
+          "cateGb": "",
+          "isNo1Schedule": "",
+          "no1ScheduleUrl": "",
+          "dealType": "Deal",
+          "subContentChild": [
+
+          ],
+          "subProductList": [
+
+          ],
+          "imgBadgeCorner": {
+            "LT": [
+
+            ],
+            "RT": [
+
+            ],
+            "LB": [
+
+            ],
+            "RB": [
+
+            ],
+            "ALL": [
+
+            ]
+          },
+          "wiseLog2": "",
+          "quickShippingYn": "",
+          "freeDlvYn": "",
+          "adultCertYn": "",
+          "no1DealYn": "",
+          "infoBadge": {
+            "TF": [
+
+            ],
+            "VT": [
+
+            ]
+          },
+          "valueText": "",
+          "valueInfo": "",
+          "broadTimeText": "",
+          "adDealYn": "",
+          "startDtm": "",
+          "isTvHot": "",
+          "isTvHotLogo": "",
+          "dealMcVideoUrlAddr": "",
+          "imageList": {
+
+          },
+          "videoTime": "",
+          "productHashTags": [
+
+          ],
+          "productHashTagWiseLogs": [
+
+          ],
+          "isWish": false,
+          "brandWishAddUrl": "",
+          "brandWishRemoveUrl": "",
+          "imageLayerFlag": "",
+          "sbCateGb": "",
+          "sbVideoNum": "",
+          "directOrdUrl": "",
+          "snsImageUrl": "",
+          "randomYn": "",
+          "rollingDelay": 0.0,
+          "rwImgList": [
+
+          ],
+          "height": 0,
+          "basket": null,
+          "videoid": "",
+          "exposPrSntncNm": "",
+          "directOrdInfo": null,
+          "broadAlarmDoneYn": "",
+          "reviewCount": "",
+          "bdrBottomYn": "",
+          "reviewAverage": "null",
+          "brandNm": "",
+          "source": null,
+          "allBenefit": [
+
+          ],
+          "badgeRTType": "",
+          "moreText": "",
+          "planBannerFlag": ""
+        },
+        {
+          "exposePriceText": "",
+          "etcText1": "",
+          "pmoPrdTypList": [
+
+          ],
+          "rtamtCd": "",
+          "rtamt": 0,
+          "addTextLeft": "",
+          "addTextRight": "",
+          "moreBtnUrl": "",
+          "rentalPriceText": "",
+          "rentalPrice": "",
+          "rentalText": "",
+          "mnlyRentCostVal": "",
+          "deal": false,
+          "playUrl": "",
+          "viewType": "L",
+          "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-A-4",
+          "prdid": 416021,
+          "dealNo": 416021,
+          "imageUrl": "",
+          "linkUrl": "http://sm14.gsshop.com/app/ajax/prdList.gs?tg=showCase&version=7.1&pageSize=10&pageIdx=1&args=416021&naviId=210&fromApp=Y",
+          "hasVod": false,
+          "productName": "리빙/식품",
+          "promotionName": "",
+          "discountRate": 0,
+          "discountRateText": "",
+          "salePrice": "0",
+          "basePrice": "0",
+          "saleQuantity": "0",
+          "saleQuantityText": "",
+          "saleQuantitySubText": "",
+          "productType": "",
+          "isTempOut": false,
+          "isTempOutTime": 0,
+          "dealProductType": "",
+          "startDate": 0,
+          "endDate": 0,
+          "sectionId": "",
+          "prdGbnCd": "",
+          "cateGb": "",
+          "isNo1Schedule": "",
+          "no1ScheduleUrl": "",
+          "dealType": "Deal",
+          "subContentChild": [
+
+          ],
+          "subProductList": [
+
+          ],
+          "imgBadgeCorner": {
+            "LT": [
+
+            ],
+            "RT": [
+
+            ],
+            "LB": [
+
+            ],
+            "RB": [
+
+            ],
+            "ALL": [
+
+            ]
+          },
+          "wiseLog2": "",
+          "quickShippingYn": "",
+          "freeDlvYn": "",
+          "adultCertYn": "",
+          "no1DealYn": "",
+          "infoBadge": {
+            "TF": [
+
+            ],
+            "VT": [
+
+            ]
+          },
+          "valueText": "",
+          "valueInfo": "",
+          "broadTimeText": "",
+          "adDealYn": "",
+          "startDtm": "",
+          "isTvHot": "",
+          "isTvHotLogo": "",
+          "dealMcVideoUrlAddr": "",
+          "imageList": {
+
+          },
+          "videoTime": "",
+          "productHashTags": [
+
+          ],
+          "productHashTagWiseLogs": [
+
+          ],
+          "isWish": false,
+          "brandWishAddUrl": "",
+          "brandWishRemoveUrl": "",
+          "imageLayerFlag": "",
+          "sbCateGb": "",
+          "sbVideoNum": "",
+          "directOrdUrl": "",
+          "snsImageUrl": "",
+          "randomYn": "",
+          "rollingDelay": 0.0,
+          "rwImgList": [
+
+          ],
+          "height": 0,
+          "basket": null,
+          "videoid": "",
+          "exposPrSntncNm": "",
+          "directOrdInfo": null,
+          "broadAlarmDoneYn": "",
+          "reviewCount": "",
+          "bdrBottomYn": "",
+          "reviewAverage": "null",
+          "brandNm": "",
+          "source": null,
+          "allBenefit": [
+
+          ],
+          "badgeRTType": "",
+          "moreText": "",
+          "planBannerFlag": ""
+        },
+        {
+          "exposePriceText": "",
+          "etcText1": "",
+          "pmoPrdTypList": [
+
+          ],
+          "rtamtCd": "",
+          "rtamt": 0,
+          "addTextLeft": "",
+          "addTextRight": "",
+          "moreBtnUrl": "",
+          "rentalPriceText": "",
+          "rentalPrice": "",
+          "rentalText": "",
+          "mnlyRentCostVal": "",
+          "deal": false,
+          "playUrl": "",
+          "viewType": "L",
+          "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-A-5",
+          "prdid": 416022,
+          "dealNo": 416022,
+          "imageUrl": "",
+          "linkUrl": "http://sm14.gsshop.com/app/ajax/prdList.gs?tg=showCase&version=7.1&pageSize=10&pageIdx=1&args=416022&naviId=210&fromApp=Y",
+          "hasVod": false,
+          "productName": "레포츠/아동",
+          "promotionName": "",
+          "discountRate": 0,
+          "discountRateText": "",
+          "salePrice": "0",
+          "basePrice": "0",
+          "saleQuantity": "0",
+          "saleQuantityText": "",
+          "saleQuantitySubText": "",
+          "productType": "",
+          "isTempOut": false,
+          "isTempOutTime": 0,
+          "dealProductType": "",
+          "startDate": 0,
+          "endDate": 0,
+          "sectionId": "",
+          "prdGbnCd": "",
+          "cateGb": "",
+          "isNo1Schedule": "",
+          "no1ScheduleUrl": "",
+          "dealType": "Deal",
+          "subContentChild": [
+
+          ],
+          "subProductList": [
+
+          ],
+          "imgBadgeCorner": {
+            "LT": [
+
+            ],
+            "RT": [
+
+            ],
+            "LB": [
+
+            ],
+            "RB": [
+
+            ],
+            "ALL": [
+
+            ]
+          },
+          "wiseLog2": "",
+          "quickShippingYn": "",
+          "freeDlvYn": "",
+          "adultCertYn": "",
+          "no1DealYn": "",
+          "infoBadge": {
+            "TF": [
+
+            ],
+            "VT": [
+
+            ]
+          },
+          "valueText": "",
+          "valueInfo": "",
+          "broadTimeText": "",
+          "adDealYn": "",
+          "startDtm": "",
+          "isTvHot": "",
+          "isTvHotLogo": "",
+          "dealMcVideoUrlAddr": "",
+          "imageList": {
+
+          },
+          "videoTime": "",
+          "productHashTags": [
+
+          ],
+          "productHashTagWiseLogs": [
+
+          ],
+          "isWish": false,
+          "brandWishAddUrl": "",
+          "brandWishRemoveUrl": "",
+          "imageLayerFlag": "",
+          "sbCateGb": "",
+          "sbVideoNum": "",
+          "directOrdUrl": "",
+          "snsImageUrl": "",
+          "randomYn": "",
+          "rollingDelay": 0.0,
+          "rwImgList": [
+
+          ],
+          "height": 0,
+          "basket": null,
+          "videoid": "",
+          "exposPrSntncNm": "",
+          "directOrdInfo": null,
+          "broadAlarmDoneYn": "",
+          "reviewCount": "",
+          "bdrBottomYn": "",
+          "reviewAverage": "null",
+          "brandNm": "",
+          "source": null,
+          "allBenefit": [
+
+          ],
+          "badgeRTType": "",
+          "moreText": "",
+          "planBannerFlag": ""
+        }
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000001",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989491_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=144259&mseq=A00210-CBP-000001&fromApp=Y",
+      "hasVod": false,
+      "productName": "[CJ제일제당] GSX브랜드 집에서 즐기는 세계 미식여행",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000002",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989492_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=147377&mseq=A00210-CBP-000002&fromApp=Y",
+      "hasVod": false,
+      "productName": "올반키친할인전",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000003",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989493_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=144123&mseq=A00210-CBP-000003&fromApp=Y",
+      "hasVod": false,
+      "productName": "스테프 볶음밥 런칭특가",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000004",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989494_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=147711&mseq=A00210-CBP-000004&fromApp=Y",
+      "hasVod": false,
+      "productName": "락앤락 위크 사은품혜택전",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000005",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989495_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=146064&mseq=A00210-CBP-000005&fromApp=Y",
+      "hasVod": false,
+      "productName": "글라스락 홈세트특가",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000006",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989496_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=147732&mseq=A00210-CBP-000006&fromApp=Y",
+      "hasVod": false,
+      "productName": "GS X 브랜드: 지오다노/컨셉원",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000007",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989497_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=147733&mseq=A00210-CBP-000007&fromApp=Y",
+      "hasVod": false,
+      "productName": "GS X 리바이스",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000008",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989498_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=147734&mseq=A00210-CBP-000008&fromApp=Y",
+      "hasVod": false,
+      "productName": "GS X 한세MK",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000009",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989459_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=146889&mseq=A00210-CBP-000009&fromApp=Y",
+      "hasVod": false,
+      "productName": "신규 골드바 출시",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_IMG_H000_GBA",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00210-CBP-000010",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/planprd/banner_NEW_SUB/45989499_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/plan/shop/detail.gs?planseq=145690&mseq=A00210-CBP-000010&fromApp=Y",
+      "hasVod": false,
+      "productName": "백화점 명품화장품_헤라",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 640,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    }
+  ],
+  "brandBanner": [
+
+  ],
+  "groupSortFillterInfo": null,
+  "ajaxPageUrl": "http://sm14.gsshop.com/app/ajax/prdList.gs?tg=showCase&version=7.1&pageSize=10&pageIdx=2&args=415631&naviId=210&fromApp=Y",
+  "abType": "",
+  "brigCoveAutoPlayYn": ""
+}

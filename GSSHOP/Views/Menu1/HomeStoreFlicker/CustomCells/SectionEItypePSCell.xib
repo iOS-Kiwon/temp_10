@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="HqJ-aT-xR8" customClass="SectionEItypePSCell">
+            <rect key="frame" x="0.0" y="0.0" width="146" height="264"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_292_488.png" id="IEr-3P-jbT">
+                    <rect key="frame" x="0.0" y="0.0" width="146" height="264"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_280.png" id="LZM-eo-xZ4">
+                    <rect key="frame" x="0.0" y="0.0" width="146" height="146"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="eiy-Uq-kGD">
+                    <rect key="frame" x="0.0" y="0.0" width="146" height="264"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="layer.borderWidth" value="1"/>
+                        <userDefinedRuntimeAttribute type="color" keyPath="layer.borderUIColor">
+                            <color key="value" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </imageView>
+                <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_benefit_.png" id="HKp-62-hui">
+                    <rect key="frame" x="0.0" y="0.0" width="27" height="15"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_tvzone_.png" id="rVR-FB-p84">
+                    <rect key="frame" x="0.0" y="0.0" width="30" height="15"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon_hot_.png" id="HMl-U3-Ao3">
+                    <rect key="frame" x="0.0" y="0.0" width="37" height="15"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="imgIconBene" destination="HKp-62-hui" id="A2q-Vk-qmi"/>
+                <outlet property="imgIconComm" destination="rVR-FB-p84" id="RMT-VD-RBH"/>
+                <outlet property="imgIconHot" destination="HMl-U3-Ao3" id="INx-hi-cV7"/>
+                <outlet property="noImageE_N1" destination="LZM-eo-xZ4" id="1tf-sR-WMw"/>
+                <outlet property="noImageE_N2" destination="IEr-3P-jbT" id="kOa-hx-chS"/>
+                <outlet property="thumbnailImage" destination="eiy-Uq-kGD" id="cmN-kQ-zSV"/>
+            </connections>
+            <point key="canvasLocation" x="404" y="392"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="icon_benefit_.png" width="27" height="15"/>
+        <image name="icon_hot_.png" width="36" height="15"/>
+        <image name="icon_tvzone_.png" width="30" height="15"/>
+        <image name="noimg_280.png" width="280" height="280"/>
+        <image name="noimg_292_488.png" width="292" height="488"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

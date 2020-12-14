@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionPCtypeCell" id="KGk-i7-Jjw" customClass="SectionPCtypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="195"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="194.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PE8-I2-SZc">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="185"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xbD-nP-5Nq">
+                                <rect key="frame" x="107" y="14" width="106.5" height="18"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tvLiveProgram_icon_2.png" translatesAutoresizingMaskIntoConstraints="NO" id="8NU-qp-AFv">
+                                        <rect key="frame" x="0.0" y="0.0" width="18" height="18"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="18" id="oCj-Ot-Xso"/>
+                                            <constraint firstAttribute="width" constant="18" id="u61-Lm-Kg2"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="인기프로그램" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nqi-KM-NOS">
+                                        <rect key="frame" x="23" y="-1" width="83.5" height="20"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="nqi-KM-NOS" secondAttribute="width" constant="23" id="AFR-6W-3ee"/>
+                                    <constraint firstItem="8NU-qp-AFv" firstAttribute="top" secondItem="xbD-nP-5Nq" secondAttribute="top" id="Nba-XO-9uJ"/>
+                                    <constraint firstAttribute="height" constant="18" id="Rx4-fL-ey9"/>
+                                    <constraint firstItem="nqi-KM-NOS" firstAttribute="leading" secondItem="8NU-qp-AFv" secondAttribute="trailing" constant="5" id="aPw-YI-oLx"/>
+                                    <constraint firstItem="8NU-qp-AFv" firstAttribute="leading" secondItem="xbD-nP-5Nq" secondAttribute="leading" id="fB9-v3-h26"/>
+                                    <constraint firstItem="nqi-KM-NOS" firstAttribute="centerY" secondItem="xbD-nP-5Nq" secondAttribute="centerY" id="y9X-4p-zNT"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qw2-Yw-0SJ">
+                                <rect key="frame" x="0.0" y="46" width="320" height="139"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="139" id="S2V-48-aId"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pmc-Ev-A9Z">
+                                <rect key="frame" x="0.0" y="184" width="320" height="1"/>
+                                <color key="backgroundColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="sub-Wi-lht"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="185" id="26z-xP-Gqu"/>
+                            <constraint firstItem="xbD-nP-5Nq" firstAttribute="top" secondItem="PE8-I2-SZc" secondAttribute="top" constant="14" id="313-aC-qe7"/>
+                            <constraint firstItem="qw2-Yw-0SJ" firstAttribute="leading" secondItem="PE8-I2-SZc" secondAttribute="leading" id="4oK-G0-EPa"/>
+                            <constraint firstAttribute="bottom" secondItem="pmc-Ev-A9Z" secondAttribute="bottom" id="Abb-hz-haI"/>
+                            <constraint firstItem="qw2-Yw-0SJ" firstAttribute="top" secondItem="PE8-I2-SZc" secondAttribute="top" constant="46" id="Pe6-BM-tPE"/>
+                            <constraint firstItem="pmc-Ev-A9Z" firstAttribute="leading" secondItem="PE8-I2-SZc" secondAttribute="leading" id="PgA-SP-iSL"/>
+                            <constraint firstItem="pmc-Ev-A9Z" firstAttribute="width" secondItem="PE8-I2-SZc" secondAttribute="width" id="ZZ4-li-e8Y"/>
+                            <constraint firstItem="qw2-Yw-0SJ" firstAttribute="width" secondItem="PE8-I2-SZc" secondAttribute="width" id="krG-2e-Fxx"/>
+                            <constraint firstItem="xbD-nP-5Nq" firstAttribute="centerX" secondItem="PE8-I2-SZc" secondAttribute="centerX" id="v1s-ic-SyE"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="PE8-I2-SZc" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" id="Jcq-J9-56m"/>
+                <constraint firstItem="PE8-I2-SZc" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="WnM-cV-nQP"/>
+                <constraint firstItem="PE8-I2-SZc" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="fd5-fV-9z5"/>
+            </constraints>
+            <connections>
+                <outlet property="lblTitle" destination="nqi-KM-NOS" id="10i-DU-22z"/>
+                <outlet property="viewProgram" destination="qw2-Yw-0SJ" id="hpy-wP-U3z"/>
+                <outlet property="view_Default" destination="PE8-I2-SZc" id="UC0-4h-8AF"/>
+            </connections>
+            <point key="canvasLocation" x="63" y="84"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="tvLiveProgram_icon_2.png" width="18" height="18"/>
+    </resources>
+</document>

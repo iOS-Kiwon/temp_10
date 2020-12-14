@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionBAN_IMG_SLD_GBAtypeCell" rowHeight="346" id="KGk-i7-Jjw" customClass="SectionBAN_IMG_SLD_GBAtypeCell" customModule="GSSHOP" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="361" height="345"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="361" height="344.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cpl-g4-av8">
+                        <rect key="frame" x="0.0" y="0.0" width="361" height="56"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="56" id="Vkr-c6-KzJ"/>
+                        </constraints>
+                    </view>
+                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="Gx3-Pg-kKc">
+                        <rect key="frame" x="0.0" y="56" width="361" height="279"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="0.0" minimumInteritemSpacing="8" id="9mJ-m9-sKZ">
+                            <size key="itemSize" width="104" height="155"/>
+                            <size key="headerReferenceSize" width="8" height="0.0"/>
+                            <size key="footerReferenceSize" width="8" height="0.0"/>
+                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="2" maxY="24"/>
+                        </collectionViewFlowLayout>
+                        <connections>
+                            <outlet property="dataSource" destination="KGk-i7-Jjw" id="sYl-JV-LRn"/>
+                            <outlet property="delegate" destination="KGk-i7-Jjw" id="FxA-Z8-eFY"/>
+                        </connections>
+                    </collectionView>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="Gx3-Pg-kKc" firstAttribute="top" secondItem="cpl-g4-av8" secondAttribute="bottom" id="X7k-9B-tak"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="cpl-g4-av8" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="Bo8-8d-r6e"/>
+                <constraint firstAttribute="trailing" secondItem="Gx3-Pg-kKc" secondAttribute="trailing" id="KID-IO-vG5"/>
+                <constraint firstItem="Gx3-Pg-kKc" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="MOZ-RG-kTA"/>
+                <constraint firstItem="cpl-g4-av8" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" id="Sc1-qz-16T"/>
+                <constraint firstItem="cpl-g4-av8" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="YXp-SD-s2e"/>
+                <constraint firstAttribute="bottom" secondItem="Gx3-Pg-kKc" secondAttribute="bottom" constant="10" id="vsg-lb-QHP"/>
+            </constraints>
+            <connections>
+                <outlet property="collectView" destination="Gx3-Pg-kKc" id="yUg-eX-k23"/>
+                <outlet property="titleView" destination="cpl-g4-av8" id="CmB-ak-0tX"/>
+            </connections>
+            <point key="canvasLocation" x="324" y="-35.532233883058474"/>
+        </tableViewCell>
+    </objects>
+</document>

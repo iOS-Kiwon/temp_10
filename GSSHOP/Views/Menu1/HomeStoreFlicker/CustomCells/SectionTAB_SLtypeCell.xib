@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionTAB_SLtypeCell" id="OVW-oU-XTS" customClass="SectionTAB_SLtypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="286"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="OVW-oU-XTS" id="rb5-xD-S2t">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="285"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XJ5-Qc-zzm">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="272"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YdX-Rs-JAQ">
+                                <rect key="frame" x="0.0" y="60" width="320" height="212"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="212" id="1st-FT-IOK"/>
+                                </constraints>
+                            </view>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tabsl_noimg.png" translatesAutoresizingMaskIntoConstraints="NO" id="5Qf-aH-JaK">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="65"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Dry-kr-0r2">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="65"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Dry-kr-0r2" secondAttribute="height" multiplier="64:13" id="dRu-Ox-80Y"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zQA-W8-V6J">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="65"/>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow_tab.png" translatesAutoresizingMaskIntoConstraints="NO" id="lpa-CI-3w4">
+                                <rect key="frame" x="153" y="57" width="13" height="8"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="13" id="6eB-2T-OpG"/>
+                                    <constraint firstAttribute="height" constant="8" id="T1s-3c-onp"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ySf-gX-Hmx">
+                                <rect key="frame" x="0.0" y="0.0" width="5" height="65"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="ySf-gX-Hmx" secondAttribute="height" multiplier="1:13" id="Kkq-05-fz7"/>
+                                </constraints>
+                            </view>
+                            <button hidden="YES" opaque="NO" tag="1000" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b8W-2h-AYB">
+                                <rect key="frame" x="5" y="0.0" width="100" height="65"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <action selector="onBtnTabButton:" destination="OVW-oU-XTS" eventType="touchUpInside" id="XIT-La-Z9d"/>
+                                </connections>
+                            </button>
+                            <button hidden="YES" opaque="NO" tag="1001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cfJ-Jm-YWW">
+                                <rect key="frame" x="110" y="0.0" width="100" height="65"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <action selector="onBtnTabButton:" destination="OVW-oU-XTS" eventType="touchUpInside" id="JkG-bD-J2z"/>
+                                </connections>
+                            </button>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QP6-oy-Rrv">
+                                <rect key="frame" x="210" y="0.0" width="5" height="65"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="QP6-oy-Rrv" secondAttribute="height" multiplier="1:13" id="FoI-Y6-Bai"/>
+                                </constraints>
+                            </view>
+                            <button hidden="YES" opaque="NO" tag="1002" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FQs-HO-9hr">
+                                <rect key="frame" x="215" y="0.0" width="100" height="65"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <action selector="onBtnTabButton:" destination="OVW-oU-XTS" eventType="touchUpInside" id="vV0-bB-vOy"/>
+                                </connections>
+                            </button>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5VL-wA-fOx">
+                                <rect key="frame" x="0.0" y="271" width="320" height="1"/>
+                                <color key="backgroundColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="rOd-Im-O3S"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.96078431369999995" green="0.96078431369999995" blue="0.96078431369999995" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="zQA-W8-V6J" firstAttribute="height" secondItem="Dry-kr-0r2" secondAttribute="height" id="0Yj-pN-VJc"/>
+                            <constraint firstItem="b8W-2h-AYB" firstAttribute="top" secondItem="Dry-kr-0r2" secondAttribute="top" id="0eH-vc-KMy"/>
+                            <constraint firstItem="QP6-oy-Rrv" firstAttribute="leading" secondItem="cfJ-Jm-YWW" secondAttribute="trailing" id="5Nf-h2-CQn"/>
+                            <constraint firstItem="Dry-kr-0r2" firstAttribute="leading" secondItem="XJ5-Qc-zzm" secondAttribute="leading" id="6Ad-ch-ufQ"/>
+                            <constraint firstItem="ySf-gX-Hmx" firstAttribute="height" secondItem="Dry-kr-0r2" secondAttribute="height" id="6Nq-WB-kHc"/>
+                            <constraint firstItem="zQA-W8-V6J" firstAttribute="centerX" secondItem="Dry-kr-0r2" secondAttribute="centerX" id="7FD-Q8-k6k"/>
+                            <constraint firstItem="QP6-oy-Rrv" firstAttribute="top" secondItem="cfJ-Jm-YWW" secondAttribute="top" id="7Hs-mQ-J46"/>
+                            <constraint firstItem="lpa-CI-3w4" firstAttribute="bottom" secondItem="Dry-kr-0r2" secondAttribute="bottom" id="7bN-RL-iZG"/>
+                            <constraint firstItem="cfJ-Jm-YWW" firstAttribute="height" secondItem="Dry-kr-0r2" secondAttribute="height" id="AI9-Kg-Nyv"/>
+                            <constraint firstItem="b8W-2h-AYB" firstAttribute="leading" secondItem="ySf-gX-Hmx" secondAttribute="trailing" id="BvJ-LZ-b6x"/>
+                            <constraint firstItem="ySf-gX-Hmx" firstAttribute="top" secondItem="Dry-kr-0r2" secondAttribute="top" id="CHU-ge-KoD"/>
+                            <constraint firstItem="b8W-2h-AYB" firstAttribute="width" secondItem="cfJ-Jm-YWW" secondAttribute="width" id="CMi-Eh-bne"/>
+                            <constraint firstItem="zQA-W8-V6J" firstAttribute="centerY" secondItem="Dry-kr-0r2" secondAttribute="centerY" id="FnX-VI-11c"/>
+                            <constraint firstItem="FQs-HO-9hr" firstAttribute="top" secondItem="Dry-kr-0r2" secondAttribute="top" id="GF5-kh-Z2L"/>
+                            <constraint firstItem="lpa-CI-3w4" firstAttribute="centerX" secondItem="cfJ-Jm-YWW" secondAttribute="centerX" id="KPG-aD-TPz"/>
+                            <constraint firstItem="QP6-oy-Rrv" firstAttribute="height" secondItem="Dry-kr-0r2" secondAttribute="height" id="KcJ-Ul-dZs"/>
+                            <constraint firstItem="cfJ-Jm-YWW" firstAttribute="centerX" secondItem="Dry-kr-0r2" secondAttribute="centerX" id="OiD-8w-kxc"/>
+                            <constraint firstItem="FQs-HO-9hr" firstAttribute="leading" secondItem="QP6-oy-Rrv" secondAttribute="trailing" id="Qpp-Co-wtl"/>
+                            <constraint firstItem="cfJ-Jm-YWW" firstAttribute="width" secondItem="Dry-kr-0r2" secondAttribute="height" multiplier="20:13" id="RJ5-cd-PhU"/>
+                            <constraint firstItem="5VL-wA-fOx" firstAttribute="width" secondItem="XJ5-Qc-zzm" secondAttribute="width" id="XTM-7x-Ixv"/>
+                            <constraint firstItem="ySf-gX-Hmx" firstAttribute="leading" secondItem="Dry-kr-0r2" secondAttribute="leading" id="ZA8-4O-w6Q"/>
+                            <constraint firstItem="YdX-Rs-JAQ" firstAttribute="top" secondItem="Dry-kr-0r2" secondAttribute="bottom" constant="-5" id="adA-6n-Dvy"/>
+                            <constraint firstItem="5VL-wA-fOx" firstAttribute="leading" secondItem="XJ5-Qc-zzm" secondAttribute="leading" id="bPp-Zp-z3Y"/>
+                            <constraint firstItem="FQs-HO-9hr" firstAttribute="width" secondItem="cfJ-Jm-YWW" secondAttribute="width" id="bTB-2Y-Drc"/>
+                            <constraint firstAttribute="bottom" secondItem="5VL-wA-fOx" secondAttribute="bottom" id="cCg-Bi-eNc"/>
+                            <constraint firstAttribute="height" secondItem="Dry-kr-0r2" secondAttribute="height" constant="207" id="fKu-B1-uXJ"/>
+                            <constraint firstItem="Dry-kr-0r2" firstAttribute="width" secondItem="XJ5-Qc-zzm" secondAttribute="width" id="gb3-nk-3Rk"/>
+                            <constraint firstItem="cfJ-Jm-YWW" firstAttribute="centerY" secondItem="Dry-kr-0r2" secondAttribute="centerY" id="hZs-1P-ekh"/>
+                            <constraint firstItem="b8W-2h-AYB" firstAttribute="height" secondItem="cfJ-Jm-YWW" secondAttribute="height" id="iOM-qu-Vnc"/>
+                            <constraint firstItem="5Qf-aH-JaK" firstAttribute="height" secondItem="Dry-kr-0r2" secondAttribute="height" id="jgP-Qj-vy6"/>
+                            <constraint firstItem="5Qf-aH-JaK" firstAttribute="width" secondItem="Dry-kr-0r2" secondAttribute="width" id="kCL-CE-Ldf"/>
+                            <constraint firstItem="5Qf-aH-JaK" firstAttribute="centerX" secondItem="Dry-kr-0r2" secondAttribute="centerX" id="ofa-bi-UX2"/>
+                            <constraint firstItem="FQs-HO-9hr" firstAttribute="height" secondItem="cfJ-Jm-YWW" secondAttribute="height" id="pCF-YW-vd1"/>
+                            <constraint firstItem="zQA-W8-V6J" firstAttribute="width" secondItem="Dry-kr-0r2" secondAttribute="width" id="sM0-Wk-w9f"/>
+                            <constraint firstItem="YdX-Rs-JAQ" firstAttribute="leading" secondItem="XJ5-Qc-zzm" secondAttribute="leading" id="uNX-XV-TKD"/>
+                            <constraint firstItem="Dry-kr-0r2" firstAttribute="top" secondItem="XJ5-Qc-zzm" secondAttribute="top" id="v6q-Hg-0QZ"/>
+                            <constraint firstItem="5Qf-aH-JaK" firstAttribute="centerY" secondItem="Dry-kr-0r2" secondAttribute="centerY" id="wes-Og-JDF"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="XJ5-Qc-zzm" firstAttribute="leading" secondItem="OVW-oU-XTS" secondAttribute="leading" id="ECN-L9-JIC"/>
+                <constraint firstItem="XJ5-Qc-zzm" firstAttribute="top" secondItem="OVW-oU-XTS" secondAttribute="top" id="EME-du-huO"/>
+                <constraint firstItem="XJ5-Qc-zzm" firstAttribute="width" secondItem="OVW-oU-XTS" secondAttribute="width" id="Sa7-g9-xQT"/>
+                <constraint firstItem="YdX-Rs-JAQ" firstAttribute="width" secondItem="OVW-oU-XTS" secondAttribute="width" id="zJZ-aV-bhW"/>
+            </constraints>
+            <connections>
+                <outlet property="arrowCenter" destination="KPG-aD-TPz" id="DK6-i4-AFB"/>
+                <outlet property="btn01Leading" destination="BvJ-LZ-b6x" id="1DD-f6-if0"/>
+                <outlet property="btn02Center" destination="OiD-8w-kxc" id="QQV-e3-OYf"/>
+                <outlet property="btnTab01" destination="b8W-2h-AYB" id="kFk-hp-6w8"/>
+                <outlet property="btnTab02" destination="cfJ-Jm-YWW" id="EDg-Rb-Ljq"/>
+                <outlet property="btnTab03" destination="FQs-HO-9hr" id="J76-n8-Bas"/>
+                <outlet property="imageBackGround" destination="Dry-kr-0r2" id="ZNI-Xf-N3P"/>
+                <outlet property="imgArrow" destination="lpa-CI-3w4" id="Lb1-MU-meX"/>
+                <outlet property="viewHorizontal" destination="YdX-Rs-JAQ" id="7Cy-tK-NGE"/>
+                <outlet property="view_Default" destination="XJ5-Qc-zzm" id="M7g-dp-WQJ"/>
+            </connections>
+            <point key="canvasLocation" x="521" y="289"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="arrow_tab.png" width="26" height="16"/>
+        <image name="tabsl_noimg.png" width="640" height="140"/>
+    </resources>
+</document>

@@ -1,0 +1,210 @@
+PODS:
+  - AirBridge (1.12.0)
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Amplitude-iOS (4.3.1)
+  - Appboy-iOS-SDK (3.21.2):
+    - Appboy-iOS-SDK/UI (= 3.21.2)
+  - Appboy-iOS-SDK/ContentCards (3.21.2):
+    - Appboy-iOS-SDK/Core
+    - SDWebImage (~> 5.0)
+  - Appboy-iOS-SDK/Core (3.21.2)
+  - Appboy-iOS-SDK/InAppMessage (3.21.2):
+    - Appboy-iOS-SDK/Core
+    - SDWebImage (~> 5.0)
+  - Appboy-iOS-SDK/NewsFeed (3.21.2):
+    - Appboy-iOS-SDK/Core
+    - SDWebImage (~> 5.0)
+  - Appboy-iOS-SDK/UI (3.21.2):
+    - Appboy-iOS-SDK/ContentCards
+    - Appboy-iOS-SDK/Core
+    - Appboy-iOS-SDK/InAppMessage
+    - Appboy-iOS-SDK/NewsFeed
+  - Apptimize (3.3.0)
+  - Brightcove-Player-Core (6.3.9):
+    - Brightcove-Player-Core/default (= 6.3.9)
+  - Brightcove-Player-Core/default (6.3.9)
+  - BSGridCollectionViewLayout (1.2.2)
+  - BSImagePicker (2.9.0):
+    - BSGridCollectionViewLayout (= 1.2.2)
+    - BSImageView (= 1.0.2)
+  - BSImageView (1.0.2)
+  - CocoaLumberjack (3.6.2):
+    - CocoaLumberjack/Core (= 3.6.2)
+  - CocoaLumberjack/Core (3.6.2)
+  - FacebookSDK (5.3.0):
+    - FacebookSDK/CoreKit (= 5.3.0)
+    - FacebookSDK/MarketingKit (= 5.3.0)
+  - FacebookSDK/CoreKit (5.3.0):
+    - FBSDKCoreKit (~> 5.0)
+  - FacebookSDK/MarketingKit (5.3.0):
+    - FacebookSDK/CoreKit
+    - FBSDKMarketingKit (~> 5.0)
+  - FBSDKCoreKit (5.15.1):
+    - FBSDKCoreKit/Basics (= 5.15.1)
+    - FBSDKCoreKit/Core (= 5.15.1)
+  - FBSDKCoreKit/Basics (5.15.1)
+  - FBSDKCoreKit/Core (5.15.1):
+    - FBSDKCoreKit/Basics
+  - FBSDKMarketingKit (5.14.0):
+    - FBSDKCoreKit (~> 5.5)
+  - Firebase/Analytics (4.13.0):
+    - Firebase/Core
+  - Firebase/Core (4.13.0):
+    - FirebaseAnalytics (= 4.2.0)
+    - FirebaseCore (= 4.0.20)
+  - FirebaseAnalytics (4.2.0):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (4.0.20):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseInstanceID (2.0.10):
+    - FirebaseCore (~> 4.0)
+  - GoogleAnalytics (3.17.0)
+  - GoogleSymbolUtilities (1.1.2)
+  - GoogleTagManager (6.0.0):
+    - FirebaseAnalytics (~> 4.0)
+    - GoogleAnalytics (~> 3.17)
+    - GoogleUtilities (~> 1.3)
+  - GoogleToolboxForMac/Defines (2.2.2)
+  - "GoogleToolboxForMac/NSData+zlib (2.2.2)":
+    - GoogleToolboxForMac/Defines (= 2.2.2)
+  - GoogleUtilities (1.3.2):
+    - GoogleSymbolUtilities (~> 1.1)
+  - KakaoOpenSDK (1.21.0):
+    - KakaoOpenSDK/KakaoCommon (= 1.21.0)
+    - KakaoOpenSDK/KakaoLink (= 1.21.0)
+    - KakaoOpenSDK/KakaoMessageTemplate (= 1.21.0)
+    - KakaoOpenSDK/KakaoNavi (= 1.21.0)
+    - KakaoOpenSDK/KakaoOpenSDK (= 1.21.0)
+    - KakaoOpenSDK/KakaoPlusFriend (= 1.21.0)
+  - KakaoOpenSDK/KakaoCommon (1.21.0)
+  - KakaoOpenSDK/KakaoLink (1.21.0):
+    - KakaoOpenSDK/KakaoCommon
+  - KakaoOpenSDK/KakaoMessageTemplate (1.21.0)
+  - KakaoOpenSDK/KakaoNavi (1.21.0):
+    - KakaoOpenSDK/KakaoCommon
+  - KakaoOpenSDK/KakaoOpenSDK (1.21.0)
+  - KakaoOpenSDK/KakaoPlusFriend (1.21.0):
+    - KakaoOpenSDK/KakaoCommon
+  - lottie-ios (2.5.3)
+  - nanopb (0.3.9011):
+    - nanopb/decode (= 0.3.9011)
+    - nanopb/encode (= 0.3.9011)
+  - nanopb/decode (0.3.9011)
+  - nanopb/encode (0.3.9011)
+  - naveridlogin-sdk-ios (4.1.2)
+  - ObjectMapper (3.5.3)
+  - SDWebImage (5.9.0):
+    - SDWebImage/Core (= 5.9.0)
+  - SDWebImage/Core (5.9.0)
+  - Socket.IO-Client-Swift (13.3.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+  - SVGKit (2.1.0):
+    - CocoaLumberjack (~> 3.0)
+
+DEPENDENCIES:
+  - AirBridge (= 1.12.0)
+  - AlamofireObjectMapper (~> 5.2)
+  - Amplitude-iOS (= 4.3.1)
+  - Appboy-iOS-SDK (= 3.21.2)
+  - Apptimize (= 3.3.0)
+  - Brightcove-Player-Core (= 6.3.9)
+  - BSImagePicker (~> 2.9.0)
+  - FacebookSDK (~> 5.3.0)
+  - Firebase/Analytics
+  - GoogleTagManager (~> 6.0)
+  - KakaoOpenSDK (= 1.21.0)
+  - lottie-ios (= 2.5.3)
+  - naveridlogin-sdk-ios (~> 4.1.2)
+  - Socket.IO-Client-Swift (= 13.3.1)
+  - Starscream (= 3.0.5)
+  - SVGKit (from `https://github.com/SVGKit/SVGKit.git`, branch `3.x`)
+
+SPEC REPOS:
+  https://github.com/brightcove/BrightcoveSpecs.git:
+    - Brightcove-Player-Core
+  https://github.com/CocoaPods/Specs.git:
+    - AirBridge
+    - Alamofire
+    - AlamofireObjectMapper
+    - Amplitude-iOS
+    - Appboy-iOS-SDK
+    - Apptimize
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - BSImageView
+    - CocoaLumberjack
+    - FacebookSDK
+    - FBSDKCoreKit
+    - FBSDKMarketingKit
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - GoogleAnalytics
+    - GoogleSymbolUtilities
+    - GoogleTagManager
+    - GoogleToolboxForMac
+    - GoogleUtilities
+    - KakaoOpenSDK
+    - lottie-ios
+    - nanopb
+    - naveridlogin-sdk-ios
+    - ObjectMapper
+    - SDWebImage
+    - Socket.IO-Client-Swift
+    - Starscream
+
+EXTERNAL SOURCES:
+  SVGKit:
+    :branch: 3.x
+    :git: https://github.com/SVGKit/SVGKit.git
+
+CHECKOUT OPTIONS:
+  SVGKit:
+    :commit: c7557c9576fa34ba3f01b7e70f0f681b87e1eb4e
+    :git: https://github.com/SVGKit/SVGKit.git
+
+SPEC CHECKSUMS:
+  AirBridge: f71398e705c246642a0a9c61377e2ec9352799c1
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Amplitude-iOS: df355e2be58972041acde9576a2ae97c217bf941
+  Appboy-iOS-SDK: e37c122cfab43a14928fb1dbc1b2e1db1d06c840
+  Apptimize: e1054e68f8726bb4cd906d2d601de06f00c7103a
+  Brightcove-Player-Core: 27cd861f73e071e7964620e31e2557d8ac00f8ab
+  BSGridCollectionViewLayout: 3e6f23b3a2b4f0ca9afae09ca01389d1057f7b32
+  BSImagePicker: 553707de1adaad42eac252e0b84d20dbdba83fe9
+  BSImageView: ab22ff8cae61f1ae17a3c9efeeb216af3cf84a09
+  CocoaLumberjack: bd155f2dd06c0e0b03f876f7a3ee55693122ec94
+  FacebookSDK: 8b6f1bfe4ac4deed8cd2a00d772fad7997176dec
+  FBSDKCoreKit: 1d5acf7c9d7a2f92bb1a242dc60cae5b7adb91df
+  FBSDKMarketingKit: b9dd220b38cc613c71d3eb626cd60bc8e938fbb4
+  Firebase: 5ec5e863d269d82d66b4bf56856726f8fb8f0fb3
+  FirebaseAnalytics: 7ef69e76a5142f643aeb47c780e1cdce4e23632e
+  FirebaseCore: 90cb1c53d69b556f112a1bf72b5fcfaad7650790
+  FirebaseInstanceID: 8d20d890d65c917f9f7d9950b6e10a760ad34321
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  GoogleSymbolUtilities: 631ee17048aa5e9ab133470d768ea997a5ef9b96
+  GoogleTagManager: 07acea48abe73aac17550b81bbf52a37db2d7dd6
+  GoogleToolboxForMac: 800648f8b3127618c1b59c7f97684427630c5ea3
+  GoogleUtilities: 8bbc733218aad26306f9d4a253823986110e3358
+  KakaoOpenSDK: 3d154619070e0ef65ddcc785a8b8a833c742fb35
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
+  naveridlogin-sdk-ios: cf8afccdb1793d4ecfcd5d46aa8729d8b5058c70
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SDWebImage: 62ae4a18473520c67b79e9724c31a63599cc9423
+  Socket.IO-Client-Swift: 79f8f85fa44881838175a20f9bd2c32bef2c9d37
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  SVGKit: 132b010efbf57ec345309fe4a7f627c0a40c5d63
+
+PODFILE CHECKSUM: bb1289c3abbf7437607269d568d417ac55d06bea
+
+COCOAPODS: 1.8.4

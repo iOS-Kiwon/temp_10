@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionMAP_CX_GBB_MOREtypeCell" rowHeight="52" id="KGk-i7-Jjw" customClass="SectionMAP_CX_GBB_MOREtypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="52"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="51.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zm6-4r-vE4">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="상품 더보기" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7zM-x7-P9v">
+                                <rect key="frame" x="116" y="14" width="78" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="0.64000000000000001" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="super_arrow_more.png" translatesAutoresizingMaskIntoConstraints="NO" id="L0J-05-qQP">
+                                <rect key="frame" x="202" y="21" width="12" height="7"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="7" id="1JO-Ur-jY4"/>
+                                    <constraint firstAttribute="width" constant="12" id="XF2-cF-j5A"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aJ6-7U-Yf2">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
+                                <accessibility key="accessibilityConfiguration" label="상품 더보기"/>
+                                <connections>
+                                    <action selector="onBtnMore:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="Cpa-6m-b9I"/>
+                                </connections>
+                            </button>
+                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xCx-ev-CL9">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="상품 전체보기" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D0g-3b-pEk">
+                                        <rect key="frame" x="110" y="14" width="93" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="0.64000000000000001" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="super_arrow_go.png" translatesAutoresizingMaskIntoConstraints="NO" id="OsX-35-rct">
+                                        <rect key="frame" x="211" y="18.5" width="7" height="12"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="12" id="S9y-WO-7d0"/>
+                                            <constraint firstAttribute="width" constant="7" id="SoP-EZ-dBX"/>
+                                        </constraints>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sMS-tR-bWj">
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
+                                        <accessibility key="accessibilityConfiguration" label="매장 바로가기"/>
+                                        <connections>
+                                            <action selector="onBtnGoShop:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="S47-Gp-bEe"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="sMS-tR-bWj" firstAttribute="top" secondItem="xCx-ev-CL9" secondAttribute="top" id="DPi-xI-LmI"/>
+                                    <constraint firstItem="D0g-3b-pEk" firstAttribute="centerX" secondItem="xCx-ev-CL9" secondAttribute="centerX" constant="-3.5" id="HwU-Ck-CrO"/>
+                                    <constraint firstItem="sMS-tR-bWj" firstAttribute="height" secondItem="xCx-ev-CL9" secondAttribute="height" id="N1Z-U0-RRd"/>
+                                    <constraint firstItem="OsX-35-rct" firstAttribute="leading" secondItem="D0g-3b-pEk" secondAttribute="trailing" constant="8" id="Qlf-qf-9Qy"/>
+                                    <constraint firstItem="sMS-tR-bWj" firstAttribute="width" secondItem="xCx-ev-CL9" secondAttribute="width" id="UdL-5y-f2m"/>
+                                    <constraint firstAttribute="centerY" secondItem="D0g-3b-pEk" secondAttribute="centerY" id="XJ8-dQ-tiZ"/>
+                                    <constraint firstItem="OsX-35-rct" firstAttribute="centerY" secondItem="D0g-3b-pEk" secondAttribute="centerY" id="dUg-zk-M2P"/>
+                                    <constraint firstItem="sMS-tR-bWj" firstAttribute="leading" secondItem="xCx-ev-CL9" secondAttribute="leading" id="s0h-8n-8hE"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="px0-wE-KGV">
+                                <rect key="frame" x="0.0" y="48" width="320" height="1"/>
+                                <color key="backgroundColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="fXb-a0-f2A"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="L0J-05-qQP" firstAttribute="centerY" secondItem="7zM-x7-P9v" secondAttribute="centerY" id="0Ro-kE-ayG"/>
+                            <constraint firstItem="aJ6-7U-Yf2" firstAttribute="width" secondItem="zm6-4r-vE4" secondAttribute="width" id="25y-eb-bGH"/>
+                            <constraint firstItem="aJ6-7U-Yf2" firstAttribute="height" secondItem="zm6-4r-vE4" secondAttribute="height" id="CXb-1P-Rv5"/>
+                            <constraint firstAttribute="bottom" secondItem="px0-wE-KGV" secondAttribute="bottom" id="Cb0-2N-0hj"/>
+                            <constraint firstItem="px0-wE-KGV" firstAttribute="width" secondItem="zm6-4r-vE4" secondAttribute="width" id="D3j-1S-idp"/>
+                            <constraint firstItem="px0-wE-KGV" firstAttribute="leading" secondItem="zm6-4r-vE4" secondAttribute="leading" id="DLE-cP-vEf"/>
+                            <constraint firstItem="aJ6-7U-Yf2" firstAttribute="top" secondItem="zm6-4r-vE4" secondAttribute="top" id="Hr9-gB-2Ri"/>
+                            <constraint firstItem="xCx-ev-CL9" firstAttribute="height" secondItem="zm6-4r-vE4" secondAttribute="height" id="Hs4-1W-cEO"/>
+                            <constraint firstItem="7zM-x7-P9v" firstAttribute="centerX" secondItem="zm6-4r-vE4" secondAttribute="centerX" constant="-5" id="ctk-QA-bra"/>
+                            <constraint firstAttribute="height" constant="49" id="f2L-I3-l3a"/>
+                            <constraint firstItem="xCx-ev-CL9" firstAttribute="width" secondItem="zm6-4r-vE4" secondAttribute="width" id="gNF-Lp-AIj"/>
+                            <constraint firstItem="aJ6-7U-Yf2" firstAttribute="leading" secondItem="zm6-4r-vE4" secondAttribute="leading" id="m7O-qy-KIY"/>
+                            <constraint firstItem="xCx-ev-CL9" firstAttribute="centerY" secondItem="zm6-4r-vE4" secondAttribute="centerY" id="rFH-4v-e7h"/>
+                            <constraint firstItem="L0J-05-qQP" firstAttribute="leading" secondItem="7zM-x7-P9v" secondAttribute="trailing" constant="8" id="uiR-BK-h8E"/>
+                            <constraint firstItem="xCx-ev-CL9" firstAttribute="centerX" secondItem="zm6-4r-vE4" secondAttribute="centerX" id="vc7-eX-kP0"/>
+                            <constraint firstAttribute="centerY" secondItem="7zM-x7-P9v" secondAttribute="centerY" id="xrX-Yk-P8j"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="zm6-4r-vE4" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" id="HAE-XV-1cZ"/>
+                <constraint firstItem="zm6-4r-vE4" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="Td0-Kb-k5R"/>
+                <constraint firstItem="zm6-4r-vE4" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="men-5W-YlD"/>
+            </constraints>
+            <connections>
+                <outlet property="viewGoShop" destination="xCx-ev-CL9" id="RXG-Af-tSb"/>
+            </connections>
+            <point key="canvasLocation" x="137.59999999999999" y="151.12443778110946"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="super_arrow_go.png" width="14" height="24"/>
+        <image name="super_arrow_more.png" width="24" height="14"/>
+    </resources>
+</document>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view autoresizesSubviews="NO" contentMode="scaleToFill" id="iN0-l3-epB" customClass="PromotionView">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="181"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView autoresizesSubviews="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" id="9dv-PM-Grs">
+                    <rect key="frame" x="0.0" y="0.0" width="300" height="136"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="EBf-fq-th7">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="135"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        </imageView>
+                        <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="FhL-dz-2fZ">
+                            <rect key="frame" x="0.0" y="0.0" width="300" height="135"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="clickBtn:" destination="iN0-l3-epB" eventType="touchUpInside" id="xTJ-il-mdf"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                </scrollView>
+                <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Z91-bi-S6Z">
+                    <rect key="frame" x="0.0" y="136" width="150" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <state key="normal" title="오늘은 그만 보기">
+                        <color key="titleColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="deviceRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="clickBtn:" destination="iN0-l3-epB" eventType="touchUpInside" id="3gT-ey-xar"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="lLs-Zw-7LS">
+                    <rect key="frame" x="150" y="136" width="150" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <state key="normal" title="닫기">
+                        <color key="titleColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="deviceRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="clickBtn:" destination="iN0-l3-epB" eventType="touchUpInside" id="CYh-Oa-r06"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" id="a2j-CR-pxC">
+                    <rect key="frame" x="0.0" y="135" width="300" height="1"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+                <view contentMode="scaleToFill" id="2SY-WE-fK6" userLabel="Hline2">
+                    <rect key="frame" x="150" y="135" width="1" height="45"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.8980392157" green="0.8980392157" blue="0.8980392157" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btn1" destination="FhL-dz-2fZ" id="DW3-Hy-qaJ"/>
+                <outlet property="btn2" destination="Z91-bi-S6Z" id="QGd-0y-O9d"/>
+                <outlet property="btn3" destination="lLs-Zw-7LS" id="FIY-Y8-mu6"/>
+                <outlet property="hline1" destination="a2j-CR-pxC" id="1BQ-l2-kWg"/>
+                <outlet property="hline2" destination="2SY-WE-fK6" id="yhA-tS-W0T"/>
+                <outlet property="imgscrollview" destination="9dv-PM-Grs" id="NRT-Cf-G5A"/>
+                <outlet property="promoimg" destination="EBf-fq-th7" id="Sjf-do-glg"/>
+            </connections>
+            <point key="canvasLocation" x="140" y="156.5"/>
+        </view>
+    </objects>
+</document>

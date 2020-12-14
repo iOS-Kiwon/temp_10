@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="PMO_T2_A_Cell" rowHeight="236" id="b0C-dd-0VJ" customClass="PMO_T2_A_Cell" customModule="GSSHOP_Ent" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="188"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="b0C-dd-0VJ" id="xiF-ZD-TMo">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="188"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qnM-PZ-xy3" userLabel="Base View">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="188"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="NGj-JZ-M3k">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="187.5"/>
+                                <color key="backgroundColor" red="0.53333333329999999" green="0.53333333329999999" blue="0.53333333329999999" alpha="0.84705882349999995" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="NGj-JZ-M3k" secondAttribute="height" multiplier="2:1" id="euF-eS-I5J"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ElL-5r-Ix5">
+                                <rect key="frame" x="16" y="19" width="273" height="28"/>
+                                <accessibility key="accessibilityConfiguration">
+                                    <bool key="isElement" value="NO"/>
+                                </accessibility>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="28" id="fdx-DC-meR"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LA9-Sf-i7P">
+                                <rect key="frame" x="16" y="52" width="273" height="20.5"/>
+                                <accessibility key="accessibilityConfiguration">
+                                    <bool key="isElement" value="NO"/>
+                                </accessibility>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gjn-rP-6n9">
+                                <rect key="frame" x="331" y="18" width="28" height="28"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="28" id="TpJ-Mp-kn1"/>
+                                    <constraint firstAttribute="height" constant="28" id="fjv-w2-VIj"/>
+                                </constraints>
+                                <state key="normal" image="cell_zzim_wh"/>
+                                <state key="selected" image="cell_zzim_on"/>
+                                <connections>
+                                    <action selector="zzimBtnAction:" destination="b0C-dd-0VJ" eventType="touchUpInside" id="DkO-gX-nVA"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Orf-Pe-XpH">
+                                <rect key="frame" x="345" y="46" width="0.0" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mvT-C0-0sc">
+                                <rect key="frame" x="299" y="142" width="60" height="30"/>
+                                <color key="backgroundColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="0.29999999999999999" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="60" id="5Sj-1m-LUn"/>
+                                    <constraint firstAttribute="height" constant="30" id="iUt-sd-Q3S"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <state key="normal" title="더보기"/>
+                                <connections>
+                                    <action selector="buttonAction:" destination="b0C-dd-0VJ" eventType="touchUpInside" id="QB4-uO-3Sy"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="NGj-JZ-M3k" secondAttribute="trailing" id="2zl-TR-YzX"/>
+                            <constraint firstItem="NGj-JZ-M3k" firstAttribute="leading" secondItem="qnM-PZ-xy3" secondAttribute="leading" id="3wN-PM-MTF"/>
+                            <constraint firstItem="mvT-C0-0sc" firstAttribute="leading" secondItem="LA9-Sf-i7P" secondAttribute="trailing" constant="10" id="Bfw-Ew-NZU"/>
+                            <constraint firstItem="ElL-5r-Ix5" firstAttribute="leading" secondItem="NGj-JZ-M3k" secondAttribute="leading" constant="16" id="CGs-4v-7jj"/>
+                            <constraint firstAttribute="trailing" secondItem="mvT-C0-0sc" secondAttribute="trailing" constant="16" id="GpL-H7-eiR"/>
+                            <constraint firstItem="Orf-Pe-XpH" firstAttribute="top" secondItem="Gjn-rP-6n9" secondAttribute="bottom" id="Qi8-BY-Cx2"/>
+                            <constraint firstItem="Gjn-rP-6n9" firstAttribute="top" secondItem="NGj-JZ-M3k" secondAttribute="top" constant="18" id="TgO-JV-RZr"/>
+                            <constraint firstItem="Orf-Pe-XpH" firstAttribute="centerX" secondItem="Gjn-rP-6n9" secondAttribute="centerX" id="Wl2-vC-nry"/>
+                            <constraint firstAttribute="bottom" secondItem="mvT-C0-0sc" secondAttribute="bottom" constant="16" id="Y8i-xP-N2l"/>
+                            <constraint firstItem="mvT-C0-0sc" firstAttribute="leading" secondItem="ElL-5r-Ix5" secondAttribute="trailing" constant="10" id="psE-fY-LVd"/>
+                            <constraint firstItem="NGj-JZ-M3k" firstAttribute="trailing" secondItem="Gjn-rP-6n9" secondAttribute="trailing" constant="16" id="t2m-LN-TTx"/>
+                            <constraint firstItem="LA9-Sf-i7P" firstAttribute="top" secondItem="ElL-5r-Ix5" secondAttribute="bottom" constant="5" id="u1L-2Y-fjv"/>
+                            <constraint firstItem="ElL-5r-Ix5" firstAttribute="top" secondItem="NGj-JZ-M3k" secondAttribute="top" constant="19" id="v5p-ir-g8D"/>
+                            <constraint firstItem="LA9-Sf-i7P" firstAttribute="leading" secondItem="qnM-PZ-xy3" secondAttribute="leading" constant="16" id="vVi-AO-Pjj"/>
+                            <constraint firstItem="NGj-JZ-M3k" firstAttribute="top" secondItem="qnM-PZ-xy3" secondAttribute="top" id="y7K-bx-ADy"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="qnM-PZ-xy3" secondAttribute="bottom" id="4eY-jm-Nh1"/>
+                    <constraint firstItem="qnM-PZ-xy3" firstAttribute="leading" secondItem="xiF-ZD-TMo" secondAttribute="leading" id="WbR-UE-ivg"/>
+                    <constraint firstItem="qnM-PZ-xy3" firstAttribute="top" secondItem="xiF-ZD-TMo" secondAttribute="top" id="jZP-AP-5mX"/>
+                    <constraint firstAttribute="trailing" secondItem="qnM-PZ-xy3" secondAttribute="trailing" id="oe2-rB-oLR"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="imgView" destination="NGj-JZ-M3k" id="bHD-qq-tcb"/>
+                <outlet property="moreBtn" destination="mvT-C0-0sc" id="kYs-By-wRf"/>
+                <outlet property="promotionLbl1" destination="LA9-Sf-i7P" id="HK5-5U-djq"/>
+                <outlet property="titleLbl" destination="ElL-5r-Ix5" id="Dcp-CJ-9pj"/>
+                <outlet property="titleLblTop" destination="v5p-ir-g8D" id="LSR-YF-YhX"/>
+                <outlet property="zzimBtn" destination="Gjn-rP-6n9" id="cqJ-7k-ZUv"/>
+                <outlet property="zzimLbl" destination="Orf-Pe-XpH" id="YaQ-X1-iVG"/>
+            </connections>
+            <point key="canvasLocation" x="136.95652173913044" y="205.91517857142856"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="cell_zzim_on" width="28" height="28"/>
+        <image name="cell_zzim_wh" width="28" height="28"/>
+    </resources>
+</document>

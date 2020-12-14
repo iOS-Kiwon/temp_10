@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="iN0-l3-epB" customClass="WebPrdNaviBarView" customModule="GSSHOP" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="54"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sLp-go-OQ8" userLabel="Navi Base View">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="54"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oG3-sh-Ubs">
+                            <rect key="frame" x="0.0" y="0.0" width="414" height="54"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kh6-vC-jHh">
+                                    <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="44" id="LIj-gz-11b"/>
+                                        <constraint firstAttribute="width" constant="44" id="maa-GL-Opl"/>
+                                    </constraints>
+                                    <state key="normal" image="ic_home_black"/>
+                                    <connections>
+                                        <action selector="backHomeBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="1gB-LZ-dpr"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Di-TX-KnT">
+                                    <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="44" id="bGu-en-G0L"/>
+                                        <constraint firstAttribute="width" constant="44" id="bRk-lc-FhO"/>
+                                    </constraints>
+                                    <state key="normal" image="ic_back_nor_b"/>
+                                    <connections>
+                                        <action selector="backBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="BVl-dc-wH4"/>
+                                    </connections>
+                                </button>
+                                <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vgF-46-uFO">
+                                    <rect key="frame" x="272" y="0.0" width="132" height="44"/>
+                                    <subviews>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JkO-cI-m9k" userLabel="search">
+                                            <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="44" id="eAn-Vk-dH5"/>
+                                            </constraints>
+                                            <state key="normal" image="ic_search_black"/>
+                                            <connections>
+                                                <action selector="searchBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="C4j-YA-wDO"/>
+                                            </connections>
+                                        </button>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0TU-vK-4zw" userLabel="home">
+                                            <rect key="frame" x="44" y="0.0" width="44" height="44"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="44" id="xCm-WW-nAU"/>
+                                            </constraints>
+                                            <state key="normal" image="ic_home_black"/>
+                                            <connections>
+                                                <action selector="homeBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="hgZ-Rc-9PD"/>
+                                            </connections>
+                                        </button>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VXb-q0-chl" userLabel="cart">
+                                            <rect key="frame" x="88" y="0.0" width="44" height="44"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="44" id="gKv-jj-tIa"/>
+                                            </constraints>
+                                            <state key="normal" image="ic_shopping_cart_black"/>
+                                            <connections>
+                                                <action selector="cartBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="IYu-sy-Jfu"/>
+                                            </connections>
+                                        </button>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="44" id="p4N-OW-hPf"/>
+                                    </constraints>
+                                </stackView>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BdO-6p-jqW">
+                                    <rect key="frame" x="0.0" y="53" width="414" height="1"/>
+                                    <color key="backgroundColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="1" id="S0O-YY-vvt"/>
+                                    </constraints>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="vgF-46-uFO" firstAttribute="top" secondItem="oG3-sh-Ubs" secondAttribute="top" id="2nw-tp-TFs"/>
+                                <constraint firstItem="Kh6-vC-jHh" firstAttribute="top" secondItem="oG3-sh-Ubs" secondAttribute="top" id="4BD-ia-mPY"/>
+                                <constraint firstItem="3Di-TX-KnT" firstAttribute="top" secondItem="oG3-sh-Ubs" secondAttribute="top" id="9uB-ZJ-ZbO"/>
+                                <constraint firstItem="3Di-TX-KnT" firstAttribute="leading" secondItem="oG3-sh-Ubs" secondAttribute="leading" id="AzH-bo-vZz"/>
+                                <constraint firstAttribute="trailing" secondItem="vgF-46-uFO" secondAttribute="trailing" constant="10" id="Hg3-lh-uqU"/>
+                                <constraint firstItem="Kh6-vC-jHh" firstAttribute="leading" secondItem="oG3-sh-Ubs" secondAttribute="leading" id="Ki3-B3-Fgp"/>
+                                <constraint firstItem="BdO-6p-jqW" firstAttribute="leading" secondItem="oG3-sh-Ubs" secondAttribute="leading" id="U2O-QH-dCW"/>
+                                <constraint firstAttribute="bottom" secondItem="BdO-6p-jqW" secondAttribute="bottom" id="WCZ-xl-c6B"/>
+                                <constraint firstAttribute="trailing" secondItem="BdO-6p-jqW" secondAttribute="trailing" id="gwu-WA-44r"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="exk-Df-AZP">
+                            <rect key="frame" x="0.0" y="0.0" width="414" height="54"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6KW-7e-UMd">
+                                    <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="44" id="7B8-Kq-rXi"/>
+                                        <constraint firstAttribute="height" constant="44" id="wDk-ng-qKn"/>
+                                    </constraints>
+                                    <state key="normal" image="ic_home_nor_w"/>
+                                    <connections>
+                                        <action selector="backHomeBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="slQ-KR-vA9"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="B2c-Aw-pwl">
+                                    <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="44" id="0Q1-Hz-ru1"/>
+                                        <constraint firstAttribute="height" constant="44" id="9yB-3s-w7k"/>
+                                    </constraints>
+                                    <state key="normal" image="ic_back_nor_w"/>
+                                    <connections>
+                                        <action selector="backBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="Tcw-gI-qDW"/>
+                                    </connections>
+                                </button>
+                                <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="B1Q-GR-2qK">
+                                    <rect key="frame" x="272" y="0.0" width="132" height="44"/>
+                                    <subviews>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3zg-xy-j8N" userLabel="search">
+                                            <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="44" id="lH7-rn-sla"/>
+                                            </constraints>
+                                            <state key="normal" image="ic_search_nor_w"/>
+                                            <connections>
+                                                <action selector="searchBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="lAg-QD-CEd"/>
+                                            </connections>
+                                        </button>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IGj-7W-Kku" userLabel="home">
+                                            <rect key="frame" x="44" y="0.0" width="44" height="44"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="44" id="KfY-9D-dgd"/>
+                                            </constraints>
+                                            <state key="normal" image="ic_home_nor_w"/>
+                                            <connections>
+                                                <action selector="homeBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="EmP-gM-zts"/>
+                                            </connections>
+                                        </button>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="glb-44-TWN" userLabel="cart">
+                                            <rect key="frame" x="88" y="0.0" width="44" height="44"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="44" id="4pn-WP-Ree"/>
+                                            </constraints>
+                                            <state key="normal" image="ic_cart_nor_w"/>
+                                            <connections>
+                                                <action selector="cartBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="PCE-89-k98"/>
+                                            </connections>
+                                        </button>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="44" id="WwB-IN-mN4"/>
+                                    </constraints>
+                                </stackView>
+                            </subviews>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="6KW-7e-UMd" firstAttribute="top" secondItem="exk-Df-AZP" secondAttribute="top" id="0Ci-zu-cG4"/>
+                                <constraint firstItem="B1Q-GR-2qK" firstAttribute="top" secondItem="exk-Df-AZP" secondAttribute="top" id="9Fx-gT-pow"/>
+                                <constraint firstItem="6KW-7e-UMd" firstAttribute="leading" secondItem="exk-Df-AZP" secondAttribute="leading" id="SLb-ka-Nfr"/>
+                                <constraint firstItem="B2c-Aw-pwl" firstAttribute="leading" secondItem="exk-Df-AZP" secondAttribute="leading" id="WHH-95-tiy"/>
+                                <constraint firstItem="B2c-Aw-pwl" firstAttribute="top" secondItem="exk-Df-AZP" secondAttribute="top" id="Xk8-AC-HcD"/>
+                                <constraint firstAttribute="trailing" secondItem="B1Q-GR-2qK" secondAttribute="trailing" constant="10" id="lj9-we-nFa"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EjF-gr-U39">
+                            <rect key="frame" x="388" y="4" width="20" height="20"/>
+                            <color key="backgroundColor" systemColor="systemRedColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="20" id="6IV-E0-gz5"/>
+                                <constraint firstAttribute="height" constant="20" id="kH8-NG-r5M"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="oG3-sh-Ubs" secondAttribute="bottom" id="1n3-Jc-jKt"/>
+                        <constraint firstItem="exk-Df-AZP" firstAttribute="top" secondItem="sLp-go-OQ8" secondAttribute="top" id="GWk-es-Azs"/>
+                        <constraint firstAttribute="trailing" secondItem="oG3-sh-Ubs" secondAttribute="trailing" id="JxI-b0-7m1"/>
+                        <constraint firstItem="EjF-gr-U39" firstAttribute="top" secondItem="sLp-go-OQ8" secondAttribute="top" constant="4" id="OJS-7I-V2q"/>
+                        <constraint firstAttribute="bottom" secondItem="exk-Df-AZP" secondAttribute="bottom" id="P2m-ns-gKz"/>
+                        <constraint firstAttribute="trailing" secondItem="exk-Df-AZP" secondAttribute="trailing" id="UUx-Cl-xMc"/>
+                        <constraint firstItem="exk-Df-AZP" firstAttribute="leading" secondItem="sLp-go-OQ8" secondAttribute="leading" id="WHi-R0-Dno"/>
+                        <constraint firstItem="oG3-sh-Ubs" firstAttribute="top" secondItem="sLp-go-OQ8" secondAttribute="top" id="hKr-Mu-Z4q"/>
+                        <constraint firstAttribute="trailing" secondItem="EjF-gr-U39" secondAttribute="trailing" constant="6" id="ske-cN-o0c"/>
+                        <constraint firstItem="oG3-sh-Ubs" firstAttribute="leading" secondItem="sLp-go-OQ8" secondAttribute="leading" id="wQJ-o7-ZgR"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zLB-Io-2QI">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="54"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.5" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="zLB-Io-2QI" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="0G1-9a-rhF"/>
+                <constraint firstItem="zLB-Io-2QI" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="JRF-yg-9Dh"/>
+                <constraint firstAttribute="trailing" secondItem="sLp-go-OQ8" secondAttribute="trailing" id="Lo8-6l-YDS"/>
+                <constraint firstAttribute="bottom" secondItem="zLB-Io-2QI" secondAttribute="bottom" id="caR-rN-I0N"/>
+                <constraint firstItem="sLp-go-OQ8" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="hoU-f4-scc"/>
+                <constraint firstAttribute="trailing" secondItem="zLB-Io-2QI" secondAttribute="trailing" id="iq1-Dj-Nn7"/>
+                <constraint firstAttribute="bottom" secondItem="sLp-go-OQ8" secondAttribute="bottom" id="x8b-VY-Pyb"/>
+                <constraint firstItem="sLp-go-OQ8" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="xMY-jx-O2d"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="backBlackBtn" destination="3Di-TX-KnT" id="rSq-Ue-Zjg"/>
+                <outlet property="backHomeBlackBtn" destination="Kh6-vC-jHh" id="oPf-vI-03t"/>
+                <outlet property="backHomeWhiteBtn" destination="6KW-7e-UMd" id="k3a-Rf-K3i"/>
+                <outlet property="backWhiteBtn" destination="B2c-Aw-pwl" id="ode-pS-gEB"/>
+                <outlet property="cartBadgeView" destination="EjF-gr-U39" id="wC5-gD-q21"/>
+                <outlet property="dimView" destination="zLB-Io-2QI" id="ax7-RK-bD3"/>
+                <outlet property="naviBarBackground" destination="sLp-go-OQ8" id="BdG-lW-fMB"/>
+                <outlet property="naviBarBlackView" destination="oG3-sh-Ubs" id="Qq7-Jc-9cN"/>
+                <outlet property="naviBarWhiteView" destination="exk-Df-AZP" id="pbk-ah-t9K"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="-129.24107142857142"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_back_nor_b" width="28" height="28"/>
+        <image name="ic_back_nor_w" width="28" height="28"/>
+        <image name="ic_cart_nor_w" width="28" height="28"/>
+        <image name="ic_home_black" width="28" height="28"/>
+        <image name="ic_home_nor_w" width="28" height="28"/>
+        <image name="ic_search_black" width="28" height="28"/>
+        <image name="ic_search_nor_w" width="28" height="28"/>
+        <image name="ic_shopping_cart_black" width="28" height="28"/>
+    </resources>
+</document>

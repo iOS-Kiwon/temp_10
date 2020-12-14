@@ -1,0 +1,8077 @@
+{
+  "banner": {
+    "imageUrl": null,
+    "linkUrl": null,
+    "title": null,
+    "wiseLog": null,
+    "height": null
+  },
+  "tvLiveBanner": null,
+  "productList": [
+    {
+      "moduleType": "MC_FLX_CTGR_C_02",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "/planPrd/planPrd.jsp?planseq=147741&mseq=A00451-BB-1",
+      "viewType": "PMO_T3_IMG",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-BB-1",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "http://image.gsshop.com/mi09/just1day/ctgr/46273495_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/planPrd/planPrd.jsp?planseq=147741&mseq=A00451-BB-1&fromApp=Y",
+      "hasVod": false,
+      "productName": "[LG전자] 단 하루! 2019년 인기가전 모음전",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "PLAN",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_02",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "/prd/prd.gs?prdid=54360582&mseq=A00451-BB-2",
+      "viewType": "PMO_T3_IMG",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-BB-2",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "http://image.gsshop.com/mi09/just1day/ctgr/46273497_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/prd/prd.gs?prdid=54360582&mseq=A00451-BB-2&fromApp=Y",
+      "hasVod": false,
+      "productName": "원데이원픽",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "NO",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_02",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "/prd/prd.gs?prdid=28492966&mseq=A00451-BB-3",
+      "viewType": "PMO_T3_IMG",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-BB-3",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "http://image.gsshop.com/mi09/just1day/ctgr/46273498_01.jpg",
+      "linkUrl": "http://sm14.gsshop.com/prd/prd.gs?prdid=28492966&mseq=A00451-BB-3&fromApp=Y",
+      "hasVod": false,
+      "productName": "디지털",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "NO",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_TXT_IMG_LNK_GBA",
+      "wiseLog": "",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "",
+      "linkUrl": "",
+      "hasVod": false,
+      "productName": "매직 브랜드쇼",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "TITL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": null,
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "N",
+      "infoBadge": null,
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "Y",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "9개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "179,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54203040",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-1",
+      "prdid": 0,
+      "dealNo": 54203040,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/532/2019103111474728166.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54203040&mseq=A00451-L-1&fromApp=Y",
+      "hasVod": false,
+      "productName": "코지마 발마사지기/안마의자 A급, S급리퍼만 모아모아",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "179,000",
+      "basePrice": "0",
+      "saleQuantity": "9",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "105",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "코지마",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "109개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "20,320원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54290230",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-2",
+      "prdid": 0,
+      "dealNo": 54290230,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/542/201912217419947476.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54290230&mseq=A00451-L-2&fromApp=Y",
+      "hasVod": false,
+      "productName": "[매그제이] 겨울준비도 멋스럽게! 매그제이가 준비한 겨울 신상!",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "20,320",
+      "basePrice": "0",
+      "saleQuantity": "109",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "191",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.3",
+      "brandNm": "매그제이",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "12,098개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "99,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=33497950",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-3",
+      "prdid": 0,
+      "dealNo": 33497950,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/334/20191205104609783477.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=33497950&mseq=A00451-L-3&fromApp=Y",
+      "hasVod": false,
+      "productName": "[보이로]100년 독일기술 보이로 전기요#순면#안전#포근",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "99,000",
+      "basePrice": "0",
+      "saleQuantity": "12,098",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "282",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "보이로",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "3,941개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "8,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54205298",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-4",
+      "prdid": 0,
+      "dealNo": 54205298,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/542/2019112820324098603.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54205298&mseq=A00451-L-4&fromApp=Y",
+      "hasVod": false,
+      "productName": "올리브영 연말결산SALE 최대 60% #20주년 초호화캐스팅",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "8,900",
+      "basePrice": "0",
+      "saleQuantity": "3,941",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "3714",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "올리브영",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "937개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "8,720원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54328145",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-5",
+      "prdid": 0,
+      "dealNo": 54328145,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/543/20191202091428178831.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54328145&mseq=A00451-L-5&fromApp=Y",
+      "hasVod": false,
+      "productName": "[더반찬]10%적립 홈파티를위한 메인요리 특가!",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "8,720",
+      "basePrice": "0",
+      "saleQuantity": "937",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "F",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "31590",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.5",
+      "brandNm": "더반찬",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_TXT_IMG_LNK_GBA",
+      "wiseLog": "",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "",
+      "linkUrl": "",
+      "hasVod": false,
+      "productName": "Welcome! 브랜드",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "TITL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": null,
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "N",
+      "infoBadge": null,
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "Y",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "255개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "3,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53925864",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-6",
+      "prdid": 0,
+      "dealNo": 53925864,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/539/20191129145728952471.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53925864&mseq=A00451-L-6&fromApp=Y",
+      "hasVod": false,
+      "productName": "한*대첩 우승 김정순 명인의 대구매운탕/지리탕 GS입점특가",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "3,900",
+      "basePrice": "0",
+      "saleQuantity": "255",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "F",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "14",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.4",
+      "brandNm": "김정순명인",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "41개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "184,800원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53934737",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-7",
+      "prdid": 0,
+      "dealNo": 53934737,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/539/2019124155639360013.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53934737&mseq=A00451-L-7&fromApp=Y",
+      "hasVod": false,
+      "productName": "[골든구스 공식]키즈런칭/NEW 20SS/BEST스니커즈~40%OFF(12/2~9)",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "184,800",
+      "basePrice": "0",
+      "saleQuantity": "41",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "2",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.5",
+      "brandNm": "골든구스",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "292개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "11,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54176214",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-8",
+      "prdid": 0,
+      "dealNo": 54176214,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/541/201911279232702908.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54176214&mseq=A00451-L-8&fromApp=Y",
+      "hasVod": false,
+      "productName": "★설현크림★파티온 GS 런칭!! 단독할인+하나만사도 2종증정",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "11,900",
+      "basePrice": "0",
+      "saleQuantity": "292",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "18",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.5",
+      "brandNm": "파티온",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "965개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "26,820원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53805038",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-9",
+      "prdid": 0,
+      "dealNo": 53805038,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/538/2019122171512613624.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53805038&mseq=A00451-L-9&fromApp=Y",
+      "hasVod": false,
+      "productName": "[플루크 아우터 특집] 최저가 Plus + 10% 특가혜택 / 3일간",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "26,820",
+      "basePrice": "0",
+      "saleQuantity": "965",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "1485",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.5",
+      "brandNm": "플루크",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "3,737개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "53,700원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53857608",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-10",
+      "prdid": 0,
+      "dealNo": 53857608,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/538/20191114183031445865.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53857608&mseq=A00451-L-10&fromApp=Y",
+      "hasVod": false,
+      "productName": "[단하루]바자르 홈쇼핑침구세트+카페트 5만원대(균일가)~",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "53,700",
+      "basePrice": "0",
+      "saleQuantity": "3,737",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "4685",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "바자르",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_TXT_IMG_LNK_GBA",
+      "wiseLog": "",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "",
+      "linkUrl": "",
+      "hasVod": false,
+      "productName": "백화점 BEST",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "TITL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": null,
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "N",
+      "infoBadge": null,
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "Y",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "138개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "126,750원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54339910",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-11",
+      "prdid": 0,
+      "dealNo": 54339910,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/543/20191202133130480190.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54339910&mseq=A00451-L-11&fromApp=Y",
+      "hasVod": false,
+      "productName": "[아이더]성인/키즈 인기패딩상품 제안전! #롱패딩#숏패딩",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "126,750",
+      "basePrice": "0",
+      "saleQuantity": "138",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "62",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "아이더",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "27,092개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "46,800원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=35684370",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-12",
+      "prdid": 0,
+      "dealNo": 35684370,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/356/20191128104238550951.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=35684370&mseq=A00451-L-12&fromApp=Y",
+      "hasVod": false,
+      "productName": "[나이키] 겨울 아우터/후디/크루/맥스95 외 인기제품!!",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "46,800",
+      "basePrice": "0",
+      "saleQuantity": "27,092",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "549",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "나이키",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "458개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "70,200원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54395190",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-13",
+      "prdid": 0,
+      "dealNo": 54395190,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/539/20191118142626645249.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54395190&mseq=A00451-L-13&fromApp=Y",
+      "hasVod": false,
+      "productName": "키엘/랑콤/비오템/비오템옴므/슈에무라♥ 12월 한정세트",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "70,200",
+      "basePrice": "0",
+      "saleQuantity": "458",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "13022",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.9",
+      "brandNm": "키엘",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "1,364개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "76,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=29818625",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-14",
+      "prdid": 0,
+      "dealNo": 29818625,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/298/20191203135432906302.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=29818625&mseq=A00451-L-14&fromApp=Y",
+      "hasVod": false,
+      "productName": "[스톤헨지/뚜아후아外]시계/팔찌/귀걸이/목걸이 BEST ITEM",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "76,000",
+      "basePrice": "0",
+      "saleQuantity": "1,364",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "89",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "뚜아후아",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_11",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "10개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "48,000원",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54396272",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-L-15",
+      "prdid": 0,
+      "dealNo": 54396272,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/543/20191204110412738178.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54396272&mseq=A00451-L-15&fromApp=Y",
+      "hasVod": false,
+      "productName": "[닥스셔츠] 겨울남성필수템! 기모셔츠 인기상품모음!",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "48,000",
+      "basePrice": "0",
+      "saleQuantity": "10",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "16",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.2",
+      "brandNm": "닥스셔츠",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_12",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "",
+      "viewType": "BAN_TXT_IMG_LNK_GBA",
+      "wiseLog": "",
+      "prdid": 0,
+      "dealNo": 0,
+      "imageUrl": "",
+      "linkUrl": "",
+      "hasVod": false,
+      "productName": "인기브랜드 BEST",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "0",
+      "basePrice": "0",
+      "saleQuantity": "0",
+      "saleQuantityText": "첫구매 기회!",
+      "saleQuantitySubText": "",
+      "productType": "",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "TITL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": null,
+      "wiseLog2": "",
+      "quickShippingYn": "",
+      "freeDlvYn": "",
+      "adultCertYn": "",
+      "no1DealYn": "N",
+      "infoBadge": null,
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "",
+      "bdrBottomYn": "Y",
+      "reviewAverage": "null",
+      "brandNm": "",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "1,679개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "9,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53775743",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-1",
+      "prdid": 0,
+      "dealNo": 53775743,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/537/2019124162039146268.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53775743&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-1&fromApp=Y",
+      "hasVod": false,
+      "productName": "제이준 FINAL SALE★인기상품1+1★심콩앰플 증정/최대 77% SALE",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "9,900",
+      "basePrice": "0",
+      "saleQuantity": "1,679",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "5588",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "JAYJUN",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "32,424개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "12,500원",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=50329111",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-2",
+      "prdid": 0,
+      "dealNo": 50329111,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/503/2019124135742854371.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=50329111&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-2&fromApp=Y",
+      "hasVod": false,
+      "productName": "★12/5 단하루★ 놀부 부대찌개3팩+라면사리1개 29%세일",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "12,500",
+      "basePrice": "0",
+      "saleQuantity": "32,424",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "F",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "11622",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.5",
+      "brandNm": "놀부",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "2,804개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "231,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=50762154",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-3",
+      "prdid": 0,
+      "dealNo": 50762154,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/507/201911151651342802.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=50762154&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-3&fromApp=Y",
+      "hasVod": false,
+      "productName": "[경동나비엔]프리미엄 온수매트 쾌적수면/빠른난방/셀프이온케어",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "231,000",
+      "basePrice": "0",
+      "saleQuantity": "2,804",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "385",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "경동 나비엔",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "4,260개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "10,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=35396341",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-4",
+      "prdid": 0,
+      "dealNo": 35396341,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/353/20191123231016528932.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=35396341&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-4&fromApp=Y",
+      "hasVod": false,
+      "productName": "[르크루제] 크리스마스 특별기획전 + 사은품증정 + 이주특가상품",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "10,000",
+      "basePrice": "0",
+      "saleQuantity": "4,260",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "235",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "르크루제",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "6,013개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "10,000원",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=50084037",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-5",
+      "prdid": 0,
+      "dealNo": 50084037,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/500/2019124174752849098.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=50084037&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-5&fromApp=Y",
+      "hasVod": false,
+      "productName": "[컴포트랩]하루만! 만원균일가+무료배송 컴포트 브라렛/팬티1+1",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "10,000",
+      "basePrice": "0",
+      "saleQuantity": "6,013",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "2168",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "컴포트랩",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "7,853개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "8,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=50895866",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-6",
+      "prdid": 0,
+      "dealNo": 50895866,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/508/201911251076774065.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=50895866&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-6&fromApp=Y",
+      "hasVod": false,
+      "productName": "[심플리쿡] 맛있는 간편요리 스테이크 감바스 밀푀유나베 外",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "8,900",
+      "basePrice": "0",
+      "saleQuantity": "7,853",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "F",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "2283",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.5",
+      "brandNm": "심플리쿡",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "642개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "9,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53844693",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-7",
+      "prdid": 0,
+      "dealNo": 53844693,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/538/20191113110806520635.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53844693&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-7&fromApp=Y",
+      "hasVod": false,
+      "productName": "[플레이도우]아이에게도 최고의 선물! 칼라도우 점토놀이!",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "9,900",
+      "basePrice": "0",
+      "saleQuantity": "642",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "129",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "해즈브로",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "112,939개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "2,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=38011628",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-8",
+      "prdid": 0,
+      "dealNo": 38011628,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/380/20190626172327874715.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=38011628&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-8&fromApp=Y",
+      "hasVod": false,
+      "productName": "[전상품 무료배송] 99마트 인기생활소품 베스트컬렉션",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "2,900",
+      "basePrice": "0",
+      "saleQuantity": "112,939",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "66931",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "엘홈",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "9,006개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "17,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=35199820",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-9",
+      "prdid": 0,
+      "dealNo": 35199820,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/351/20190207162005268530.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=35199820&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-9&fromApp=Y",
+      "hasVod": false,
+      "productName": "[만석닭강정] 오직GS에서만 보통맛/핫끈한맛 예약배송",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "17,000",
+      "basePrice": "0",
+      "saleQuantity": "9,006",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "F",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "130777",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "만석닭강정",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "417개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "99,750원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=37890478",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-10",
+      "prdid": 0,
+      "dealNo": 37890478,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/378/20191128155159238233.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=37890478&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-10&fromApp=Y",
+      "hasVod": false,
+      "productName": "[MCM]시즌오프 UP TO 40% 지갑/핸드백/백팩/클러치/쇼퍼백",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "99,750",
+      "basePrice": "0",
+      "saleQuantity": "417",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "4",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.3",
+      "brandNm": "MCM",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "4,794개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "31,280원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=34749480",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-11",
+      "prdid": 0,
+      "dealNo": 34749480,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/347/201912414116575960.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=34749480&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-11&fromApp=Y",
+      "hasVod": false,
+      "productName": "겨울 다운은 역시 K2 국민 아웃도어!~80%OFF+쿠폰+부츠특가★",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "31,280",
+      "basePrice": "0",
+      "saleQuantity": "4,794",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "157",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "K2",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "2,764개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "15,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53149493",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-12",
+      "prdid": 0,
+      "dealNo": 53149493,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/531/2019124144236276789.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53149493&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-12&fromApp=Y",
+      "hasVod": false,
+      "productName": "[올리비아로렌] 연말결산 겨울 아이템 시즌오프 UP TO 92% SALE",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "15,000",
+      "basePrice": "0",
+      "saleQuantity": "2,764",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "135",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.3",
+      "brandNm": "올리비아로렌",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "90개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "320,690원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54262404",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-13",
+      "prdid": 0,
+      "dealNo": 54262404,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/542/20191128184113867915.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54262404&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-13&fromApp=Y",
+      "hasVod": false,
+      "productName": "[슈콤마보니] 송혜교 추천 연말 데일리슈즈 모음전",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "320,690",
+      "basePrice": "0",
+      "saleQuantity": "90",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          },
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무이자",
+            "type": "interestFree",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "168",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "슈콤마보니",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        },
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무이자",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "63개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "7,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54360952",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-14",
+      "prdid": 0,
+      "dealNo": 54360952,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/543/2019123183451710897.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54360952&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-14&fromApp=Y",
+      "hasVod": false,
+      "productName": "[12/5단하루★12%즉시할인+신한7%]데코뷰 침구/방한커튼/러그",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "7,900",
+      "basePrice": "0",
+      "saleQuantity": "63",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "2027",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "데코뷰",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "1,114개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "2,500원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54006516",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-15",
+      "prdid": 0,
+      "dealNo": 54006516,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/540/2019112794921677219.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54006516&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-15&fromApp=Y",
+      "hasVod": false,
+      "productName": "[롭스]  美친세일 최대70% 내일이 마지막",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "2,500",
+      "basePrice": "0",
+      "saleQuantity": "1,114",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "F",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "70",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "롭스",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "4.6점",
+      "addTextRight": "(135)",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "",
+      "deal": false,
+      "playUrl": "/prd/prd.gs?prdid=51044649",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-16",
+      "prdid": 0,
+      "dealNo": 51044649,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/image/51/04/51044649_B1.jpg",
+      "linkUrl": "http://sm14.gsshop.com/prd/prd.gs?prdid=51044649&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-16&fromApp=Y",
+      "hasVod": false,
+      "productName": "내셔널지오그래픽 N194UDW980 바이슨 RDS 숏패딩 CARBON BLACK",
+      "promotionName": "",
+      "discountRate": 15,
+      "discountRateText": "",
+      "salePrice": "219,000",
+      "basePrice": "259,000",
+      "saleQuantity": "964",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "PRD",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "135",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "내셔널지오그래픽",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "100개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "318,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53325992",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-17",
+      "prdid": 0,
+      "dealNo": 53325992,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/533/20191205085809870938.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53325992&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-17&fromApp=Y",
+      "hasVod": false,
+      "productName": "[막스마라/프라다외]해외브랜드 코트/패딩/지갑등 BEST ITEM",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "318,000",
+      "basePrice": "0",
+      "saleQuantity": "100",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "14",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "프라다",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "223개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "15,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54062839",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-18",
+      "prdid": 0,
+      "dealNo": 54062839,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/540/20191121151450761104.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54062839&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-18&fromApp=Y",
+      "hasVod": false,
+      "productName": "★NII/크리스크리스티 겨울BEST 아우터/맨투맨/니트/ACC",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "15,000",
+      "basePrice": "0",
+      "saleQuantity": "223",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "33",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.2",
+      "brandNm": "NII",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "312개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "41,800원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54395199",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-19",
+      "prdid": 0,
+      "dealNo": 54395199,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/539/20191118142722249984.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54395199&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-19&fromApp=Y",
+      "hasVod": false,
+      "productName": "색조 추천♥ 디올/에스티로더/지방시/베네피트/정샘물 외",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "41,800",
+      "basePrice": "0",
+      "saleQuantity": "312",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "29198",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.9",
+      "brandNm": "DIOR",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "110개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "6,240원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53754082",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-20",
+      "prdid": 0,
+      "dealNo": 53754082,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/537/20191111142700283356.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53754082&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-20&fromApp=Y",
+      "hasVod": false,
+      "productName": "[프렌치캣] 겨울스타일링! 우리공주 더 사랑스럽게! FW세일전",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "6,240",
+      "basePrice": "0",
+      "saleQuantity": "110",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "5",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "프렌치캣",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "2,214개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "333,640원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=37114497",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-21",
+      "prdid": 0,
+      "dealNo": 37114497,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/371/20191203160253913120.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=37114497&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-21&fromApp=Y",
+      "hasVod": false,
+      "productName": "노스페이스 성인,키즈 롱다운/패딩/방한화 인기상품",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "333,640",
+      "basePrice": "0",
+      "saleQuantity": "2,214",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "35",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "노스페이스",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "330개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "298,800원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=51305197",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-22",
+      "prdid": 0,
+      "dealNo": 51305197,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/513/20191204173603185370.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=51305197&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-22&fromApp=Y",
+      "hasVod": false,
+      "productName": "[리가/폴뮤지엄/진도]프리미엄모피연합 아우터/ACC",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "298,800",
+      "basePrice": "0",
+      "saleQuantity": "330",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "154",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "시슬리",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "4,954개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "22,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54362520",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-23",
+      "prdid": 0,
+      "dealNo": 54362520,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/543/20191203135052953506.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54362520&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-23&fromApp=Y",
+      "hasVod": false,
+      "productName": "12월 제철 먹거리, 굴/꼬막/과메기/한라봉/딸기/귤/단감/은행 外",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "22,900",
+      "basePrice": "0",
+      "saleQuantity": "4,954",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "F",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "93305",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "다농이네",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "13개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "930,300원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53853137",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-24",
+      "prdid": 0,
+      "dealNo": 53853137,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/538/2019124155125841925.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53853137&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-24&fromApp=Y",
+      "hasVod": false,
+      "productName": "[몽클레어 外] 당신의 프리미엄 라이프에 맞는 프리미엄 아우터 ",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "930,300",
+      "basePrice": "0",
+      "saleQuantity": "13",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "세계로배송",
+            "type": "7a111111",
+            "styleType": ""
+          }
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "0",
+      "bdrBottomYn": "",
+      "reviewAverage": "0.0",
+      "brandNm": "헤론프레스톤",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "37개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "1,029,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=53543674",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-25",
+      "prdid": 0,
+      "dealNo": 53543674,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/535/2019112010232488128.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=53543674&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-25&fromApp=Y",
+      "hasVod": false,
+      "productName": "[리바트키친] 올리빈/뮬리 싱크대+블랙침니후드+히터(~12/8)",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "1,029,000",
+      "basePrice": "0",
+      "saleQuantity": "37",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무이자",
+            "type": "interestFree",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "680",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "리바트",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무이자",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "27개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "169,000원",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54203126",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-26",
+      "prdid": 0,
+      "dealNo": 54203126,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/542/2019112910191727524.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54203126&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-26&fromApp=Y",
+      "hasVod": false,
+      "productName": "코지마 인기소품 모음전",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "169,000",
+      "basePrice": "0",
+      "saleQuantity": "27",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "321",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "코지마",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "3,182개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "45,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=50980370",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-27",
+      "prdid": 0,
+      "dealNo": 50980370,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/509/2019102161537698551.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=50980370&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-27&fromApp=Y",
+      "hasVod": false,
+      "productName": "[에넥스] 붙박이장/소파/화장대 외 BEST&NEW 초특가",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "45,000",
+      "basePrice": "0",
+      "saleQuantity": "3,182",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "19260",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "에넥스",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "2,515개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "53,490원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=54362759",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-28",
+      "prdid": 0,
+      "dealNo": 54362759,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/543/20191203160857075192.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=54362759&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-28&fromApp=Y",
+      "hasVod": false,
+      "productName": "[트렌드#] 겨울 필수템! 최저가 도전! ★New&Hot ITEM",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "53,490",
+      "basePrice": "0",
+      "saleQuantity": "2,515",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "23223",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.3",
+      "brandNm": "이쁘다",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "6,482개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "55,100원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=25217057",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-29",
+      "prdid": 0,
+      "dealNo": 25217057,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/252/2019112614411876993.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=25217057&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-29&fromApp=Y",
+      "hasVod": false,
+      "productName": "[먼싱웨어]겨울 골프웨어 신상BEST+이모티콘 무료증정! ",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "55,100",
+      "basePrice": "0",
+      "saleQuantity": "6,482",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "59",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.5",
+      "brandNm": "먼싱웨어",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "20,082개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "138,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=22157798",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-30",
+      "prdid": 0,
+      "dealNo": 22157798,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/221/20191113103952574210.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=22157798&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-30&fromApp=Y",
+      "hasVod": false,
+      "productName": "[이화에스엠피] 숀리,아디다스 유산소 기구/근력용품 모음",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "138,000",
+      "basePrice": "0",
+      "saleQuantity": "20,082",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "7369",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.8",
+      "brandNm": "이화에스엠피",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "13,394개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "41,060원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=35759080",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-31",
+      "prdid": 0,
+      "dealNo": 35759080,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/357/20191011095505543803.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=35759080&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-31&fromApp=Y",
+      "hasVod": false,
+      "productName": "[카파] 2019년 겨울 판매BEST 양말/슈즈/맨투맨/기모레깅스",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "41,060",
+      "basePrice": "0",
+      "saleQuantity": "13,394",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "[백화점]",
+            "type": "A06E18",
+            "styleType": ""
+          }
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "16",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.3",
+      "brandNm": "카파",
+      "source": {
+        "seq": 0,
+        "imgUrl": "",
+        "text": "백화점",
+        "type": "a3111111",
+        "styleType": "BOLD"
+      },
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "15,880개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "99,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=35441093",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-32",
+      "prdid": 0,
+      "dealNo": 35441093,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/354/20190816171753851221.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=35441093&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-32&fromApp=Y",
+      "hasVod": false,
+      "productName": "[에어프라이어]인기 TOP★에어프라이어 총 집합 #고퀄#GS특가",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "99,000",
+      "basePrice": "0",
+      "saleQuantity": "15,880",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "5397",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.7",
+      "brandNm": "노와",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "6,144개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "135,520원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=29988622",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-33",
+      "prdid": 0,
+      "dealNo": 29988622,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/299/20181120152107260132.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=29988622&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-33&fromApp=Y",
+      "hasVod": false,
+      "productName": "[마이크로킥보드]우리아이를 위한 최고의 선물 #국민킥보드",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "135,520",
+      "basePrice": "0",
+      "saleQuantity": "6,144",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "644",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.9",
+      "brandNm": "마이크로킥보드",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "1,529개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "346,400원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=35500662",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-34",
+      "prdid": 0,
+      "dealNo": 35500662,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/355/20190222134705765775.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=35500662&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-34&fromApp=Y",
+      "hasVod": false,
+      "productName": "[밸런스핏] 이제 누워서 운동하세요! 한은정의 실내 헬스운동기",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "346,400",
+      "basePrice": "0",
+      "saleQuantity": "1,529",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "213",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.6",
+      "brandNm": "밸런스핏",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "1,939개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "11,900원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=37872243",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-35",
+      "prdid": 0,
+      "dealNo": 37872243,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/378/201912414503171927.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=37872243&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-35&fromApp=Y",
+      "hasVod": false,
+      "productName": "인블리스 추천 BEST 섬유유연제/세탁세제/주방세제",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "11,900",
+      "basePrice": "0",
+      "saleQuantity": "1,939",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "804",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.9",
+      "brandNm": "인블리스",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "28,687개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "99,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=28492966",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-36",
+      "prdid": 0,
+      "dealNo": 28492966,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/284/20191119180947222126.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=28492966&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-36&fromApp=Y",
+      "hasVod": false,
+      "productName": "[윤남텍/에비에어 외] GS 최고인기 가습기 특가전",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "99,000",
+      "basePrice": "0",
+      "saleQuantity": "28,687",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "44784",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.9",
+      "brandNm": "에비에어",
+      "source": null,
+      "allBenefit": [
+
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    },
+    {
+      "moduleType": "MC_FLX_CTGR_C_13",
+      "exposePriceText": "원~",
+      "etcText1": "",
+      "pmoPrdTypList": [
+
+      ],
+      "rtamtCd": "",
+      "rtamt": 0,
+      "addTextLeft": "",
+      "addTextRight": "2,808개 구매중",
+      "moreBtnUrl": "",
+      "rentalPriceText": "",
+      "rentalPrice": "0",
+      "rentalText": "",
+      "mnlyRentCostVal": "450,000원~",
+      "deal": true,
+      "playUrl": "/deal/deal.gs?dealNo=33519831",
+      "viewType": "PRD_1_640",
+      "wiseLog": "http://m.gsshop.com/app/statistic/wiseLog?mseq=A00451-RL-37",
+      "prdid": 0,
+      "dealNo": 33519831,
+      "imageUrl": "https://cdnplus-poc-svc1.speedycat.co.kr/mi09/deal/dealno/335/2019111410258834446.jpg",
+      "linkUrl": "http://sm14.gsshop.com/deal/deal.gs?dealNo=33519831&arm=2-U-U&expId=flxbl_743&mseq=A00451-RL-37&fromApp=Y",
+      "hasVod": false,
+      "productName": "[싸이벡스&지비] 싸이벡스&지비 BEST 카시트/유모차 모음전!",
+      "promotionName": "",
+      "discountRate": 0,
+      "discountRateText": "",
+      "salePrice": "450,000",
+      "basePrice": "0",
+      "saleQuantity": "2,808",
+      "saleQuantityText": "개",
+      "saleQuantitySubText": "구매중",
+      "productType": "P",
+      "isTempOut": false,
+      "isTempOutTime": 0,
+      "dealProductType": "Product",
+      "startDate": 0,
+      "endDate": 0,
+      "sectionId": "",
+      "prdGbnCd": "DEAL",
+      "cateGb": "",
+      "isNo1Schedule": "",
+      "no1ScheduleUrl": "",
+      "dealType": "Deal",
+      "subContentChild": [
+
+      ],
+      "subProductList": [
+
+      ],
+      "imgBadgeCorner": {
+        "LT": [
+
+        ],
+        "RT": [
+
+        ],
+        "LB": [
+
+        ],
+        "RB": [
+          {
+            "seq": 0,
+            "imgUrl": "",
+            "text": "무료배송",
+            "type": "freeDlv",
+            "styleType": ""
+          }
+        ],
+        "ALL": [
+
+        ]
+      },
+      "wiseLog2": "",
+      "quickShippingYn": "N",
+      "freeDlvYn": "Y",
+      "adultCertYn": "N",
+      "no1DealYn": "N",
+      "infoBadge": {
+        "TF": [
+
+        ],
+        "VT": [
+
+        ]
+      },
+      "valueText": "",
+      "valueInfo": "",
+      "broadTimeText": "",
+      "adDealYn": "",
+      "startDtm": "",
+      "isTvHot": "",
+      "isTvHotLogo": "",
+      "dealMcVideoUrlAddr": "",
+      "imageList": {
+
+      },
+      "videoTime": "",
+      "productHashTags": [
+
+      ],
+      "productHashTagWiseLogs": [
+
+      ],
+      "isWish": false,
+      "brandWishAddUrl": "",
+      "brandWishRemoveUrl": "",
+      "imageLayerFlag": "",
+      "sbCateGb": "",
+      "sbVideoNum": "",
+      "directOrdUrl": "",
+      "snsImageUrl": "",
+      "randomYn": "",
+      "rollingDelay": 0.0,
+      "rwImgList": [
+
+      ],
+      "height": 0,
+      "basket": null,
+      "videoid": "",
+      "exposPrSntncNm": "",
+      "directOrdInfo": null,
+      "broadAlarmDoneYn": "",
+      "reviewCount": "265",
+      "bdrBottomYn": "",
+      "reviewAverage": "4.9",
+      "brandNm": "싸이벡스",
+      "source": null,
+      "allBenefit": [
+        {
+          "seq": 0,
+          "imgUrl": "",
+          "text": "무료배송",
+          "type": "7a111111",
+          "styleType": ""
+        }
+      ],
+      "badgeRTType": "",
+      "moreText": "",
+      "planBannerFlag": ""
+    }
+  ]
+}

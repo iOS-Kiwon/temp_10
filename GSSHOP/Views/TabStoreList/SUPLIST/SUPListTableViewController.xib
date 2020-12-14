@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SUPListTableViewController">
+            <connections>
+                <outlet property="imgCartPopup" destination="Vfs-Xb-ADt" id="Rf1-BQ-YHw"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="viewCartPopup" destination="oCm-OY-Oav" id="fHa-Bz-kwU"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableView opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" bouncesZoom="NO" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <color key="backgroundColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
+            <connections>
+                <outlet property="dataSource" destination="-1" id="Tng-2m-Rnh"/>
+                <outlet property="delegate" destination="-1" id="9aC-8N-iBw"/>
+            </connections>
+        </tableView>
+        <view contentMode="scaleToFill" id="oCm-OY-Oav">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="640"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X9B-w9-AKf">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="640"/>
+                    <connections>
+                        <action selector="onBtnCartPopup:" destination="-1" eventType="touchUpInside" id="JVW-R4-aob"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="super_cart_ok.png" highlightedImage="super_cart_already.png" translatesAutoresizingMaskIntoConstraints="NO" id="Vfs-Xb-ADt">
+                    <rect key="frame" x="85" y="245" width="150" height="150"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="150" id="lIY-xI-Na3"/>
+                        <constraint firstAttribute="height" constant="150" id="lMy-7w-NVR"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" tag="66" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HJJ-Me-j1T">
+                    <rect key="frame" x="85" y="245" width="150" height="150"/>
+                    <connections>
+                        <action selector="onBtnCartPopup:" destination="-1" eventType="touchUpInside" id="lXN-QN-KaQ"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cAz-lt-SN2">
+                    <rect key="frame" x="195" y="245" width="40" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="Jen-Fb-L5o"/>
+                        <constraint firstAttribute="width" constant="40" id="nnX-Co-IYK"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="14" minY="0.0" maxX="0.0" maxY="14"/>
+                    <state key="normal" image="super_close_cart.png"/>
+                    <connections>
+                        <action selector="onBtnCartPopup:" destination="-1" eventType="touchUpInside" id="9m1-zv-nEd"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="X9B-w9-AKf" firstAttribute="width" secondItem="oCm-OY-Oav" secondAttribute="width" id="1aj-rE-pz7"/>
+                <constraint firstItem="HJJ-Me-j1T" firstAttribute="width" secondItem="Vfs-Xb-ADt" secondAttribute="width" id="6nC-Zq-Zwa"/>
+                <constraint firstItem="Vfs-Xb-ADt" firstAttribute="centerY" secondItem="oCm-OY-Oav" secondAttribute="centerY" id="8C6-Vw-I9I"/>
+                <constraint firstItem="Vfs-Xb-ADt" firstAttribute="centerX" secondItem="oCm-OY-Oav" secondAttribute="centerX" id="CJR-3z-OC8"/>
+                <constraint firstItem="X9B-w9-AKf" firstAttribute="centerX" secondItem="oCm-OY-Oav" secondAttribute="centerX" id="Ipu-mC-ZCf"/>
+                <constraint firstItem="X9B-w9-AKf" firstAttribute="centerY" secondItem="oCm-OY-Oav" secondAttribute="centerY" id="NwV-xl-NfT"/>
+                <constraint firstItem="cAz-lt-SN2" firstAttribute="trailing" secondItem="Vfs-Xb-ADt" secondAttribute="trailing" id="cMB-T2-FKp"/>
+                <constraint firstItem="X9B-w9-AKf" firstAttribute="height" secondItem="oCm-OY-Oav" secondAttribute="height" id="fBQ-cw-N2Q"/>
+                <constraint firstItem="cAz-lt-SN2" firstAttribute="top" secondItem="Vfs-Xb-ADt" secondAttribute="top" id="icq-8H-JH5"/>
+                <constraint firstItem="HJJ-Me-j1T" firstAttribute="centerX" secondItem="Vfs-Xb-ADt" secondAttribute="centerX" id="rRm-x9-6n8"/>
+                <constraint firstItem="HJJ-Me-j1T" firstAttribute="height" secondItem="Vfs-Xb-ADt" secondAttribute="height" id="xkW-gS-J2N"/>
+                <constraint firstItem="HJJ-Me-j1T" firstAttribute="centerY" secondItem="Vfs-Xb-ADt" secondAttribute="centerY" id="zP3-nz-oDF"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-328" y="191"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="super_cart_already.png" width="300" height="300"/>
+        <image name="super_cart_ok.png" width="300" height="300"/>
+        <image name="super_close_cart.png" width="52" height="52"/>
+    </resources>
+</document>

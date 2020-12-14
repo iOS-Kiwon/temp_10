@@ -1,0 +1,65 @@
+//
+// Prefix header for all source files of the 'GSSHOP' target in the 'GSSHOP' project
+//
+
+#import <Availability.h>
+
+//201412 5.1.1
+//201510 7.0
+#ifndef __IPHONE_7_0
+#warning "This project uses features only available in iOS SDK 7.0 and later."
+#endif
+
+//#import <NewRelicAgent/NewRelic.h>
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "GSSLocalization.h"
+#import <Mocha/Mocha.h>
+#import "UIDevice+modelname.h"
+#import "UINavigationController+Category.h"
+#import <AssetsLibrary/AssetsLibrary.h>
+#import "CALayer+XibConfiguration.h"
+#import "DataManager.h"
+#import "GSDataHubTracker.h"
+#import "GS_Util+JSON.h"                            // nami0342 - Add json parser
+#import "Common_Util.h"
+#import "NSDate+Seoul.h"
+//#import "ImageDownManager.h"
+#import "UIApplication+OpenUrl.h"
+#import "GSException.h"
+#import "NSURLSession+Timeout.h"
+#import "UrlSessionCache.h"
+#import "LoginData.h"
+#import "GSSHOP-Swift.h"                            // Kiwon - Swift 파일에서 Objc 파일 접근을 위한 import
+
+//SNS-NATIVE추가시
+//#import "SNSManager.h"
+#endif
+
+
+//nullSafe Enable = 1
+#define NULLSAFE_ENABLED 1
+
+//toapp://liveBroadUrl?param=http://livem.gsshop.com/gsmyshop_sd/_definst_/gsmyshop_sd.stream/playlist.m3u8
+//TARGET_OS_IPHONE or TARGET_IPHONE_SIMULATOR
+
+// nami0342 - 로컬 파일 저장
+#define LL(obj) [Common_Util loadLocalData:obj]                     // 데이터 로드
+#define SL(value, key) [Common_Util setLocalData:value forKey:key]  // 데이터 저장 (value - key 방식)
+
+
+//#define GSSHOP_DEBUG 1
+
+//#if TARGET_IPHONE_SIMULATOR
+#if APPSTORE
+    #define NSLog(...)
+    #define ErLog(err)
+#else
+    #define NSLog(fmt, ...) {NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);}
+    #define ErLog(err) {if(err) NSLog(@"%@", err)}
+
+    // For Xcode8
+    //#define NSLog(FORMAT, ...) printf("%s\n", [[NSString stringWithFormat:FORMAT, ##__VA_ARGS__] UTF8String]);
+#endif

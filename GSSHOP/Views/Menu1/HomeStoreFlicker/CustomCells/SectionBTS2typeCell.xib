@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16C68" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionBTS2typeCell" id="KGk-i7-Jjw" customClass="SectionBTS2typeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="40"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="39.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="전체 베스트" lineBreakMode="clip" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HyM-13-aoI">
+                        <rect key="frame" x="10" y="10" width="74" height="20"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="19:30 기준" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bIU-4q-2vd">
+                        <rect key="frame" x="90" y="13" width="56" height="15"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                        <color key="textColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="bIU-4q-2vd" firstAttribute="centerY" secondItem="HyM-13-aoI" secondAttribute="centerY" id="cuE-x8-jYe"/>
+                    <constraint firstItem="bIU-4q-2vd" firstAttribute="leading" secondItem="HyM-13-aoI" secondAttribute="trailing" constant="6" id="zLX-2e-dBG"/>
+                </constraints>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstItem="HyM-13-aoI" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" constant="10" id="SyC-TG-gff"/>
+                <constraint firstItem="HyM-13-aoI" firstAttribute="bottom" secondItem="KGk-i7-Jjw" secondAttribute="bottom" constant="-10" id="xrW-pU-DQr"/>
+            </constraints>
+            <connections>
+                <outlet property="lblTime" destination="bIU-4q-2vd" id="qC7-g5-Dic"/>
+                <outlet property="lblTitle" destination="HyM-13-aoI" id="UeS-ix-khV"/>
+            </connections>
+            <point key="canvasLocation" x="481" y="291"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="15G1421" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="ju6-nY-bsD" customClass="SCH_BAN_TXT_NEXTTypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="125"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tkd-TF-LrM">
+                    <rect key="frame" x="0.0" y="40" width="320" height="45"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JdM-VZ-hm3">
+                            <rect key="frame" x="88.5" y="0.0" width="143" height="45"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="4월10일 편성보기" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="115" translatesAutoresizingMaskIntoConstraints="NO" id="2WT-xT-I5X" userLabel="dateText">
+                                    <rect key="frame" x="0.0" y="13" width="115" height="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                    <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="slist_plus.png" translatesAutoresizingMaskIntoConstraints="NO" id="ON1-gt-Xzb" userLabel="plusImg">
+                                    <rect key="frame" x="123" y="13" width="20" height="20"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="20" id="kWQ-pi-rOh"/>
+                                        <constraint firstAttribute="width" constant="20" id="v73-2H-UIi"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstItem="2WT-xT-I5X" firstAttribute="leading" secondItem="JdM-VZ-hm3" secondAttribute="leading" id="3Zc-Dq-aeo"/>
+                                <constraint firstAttribute="trailing" secondItem="ON1-gt-Xzb" secondAttribute="trailing" id="JYO-ah-rZW"/>
+                                <constraint firstItem="ON1-gt-Xzb" firstAttribute="centerY" secondItem="JdM-VZ-hm3" secondAttribute="centerY" id="VVg-ba-rT1"/>
+                                <constraint firstItem="2WT-xT-I5X" firstAttribute="centerY" secondItem="JdM-VZ-hm3" secondAttribute="centerY" id="Yw7-MJ-jcr"/>
+                                <constraint firstAttribute="width" secondItem="2WT-xT-I5X" secondAttribute="width" constant="28" id="qNA-jv-Fi7"/>
+                            </constraints>
+                        </view>
+                        <button opaque="NO" tag="500" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QL8-11-0Zh">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="45"/>
+                            <connections>
+                                <action selector="onClick:" destination="ju6-nY-bsD" eventType="touchUpInside" id="fLw-wn-cct"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.77254901960784317" green="0.77254901960784317" blue="0.77254901960784317" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="JdM-VZ-hm3" firstAttribute="centerX" secondItem="tkd-TF-LrM" secondAttribute="centerX" id="1rx-7L-uEN"/>
+                        <constraint firstItem="QL8-11-0Zh" firstAttribute="width" secondItem="tkd-TF-LrM" secondAttribute="width" id="ETC-Pn-PuS"/>
+                        <constraint firstItem="JdM-VZ-hm3" firstAttribute="centerY" secondItem="tkd-TF-LrM" secondAttribute="centerY" id="NkD-ap-9SH"/>
+                        <constraint firstItem="JdM-VZ-hm3" firstAttribute="height" secondItem="tkd-TF-LrM" secondAttribute="height" id="Omn-M0-qxz"/>
+                        <constraint firstItem="QL8-11-0Zh" firstAttribute="centerY" secondItem="tkd-TF-LrM" secondAttribute="centerY" id="UCh-KV-x0B"/>
+                        <constraint firstAttribute="height" constant="45" id="dSF-CO-LXf"/>
+                        <constraint firstItem="QL8-11-0Zh" firstAttribute="height" secondItem="tkd-TF-LrM" secondAttribute="height" id="hCF-h5-eeP"/>
+                        <constraint firstItem="QL8-11-0Zh" firstAttribute="centerX" secondItem="tkd-TF-LrM" secondAttribute="centerX" id="yAx-gH-UKw"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="tkd-TF-LrM" firstAttribute="centerX" secondItem="ju6-nY-bsD" secondAttribute="centerX" id="ATd-js-uNg"/>
+                <constraint firstItem="tkd-TF-LrM" firstAttribute="width" secondItem="ju6-nY-bsD" secondAttribute="width" id="Tae-GY-No3"/>
+                <constraint firstItem="tkd-TF-LrM" firstAttribute="centerY" secondItem="ju6-nY-bsD" secondAttribute="centerY" id="ics-nw-ii2"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="dateText" destination="2WT-xT-I5X" id="sD8-a2-2Zc"/>
+                <outlet property="imgPlus" destination="ON1-gt-Xzb" id="IsF-RK-lbz"/>
+                <outlet property="viewBG" destination="tkd-TF-LrM" id="9ip-Pu-HJx"/>
+            </connections>
+            <point key="canvasLocation" x="275" y="199"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="slist_plus.png" width="20" height="20"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_0.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

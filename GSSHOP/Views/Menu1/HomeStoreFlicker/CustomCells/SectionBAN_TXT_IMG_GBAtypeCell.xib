@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina3_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" restorationIdentifier="BAN_TXT_IMG_GBA" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionBAN_TXT_IMG_GBAtypeCell" rowHeight="36" id="KGk-i7-Jjw" customClass="SectionBAN_TXT_IMG_GBAtypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="36"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="35.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="abp-1l-bW3" userLabel="clearMainView">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="36"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cell_add_light" translatesAutoresizingMaskIntoConstraints="NO" id="rAp-sr-prf" userLabel="adImg">
+                                <rect key="frame" x="276" y="18" width="28" height="16"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="28" id="Nbg-UF-Pcx"/>
+                                    <constraint firstAttribute="height" constant="16" id="ctc-Dw-lwY"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="999개" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c1k-qK-qjZ">
+                                <rect key="frame" x="16" y="16" width="41" height="17"/>
+                                <accessibility key="accessibilityConfiguration">
+                                    <bool key="isElement" value="NO"/>
+                                </accessibility>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
+                                <color key="textColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" 딜이 오픈되었습니다." lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mub-a0-fXk">
+                                <rect key="frame" x="57" y="16" width="121" height="17"/>
+                                <accessibility key="accessibilityConfiguration">
+                                    <bool key="isElement" value="NO"/>
+                                </accessibility>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="0.64000000000000001" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="c1k-qK-qjZ" firstAttribute="leading" secondItem="abp-1l-bW3" secondAttribute="leading" constant="16" id="461-N9-eQz"/>
+                            <constraint firstItem="mub-a0-fXk" firstAttribute="leading" secondItem="c1k-qK-qjZ" secondAttribute="trailing" id="GxO-ag-swy"/>
+                            <constraint firstAttribute="trailing" secondItem="rAp-sr-prf" secondAttribute="trailing" constant="16" id="gJX-iu-jGL"/>
+                            <constraint firstItem="mub-a0-fXk" firstAttribute="centerY" secondItem="c1k-qK-qjZ" secondAttribute="centerY" id="qaf-2V-Ce8"/>
+                            <constraint firstItem="rAp-sr-prf" firstAttribute="top" secondItem="abp-1l-bW3" secondAttribute="top" constant="18" id="tix-M2-AXl"/>
+                            <constraint firstItem="c1k-qK-qjZ" firstAttribute="top" secondItem="abp-1l-bW3" secondAttribute="top" constant="16" id="vt2-Ph-3P0"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="abp-1l-bW3" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="VHH-67-jCo"/>
+                <constraint firstItem="abp-1l-bW3" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="fEg-rb-xJN"/>
+                <constraint firstItem="abp-1l-bW3" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="x9d-EI-nUp"/>
+                <constraint firstItem="abp-1l-bW3" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" id="z23-Mi-f9x"/>
+            </constraints>
+            <connections>
+                <outlet property="adImg" destination="rAp-sr-prf" id="OWx-bV-yw9"/>
+                <outlet property="adImgHeigth" destination="ctc-Dw-lwY" id="oL4-zA-Kga"/>
+                <outlet property="adImgWidth" destination="Nbg-UF-Pcx" id="Kw5-oQ-w3L"/>
+                <outlet property="countText" destination="c1k-qK-qjZ" id="ANX-qg-Nmd"/>
+                <outlet property="descriptionText" destination="mub-a0-fXk" id="NYO-oq-AAD"/>
+            </connections>
+            <point key="canvasLocation" x="33.75" y="32.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="cell_add_light" width="28" height="16"/>
+    </resources>
+</document>

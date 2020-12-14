@@ -1,0 +1,10 @@
+
+Issue counts by analyzer:
+
+ "controlflow" => 102 Issues
+ "dataflow" => 515 Issues
+ "semantic" => 29 Issues
+ "structural" => 38 Issues
+
+Total for all analyzers => 684 Issues
+

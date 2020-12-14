@@ -1,0 +1,13 @@
+JTNumberScrollAnimatedView
+
+License
+
+JTNumberScrollAnimatedView is released under the MIT license. See the LICENSE file for more info.
+
+Requirements
+
+iOS 7 or higher
+Automatic Reference Counting (ARC)
+Author
+
+Jonathan Tribouharet (@johntribouharet)

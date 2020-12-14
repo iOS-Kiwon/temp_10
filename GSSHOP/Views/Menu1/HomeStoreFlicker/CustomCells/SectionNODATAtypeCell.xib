@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionNODATAtypeCell" rowHeight="167" id="KGk-i7-Jjw" customClass="SectionNODATAtypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="166"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="165.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_noimage.png" translatesAutoresizingMaskIntoConstraints="NO" id="omu-Pv-mcC">
+                        <rect key="frame" x="135" y="60" width="50" height="50"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="50" id="Nh8-ac-lBW"/>
+                            <constraint firstAttribute="height" constant="50" id="dkv-Jq-Be7"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="오늘은 '의류/잡화/보석'에서 새로 오픈한 딜이 없습니다." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gcF-cs-IY3">
+                        <rect key="frame" x="73" y="130" width="174" height="38.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                        <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="gcF-cs-IY3" firstAttribute="top" secondItem="omu-Pv-mcC" secondAttribute="bottom" constant="20" id="aE9-Ec-7l8"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="omu-Pv-mcC" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" constant="60" id="5Hh-Pr-yV7"/>
+                <constraint firstItem="gcF-cs-IY3" firstAttribute="centerX" secondItem="KGk-i7-Jjw" secondAttribute="centerX" id="7Ss-pc-RPb"/>
+                <constraint firstItem="omu-Pv-mcC" firstAttribute="centerX" secondItem="KGk-i7-Jjw" secondAttribute="centerX" id="9ni-cB-12d"/>
+            </constraints>
+            <connections>
+                <outlet property="infomationLabel" destination="gcF-cs-IY3" id="b37-G6-Azf"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="115"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_noimage.png" width="50" height="50"/>
+    </resources>
+</document>

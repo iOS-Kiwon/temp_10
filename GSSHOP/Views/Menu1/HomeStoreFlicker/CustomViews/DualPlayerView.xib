@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_0" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="DualPlayerView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="412"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DlB-Nt-qGm">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="282"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="282" id="hxS-qw-zVX"/>
+                    </constraints>
+                </view>
+                <view autoresizesSubviews="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yIY-mD-qwz">
+                    <rect key="frame" x="0.0" y="0.0" width="158" height="412"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LUc-4L-FvP">
+                            <rect key="frame" x="0.0" y="0.0" width="158" height="158"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dualplayer_preparation_1.png" translatesAutoresizingMaskIntoConstraints="NO" id="Xyt-7Z-TUf">
+                                    <rect key="frame" x="21" y="59.5" width="116" height="63"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="116" id="JMO-9a-ieW"/>
+                                        <constraint firstAttribute="height" constant="63" id="pQ3-0f-lMm"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="Xyt-7Z-TUf" firstAttribute="centerY" secondItem="LUc-4L-FvP" secondAttribute="centerY" constant="12" id="Dv9-n2-pHA"/>
+                                <constraint firstAttribute="width" secondItem="LUc-4L-FvP" secondAttribute="height" multiplier="1:1" id="v2p-OQ-9Bg"/>
+                                <constraint firstItem="Xyt-7Z-TUf" firstAttribute="centerX" secondItem="LUc-4L-FvP" secondAttribute="centerX" id="xcK-tL-UIV"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="LUc-4L-FvP" firstAttribute="top" secondItem="yIY-mD-qwz" secondAttribute="top" id="GLA-gM-NGq"/>
+                        <constraint firstItem="LUc-4L-FvP" firstAttribute="leading" secondItem="yIY-mD-qwz" secondAttribute="leading" id="WqV-Qm-7hR"/>
+                        <constraint firstItem="LUc-4L-FvP" firstAttribute="width" secondItem="yIY-mD-qwz" secondAttribute="width" id="uVD-c2-1L5"/>
+                    </constraints>
+                </view>
+                <view autoresizesSubviews="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0am-Xf-Y87">
+                    <rect key="frame" x="162" y="0.0" width="158" height="412"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZlB-09-SuR">
+                            <rect key="frame" x="0.0" y="0.0" width="158" height="158"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dualplayer_preparation_1.png" translatesAutoresizingMaskIntoConstraints="NO" id="uGk-yp-Nuk">
+                                    <rect key="frame" x="21" y="59.5" width="116" height="63"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="63" id="Cfr-s2-k0R"/>
+                                        <constraint firstAttribute="width" constant="116" id="O9l-gB-Psa"/>
+                                    </constraints>
+                                </imageView>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="ZlB-09-SuR" secondAttribute="height" multiplier="1:1" id="1Et-fD-Frb"/>
+                                <constraint firstItem="uGk-yp-Nuk" firstAttribute="centerY" secondItem="ZlB-09-SuR" secondAttribute="centerY" constant="12" id="HhO-mj-BMf"/>
+                                <constraint firstItem="uGk-yp-Nuk" firstAttribute="centerX" secondItem="ZlB-09-SuR" secondAttribute="centerX" id="exs-JX-tpH"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="ZlB-09-SuR" firstAttribute="width" secondItem="0am-Xf-Y87" secondAttribute="width" id="QRP-NW-sPm"/>
+                        <constraint firstItem="ZlB-09-SuR" firstAttribute="top" secondItem="0am-Xf-Y87" secondAttribute="top" id="YNI-UI-wCK"/>
+                        <constraint firstItem="ZlB-09-SuR" firstAttribute="leading" secondItem="0am-Xf-Y87" secondAttribute="leading" id="ePq-m7-E8f"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="yIY-mD-qwz" firstAttribute="height" secondItem="iN0-l3-epB" secondAttribute="height" id="0Kz-id-7ks"/>
+                <constraint firstAttribute="trailing" secondItem="0am-Xf-Y87" secondAttribute="trailing" id="1Hy-yN-XgX"/>
+                <constraint firstItem="yIY-mD-qwz" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="8de-Ae-SNT"/>
+                <constraint firstItem="0am-Xf-Y87" firstAttribute="height" secondItem="iN0-l3-epB" secondAttribute="height" id="BmX-eQ-FZW"/>
+                <constraint firstItem="yIY-mD-qwz" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" multiplier="0.5" constant="-2" id="I5C-X1-qxP"/>
+                <constraint firstItem="DlB-Nt-qGm" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="JoC-QU-k6w"/>
+                <constraint firstItem="0am-Xf-Y87" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" multiplier="0.5" constant="-2" id="RGD-m6-y9e"/>
+                <constraint firstItem="yIY-mD-qwz" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="T0g-oz-3sm"/>
+                <constraint firstItem="0am-Xf-Y87" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="erW-Z9-0DZ"/>
+                <constraint firstItem="DlB-Nt-qGm" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="gWP-nS-Vde"/>
+                <constraint firstItem="DlB-Nt-qGm" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="p2z-wJ-J9J"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="lconstHeightBGPlayer" destination="hxS-qw-zVX" id="dRo-gE-e92"/>
+                <outlet property="viewBGLive" destination="yIY-mD-qwz" id="Ybz-v0-a0y"/>
+                <outlet property="viewBGMyShop" destination="0am-Xf-Y87" id="q3D-0M-TKI"/>
+                <outlet property="viewBGPlayer" destination="DlB-Nt-qGm" id="zDO-b9-Kdf"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="dualplayer_preparation_1.png" width="232" height="126"/>
+    </resources>
+</document>

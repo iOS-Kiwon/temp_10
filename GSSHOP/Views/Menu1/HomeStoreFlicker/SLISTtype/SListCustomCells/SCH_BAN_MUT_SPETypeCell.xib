@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G1421" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="SCH_BAN_MUT_SPETypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="40"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="39"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aNF-uy-FGo" userLabel="banner">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="40"/>
+                        <subviews>
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_80.png" translatesAutoresizingMaskIntoConstraints="NO" id="sPk-Be-6lA">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="sPk-Be-6lA" secondAttribute="height" multiplier="8:1" id="4Or-Mh-Wj7"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Wqi-kS-dxT">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="40"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y9P-oC-RKd">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="40"/>
+                                <connections>
+                                    <action selector="bannerClick:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="T0Q-Mx-chW"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="sPk-Be-6lA" firstAttribute="top" secondItem="aNF-uy-FGo" secondAttribute="top" id="0sI-FM-ujD"/>
+                            <constraint firstItem="Y9P-oC-RKd" firstAttribute="leading" secondItem="aNF-uy-FGo" secondAttribute="leading" id="0u9-tB-nJL"/>
+                            <constraint firstItem="Wqi-kS-dxT" firstAttribute="centerY" secondItem="aNF-uy-FGo" secondAttribute="centerY" id="9xD-Kf-cfu"/>
+                            <constraint firstItem="Y9P-oC-RKd" firstAttribute="width" secondItem="sPk-Be-6lA" secondAttribute="width" id="KPg-hZ-7Kp"/>
+                            <constraint firstItem="sPk-Be-6lA" firstAttribute="leading" secondItem="aNF-uy-FGo" secondAttribute="leading" id="Kmg-y1-0XU"/>
+                            <constraint firstItem="Y9P-oC-RKd" firstAttribute="height" secondItem="sPk-Be-6lA" secondAttribute="height" id="XQW-qQ-9ck"/>
+                            <constraint firstItem="Y9P-oC-RKd" firstAttribute="top" secondItem="aNF-uy-FGo" secondAttribute="top" id="YqT-eH-OTt"/>
+                            <constraint firstItem="Wqi-kS-dxT" firstAttribute="centerX" secondItem="aNF-uy-FGo" secondAttribute="centerX" id="d8h-PB-w5C"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="aNF-uy-FGo" firstAttribute="centerX" secondItem="KGk-i7-Jjw" secondAttribute="centerX" id="6dE-n1-yVP"/>
+                <constraint firstItem="aNF-uy-FGo" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="G5C-b5-MkL"/>
+                <constraint firstItem="Wqi-kS-dxT" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="GZW-gh-qxy"/>
+                <constraint firstItem="Wqi-kS-dxT" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="Mpy-5m-8Ju"/>
+                <constraint firstItem="aNF-uy-FGo" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="Q39-Ra-OPw"/>
+                <constraint firstItem="sPk-Be-6lA" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="nnh-yf-v3Q"/>
+                <constraint firstItem="aNF-uy-FGo" firstAttribute="centerY" secondItem="KGk-i7-Jjw" secondAttribute="centerY" id="xAO-Zk-qT9"/>
+            </constraints>
+            <connections>
+                <outlet property="imgBanner" destination="Wqi-kS-dxT" id="7ix-yl-suJ"/>
+            </connections>
+            <point key="canvasLocation" x="394" y="291"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="noimg_80.png" width="640" height="80"/>
+    </resources>
+</document>

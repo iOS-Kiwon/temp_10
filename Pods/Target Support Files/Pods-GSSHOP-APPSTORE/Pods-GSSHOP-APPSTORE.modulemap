@@ -1,0 +1,6 @@
+framework module Pods_GSSHOP_APPSTORE {
+  umbrella header "Pods-GSSHOP-APPSTORE-umbrella.h"
+
+  export *
+  module * { export * }
+}

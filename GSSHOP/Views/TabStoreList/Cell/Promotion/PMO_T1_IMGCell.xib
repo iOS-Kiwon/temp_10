@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="PMO_T1_IMGCell" rowHeight="316" id="KGk-i7-Jjw" customClass="PMO_T1_IMGCell" customModule="GSSHOP" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="385"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="384.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img_noimage_375" translatesAutoresizingMaskIntoConstraints="NO" id="ws5-hw-Cmb">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="375"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="ws5-hw-Cmb" secondAttribute="height" multiplier="1:1" id="U9v-la-G55"/>
+                        </constraints>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="B0I-Bc-eWi">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="375"/>
+                        <connections>
+                            <action selector="buttonAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="fQF-Je-ph7"/>
+                        </connections>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y6c-fv-jN0">
+                        <rect key="frame" x="16" y="26" width="343" height="23.5"/>
+                        <constraints>
+                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="58" id="KYZ-Mh-Y3Z"/>
+                        </constraints>
+                        <attributedString key="attributedText">
+                            <fragment content="샘소나이트">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="20" name=".AppleSDGothicNeoI-Regular"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content=" ">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" metaFont="system" size="20"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content="外">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="20" name=".AppleSDGothicNeoI-Regular"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment>
+                                <string key="content" base64-UTF8="YES">
+Cg
+</string>
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" metaFont="system" size="20"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content="인기">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="20" name=".AppleSDGothicNeoI-Regular"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content=" ">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" metaFont="system" size="20"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content="상품">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="20" name=".AppleSDGothicNeoI-Regular"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content=" ">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" metaFont="system" size="20"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                            <fragment content="할인혜택">
+                                <attributes>
+                                    <color key="NSColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <font key="NSFont" size="20" name=".AppleSDGothicNeoI-Regular"/>
+                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" lineSpacing="5" tighteningFactorForTruncation="0.0"/>
+                                </attributes>
+                            </fragment>
+                        </attributedString>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GzP-8p-E72">
+                        <rect key="frame" x="16" y="57.5" width="343" height="38.5"/>
+                        <constraints>
+                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="40" id="ODD-LS-32A"/>
+                        </constraints>
+                        <string key="text">GS SHOP 단독 런칭!
+최대 20% 할인</string>
+                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cell_arrow_forward_bk" translatesAutoresizingMaskIntoConstraints="NO" id="Pd6-a8-Es0">
+                        <rect key="frame" x="16" y="104" width="28" height="28"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="28" id="1Js-gk-Cv0"/>
+                            <constraint firstAttribute="width" constant="28" id="EXf-tz-96I"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="ws5-hw-Cmb" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="2JD-k0-y4p"/>
+                    <constraint firstItem="B0I-Bc-eWi" firstAttribute="leading" secondItem="ws5-hw-Cmb" secondAttribute="leading" id="7Qf-eN-huS"/>
+                    <constraint firstItem="Pd6-a8-Es0" firstAttribute="top" secondItem="GzP-8p-E72" secondAttribute="bottom" constant="8" id="8Dz-7e-N3t"/>
+                    <constraint firstItem="ws5-hw-Cmb" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="BTC-FB-GGD"/>
+                    <constraint firstAttribute="trailing" secondItem="ws5-hw-Cmb" secondAttribute="trailing" id="CzA-fJ-I3S"/>
+                    <constraint firstItem="B0I-Bc-eWi" firstAttribute="bottom" secondItem="ws5-hw-Cmb" secondAttribute="bottom" id="OfX-a7-HWl"/>
+                    <constraint firstItem="Pd6-a8-Es0" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="RDP-Qr-0o1"/>
+                    <constraint firstItem="y6c-fv-jN0" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="YcP-BI-lrd"/>
+                    <constraint firstItem="GzP-8p-E72" firstAttribute="top" secondItem="y6c-fv-jN0" secondAttribute="bottom" constant="8" id="bpz-Wg-mhf"/>
+                    <constraint firstItem="B0I-Bc-eWi" firstAttribute="trailing" secondItem="ws5-hw-Cmb" secondAttribute="trailing" id="eNo-lT-5lW"/>
+                    <constraint firstAttribute="trailing" secondItem="y6c-fv-jN0" secondAttribute="trailing" constant="16" id="kK1-wQ-8Jg"/>
+                    <constraint firstItem="y6c-fv-jN0" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="26" id="qt7-Gy-rZ0"/>
+                    <constraint firstAttribute="trailing" secondItem="GzP-8p-E72" secondAttribute="trailing" constant="16" id="u5s-p3-gVC"/>
+                    <constraint firstItem="B0I-Bc-eWi" firstAttribute="top" secondItem="ws5-hw-Cmb" secondAttribute="top" id="uB1-7e-D1Z"/>
+                    <constraint firstItem="GzP-8p-E72" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="xJK-Vs-6eZ"/>
+                    <constraint firstAttribute="bottom" secondItem="ws5-hw-Cmb" secondAttribute="bottom" priority="999" constant="10" id="xZJ-HH-UXo"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="button" destination="B0I-Bc-eWi" id="7wI-E4-zUg"/>
+                <outlet property="imgView" destination="ws5-hw-Cmb" id="KL3-cN-ZVx"/>
+                <outlet property="mainTitleBot" destination="bpz-Wg-mhf" id="YZB-Vt-uBv"/>
+                <outlet property="mainTitleLbl" destination="y6c-fv-jN0" id="kwD-L5-Hct"/>
+                <outlet property="moreImgView" destination="Pd6-a8-Es0" id="KqF-cA-dhj"/>
+                <outlet property="subTitleBot" destination="8Dz-7e-N3t" id="BlA-Lo-XCl"/>
+                <outlet property="subTitleLbl" destination="GzP-8p-E72" id="vQX-WR-GuI"/>
+            </connections>
+            <point key="canvasLocation" x="-255.07246376811597" y="103.79464285714285"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="cell_arrow_forward_bk" width="28" height="28"/>
+        <image name="img_noimage_375" width="375" height="375"/>
+    </resources>
+</document>

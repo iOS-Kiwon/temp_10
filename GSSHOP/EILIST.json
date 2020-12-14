@@ -1,0 +1,162 @@
+{
+    "moduleList": [
+        {
+            "viewType": "BAN_TXT_IMG_SLD_GBA",
+            "rollingDelay" : 3,
+            "moduleList" : [
+                {
+                    "imageUrl" : "http://image.gsshop.com/image/53/93/53934852_B1.jpg",
+                    "linkUrl" : "http://sm14.gsshop.com/prd/prd.gs?prdid=53934852&mseq=A00054-C_MLIVE-PRD",
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url1",
+                    "name": "신규회원 최대 15,000원 증정",
+                    "subName" :"이벤트적립금 1만원 + TV상품쿠폰 5천원",
+                    "bgColor":"FFFFFF"
+                },
+                {
+                    "imageUrl" : "http://image.gsshop.com/image/53/93/53934852_B1.jpg",
+                    "linkUrl" : "http://sm14.gsshop.com/prd/prd.gs?prdid=53934852&mseq=A00054-C_MLIVE-PRD",
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url2",
+                    "name": "신규회원 최대 15,000원 증정",
+                    "subName" :"이벤트적립금 1만원 + TV상품쿠폰 5천원",
+                    "bgColor":"FFFFFF"
+                },
+                {
+                    "imageUrl" : "http://image.gsshop.com/image/53/93/53934852_B1.jpg",
+                    "linkUrl" : "http://sm14.gsshop.com/prd/prd.gs?prdid=53934852&mseq=A00054-C_MLIVE-PRD",
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url3",
+                    "name": "신규회원 최대 15,000원 증정",
+                    "subName" :"이벤트적립금 1만원 + TV상품쿠폰 5천원",
+                    "bgColor":"FFFFFF"
+                }
+            ]
+        },
+        {
+            "viewType": "BAN_IMG_CX_GBA",
+            "moduleList": [
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url1",
+                    "name": "출석체크",
+                    "subName": "출석체크 sub",
+                    "tabBgImg": "http://image.gsshop.com/planprd/banner_NEW_MAIN/47059083_02.png",
+                    "linkUrl" : "http://m.gsshop.com/~이동할 링크1"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url2",
+                    "name": "쇼핑백서",
+                    "subName": "쇼핑백서sub",
+                    "tabBgImg": "http://image.gsshop.com/planprd/banner_NEW_MAIN/47059083_02.png",
+                    "linkUrl" : "http://m.gsshop.com/~이동할 링크2"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url3",
+                    "name": "해피테스터",
+                    "subName": "해피테스터sub",
+                    "tabBgImg": "http://image.gsshop.com/planprd/banner_NEW_MAIN/47059083_02.png",
+                    "linkUrl" : "http://m.gsshop.com/~이동할 링크3"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url4",
+                    "name": "신한 5%",
+                    "subName": "신한 5% sub",
+                    "tabBgImg": "http://image.gsshop.com/planprd/banner_NEW_MAIN/47059083_02.png",
+                    "linkUrl" : "http://m.gsshop.com/~이동할 링크4"
+                }
+            ]
+        },
+        {
+            "viewType": "TAB_ANK_GBA",
+            "tabSeq" : "0",
+            "moduleList": [
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url1",
+                    "name": "구매혜택",
+                    "tabSeq" : "0"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url2",
+                    "name": "쇼핑백서",
+                    "tabSeq" : "1"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url3",
+                    "name": "해피테스터",
+                    "tabSeq" : "2"
+                }
+            ]
+        },
+        {
+            "viewType" : "BAN_IMG_TXT_GBA",
+            "imageUrl" : "http://image.gsshop.com/image/53/93/53934852_B1.jpg",
+            "linkUrl" : "http://sm14.gsshop.com/prd/prd.gs?prdid=53934852&mseq=A00054-C_MLIVE-PRD",
+            "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url1",
+            "name" : "방송알림 신청 3천원 쿠폰",
+            "subName" : "알림 등록하고 구매하면 3천원 쿠폰 100% 증정"
+        },
+        {
+            "viewType" : "BAN_IMG_TXT_GBA",
+            "imageUrl" : "http://image.gsshop.com/image/53/93/53934852_B1.jpg",
+            "linkUrl" : "http://sm14.gsshop.com/prd/prd.gs?prdid=53934852&mseq=A00054-C_MLIVE-PRD",
+            "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url2",
+            "name" : "상담 예약하면 제니시스 G80 경품 기회!",
+            "subName" : "렌탈, 시공, 가구, 교육 상담 예약 시"
+        },
+        {
+            "viewType": "TAB_ANK_GBA",
+            "tabSeq" : "1",
+            "moduleList": [
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url1",
+                    "name": "구매혜택",
+                    "tabSeq" : "0"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url2",
+                    "name": "쇼핑백서",
+                    "tabSeq" : "1"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url3",
+                    "name": "해피테스터",
+                    "tabSeq" : "2"
+                }
+            ]
+        },
+        {
+            "viewType" : "BAN_IMG_TXT_GBA",
+            "imageUrl" : "http://image.gsshop.com/image/53/93/53934852_B1.jpg",
+            "linkUrl" : "http://sm14.gsshop.com/prd/prd.gs?prdid=53934852&mseq=A00054-C_MLIVE-PRD",
+            "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url3",
+            "name" : "릴레이캐시백 순차종료 안내",
+            "subName" : "3월 5~9회차 달성완료 고객만 해당"
+        },
+        {
+            "viewType": "TAB_ANK_GBA",
+            "tabSeq" : "2",
+            "moduleList": [
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url1",
+                    "name": "구매혜택",
+                    "tabSeq" : "0"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url2",
+                    "name": "쇼핑백서",
+                    "tabSeq" : "1"
+                },
+                {
+                    "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url3",
+                    "name": "해피테스터",
+                    "tabSeq" : "2"
+                }
+            ]
+        },
+        {
+            "viewType" : "BAN_IMG_TXT_GBA",
+            "imageUrl" : "http://image.gsshop.com/image/53/93/53934852_B1.jpg",
+            "linkUrl" : "http://sm14.gsshop.com/prd/prd.gs?prdid=53934852&mseq=A00054-C_MLIVE-PRD",
+            "wiseLog": "http://m.gsshop.com/app/statistic/와이즈로그url4",
+            "name" : "XXXXXX",
+            "subName" : "YYYYYY"
+        }
+    ]
+}

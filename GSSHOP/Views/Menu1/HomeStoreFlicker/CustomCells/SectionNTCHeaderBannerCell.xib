@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionNTCHeaderBannerCell" id="KGk-i7-Jjw" customClass="SectionNTCHeaderBannerCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="58"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="57"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_100.png" translatesAutoresizingMaskIntoConstraints="NO" id="X1b-tC-AEc">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="58"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Ajy-6x-drp">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="58"/>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cVm-kL-rto">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="58"/>
+                        <connections>
+                            <action selector="onBtnBanner:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="qru-HR-pYT"/>
+                        </connections>
+                    </button>
+                </subviews>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstItem="cVm-kL-rto" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="3It-Tv-NTA"/>
+                <constraint firstItem="cVm-kL-rto" firstAttribute="centerX" secondItem="KGk-i7-Jjw" secondAttribute="centerX" id="Yhd-0J-ScY"/>
+                <constraint firstItem="Ajy-6x-drp" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="Yxv-Sy-Njo"/>
+                <constraint firstItem="Ajy-6x-drp" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="gUm-5y-Zac"/>
+                <constraint firstItem="X1b-tC-AEc" firstAttribute="centerX" secondItem="KGk-i7-Jjw" secondAttribute="centerX" id="heR-fm-Sef"/>
+                <constraint firstItem="cVm-kL-rto" firstAttribute="centerY" secondItem="KGk-i7-Jjw" secondAttribute="centerY" id="isw-fG-A3q"/>
+                <constraint firstItem="X1b-tC-AEc" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="jGv-k6-GTB"/>
+                <constraint firstItem="X1b-tC-AEc" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="jgM-CD-Rdv"/>
+                <constraint firstItem="Ajy-6x-drp" firstAttribute="centerY" secondItem="KGk-i7-Jjw" secondAttribute="centerY" id="lM7-fq-5Xu"/>
+                <constraint firstItem="Ajy-6x-drp" firstAttribute="centerX" secondItem="KGk-i7-Jjw" secondAttribute="centerX" id="lpq-Qw-kfL"/>
+                <constraint firstItem="cVm-kL-rto" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="p7Z-Qk-WZl"/>
+                <constraint firstItem="X1b-tC-AEc" firstAttribute="centerY" secondItem="KGk-i7-Jjw" secondAttribute="centerY" id="yjc-dd-kBi"/>
+            </constraints>
+            <connections>
+                <outlet property="btnBanner" destination="cVm-kL-rto" id="V83-NP-syD"/>
+                <outlet property="imgBanner" destination="Ajy-6x-drp" id="Mbk-hF-NII"/>
+            </connections>
+            <point key="canvasLocation" x="423" y="303"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="noimg_100.png" width="640" height="100"/>
+    </resources>
+</document>

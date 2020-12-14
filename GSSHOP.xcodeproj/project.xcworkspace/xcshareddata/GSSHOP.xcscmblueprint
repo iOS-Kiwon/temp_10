@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "318c55de-8145-11e6-b376-dd049d1d9e22++4343",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "318c55de-8145-11e6-b376-dd049d1d9e22++4343" : {
+
+    },
+    "318c55de-8145-11e6-b376-dd049d1d9e22++383" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "318c55de-8145-11e6-b376-dd049d1d9e22++4343" : 9223372036854775807,
+    "318c55de-8145-11e6-b376-dd049d1d9e22++383" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C5466150-786D-46F5-A0D7-7DB2FFFD8E3C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "318c55de-8145-11e6-b376-dd049d1d9e22++4343" : "gsshop-iphone\/",
+    "318c55de-8145-11e6-b376-dd049d1d9e22++383" : "trunk7\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GSSHOP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "gsshop-iphone\/GSSHOP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.ops.gsenext.com\/mobile\/app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "318c55de-8145-11e6-b376-dd049d1d9e22++383"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.ops.gsenext.com\/mobile\/app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "318c55de-8145-11e6-b376-dd049d1d9e22++4343"
+    }
+  ]
+}

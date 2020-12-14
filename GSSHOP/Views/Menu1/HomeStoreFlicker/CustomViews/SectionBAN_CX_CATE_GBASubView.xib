@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14109"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="SectionBAN_CX_CATE_GBASubView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="52"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tOB-tW-B6W">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="52"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QhW-r8-bgZ">
+                            <rect key="frame" x="0.0" y="51" width="375" height="1"/>
+                            <color key="backgroundColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="Gi6-SP-BDo"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="QhW-r8-bgZ" secondAttribute="bottom" id="04P-E3-swY"/>
+                        <constraint firstItem="QhW-r8-bgZ" firstAttribute="width" secondItem="tOB-tW-B6W" secondAttribute="width" id="83n-4j-90X"/>
+                        <constraint firstItem="QhW-r8-bgZ" firstAttribute="leading" secondItem="tOB-tW-B6W" secondAttribute="leading" id="Xrf-kb-qcv"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="tOB-tW-B6W" firstAttribute="height" secondItem="iN0-l3-epB" secondAttribute="height" id="9tr-1t-7eJ"/>
+                <constraint firstItem="tOB-tW-B6W" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="LlT-PC-ZmK"/>
+                <constraint firstItem="tOB-tW-B6W" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="XW8-nl-w4f"/>
+                <constraint firstItem="tOB-tW-B6W" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="jEZ-ZO-SOb"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="viewCate" destination="tOB-tW-B6W" id="sUh-HG-w3y"/>
+            </connections>
+            <point key="canvasLocation" x="33.5" y="-254"/>
+        </view>
+    </objects>
+</document>

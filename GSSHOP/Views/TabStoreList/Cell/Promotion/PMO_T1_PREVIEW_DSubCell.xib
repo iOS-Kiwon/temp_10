@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PMO_T1_PREVIEW_DSubCell" id="gTV-IL-0wX" customClass="PMO_T1_PREVIEW_DSubCell" customModule="GSSHOP_Ent" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="110" height="200"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="110" height="200"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ydj-84-hlA" userLabel="Base View">
+                        <rect key="frame" x="3" y="0.0" width="104" height="200"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="EJe-rH-rJF">
+                                <rect key="frame" x="0.0" y="0.0" width="104" height="104"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="EJe-rH-rJF" secondAttribute="height" multiplier="1:1" id="q4W-DS-Oow"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="emR-SM-SmZ" userLabel="Sold Out View">
+                                <rect key="frame" x="0.0" y="80" width="104" height="24"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="일시품절" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bu4-F3-thL">
+                                        <rect key="frame" x="0.0" y="0.0" width="104" height="24"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="13"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="0.40000000000000002" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstItem="bu4-F3-thL" firstAttribute="top" secondItem="emR-SM-SmZ" secondAttribute="top" id="AZe-fW-uw2"/>
+                                    <constraint firstItem="bu4-F3-thL" firstAttribute="leading" secondItem="emR-SM-SmZ" secondAttribute="leading" id="BM5-46-Pkd"/>
+                                    <constraint firstAttribute="trailing" secondItem="bu4-F3-thL" secondAttribute="trailing" id="CkK-V3-uNJ"/>
+                                    <constraint firstAttribute="height" constant="24" id="NeB-og-abE"/>
+                                    <constraint firstAttribute="bottom" secondItem="bu4-F3-thL" secondAttribute="bottom" id="xVr-EQ-c1E"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="8,999,000원" lineBreakMode="clip" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8I7-FB-snK">
+                                <rect key="frame" x="8" y="162.5" width="88" height="23"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="23" id="DLl-Ps-c0k"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="제철과일 해풍맞고 자란 영흥도 포도1.8kg" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="f4B-8x-6gP">
+                                <rect key="frame" x="8" y="116" width="88" height="38.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="lessThanOrEqual" constant="48" id="vTN-YT-Pcf"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="emR-SM-SmZ" firstAttribute="leading" secondItem="EJe-rH-rJF" secondAttribute="leading" id="7Ld-Oi-91z"/>
+                            <constraint firstAttribute="trailing" secondItem="f4B-8x-6gP" secondAttribute="trailing" constant="8" id="8jU-3f-Dat"/>
+                            <constraint firstItem="8I7-FB-snK" firstAttribute="top" secondItem="EJe-rH-rJF" secondAttribute="bottom" constant="58.5" id="EFY-Je-jc8"/>
+                            <constraint firstItem="emR-SM-SmZ" firstAttribute="bottom" secondItem="EJe-rH-rJF" secondAttribute="bottom" id="PTv-SJ-cYc"/>
+                            <constraint firstItem="EJe-rH-rJF" firstAttribute="leading" secondItem="ydj-84-hlA" secondAttribute="leading" id="V30-1M-BTZ"/>
+                            <constraint firstItem="EJe-rH-rJF" firstAttribute="top" secondItem="ydj-84-hlA" secondAttribute="top" id="WWD-3Y-uRa"/>
+                            <constraint firstAttribute="trailing" secondItem="8I7-FB-snK" secondAttribute="trailing" constant="8" id="hCk-Vy-7Jc"/>
+                            <constraint firstItem="f4B-8x-6gP" firstAttribute="top" secondItem="EJe-rH-rJF" secondAttribute="bottom" constant="12" id="hYz-HI-1RV"/>
+                            <constraint firstItem="emR-SM-SmZ" firstAttribute="trailing" secondItem="EJe-rH-rJF" secondAttribute="trailing" id="iSc-fv-3jM"/>
+                            <constraint firstItem="f4B-8x-6gP" firstAttribute="leading" secondItem="ydj-84-hlA" secondAttribute="leading" constant="8" id="sUe-o9-1v2"/>
+                            <constraint firstAttribute="trailing" secondItem="EJe-rH-rJF" secondAttribute="trailing" id="uvf-Ps-4ec"/>
+                            <constraint firstItem="8I7-FB-snK" firstAttribute="leading" secondItem="ydj-84-hlA" secondAttribute="leading" constant="8" id="vKp-ml-5Tv"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="ydj-84-hlA" secondAttribute="trailing" constant="3" id="CB9-S5-wcj"/>
+                <constraint firstAttribute="bottom" secondItem="ydj-84-hlA" secondAttribute="bottom" id="Klw-71-1Pg"/>
+                <constraint firstItem="ydj-84-hlA" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="VvQ-4D-Bbm"/>
+                <constraint firstItem="ydj-84-hlA" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="3" id="u1j-PW-p1f"/>
+            </constraints>
+            <connections>
+                <outlet property="imgView" destination="EJe-rH-rJF" id="K66-Nv-ONS"/>
+                <outlet property="priceLbl" destination="8I7-FB-snK" id="YJy-Zd-eyq"/>
+                <outlet property="productNameLbl" destination="f4B-8x-6gP" id="Mw0-3D-9N2"/>
+                <outlet property="soldOutView" destination="emR-SM-SmZ" id="JEW-p1-dh0"/>
+            </connections>
+            <point key="canvasLocation" x="132" y="153"/>
+        </collectionViewCell>
+    </objects>
+</document>

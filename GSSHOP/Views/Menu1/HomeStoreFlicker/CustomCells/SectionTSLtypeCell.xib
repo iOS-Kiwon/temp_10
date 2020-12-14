@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell autoresizesSubviews="NO" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionTSLtypeCell" id="iP3-J8-PEn" customClass="SectionTSLtypeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="282"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <tableViewCellContentView key="contentView" autoresizesSubviews="NO" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="iP3-J8-PEn" id="XGz-cZ-MbJ">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="281"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view autoresizesSubviews="NO" clipsSubviews="YES" contentMode="scaleToFill" id="dPG-gx-z8U">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="274"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_500.png" id="saA-RX-5BT">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="274"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="m7O-mW-Nza">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="274"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="IdS-ea-ZPp">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="274"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                                <state key="normal">
+                                    <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="backGroundButtonClicked:" destination="iP3-J8-PEn" eventType="touchUpInside" id="FRC-YT-UFH"/>
+                                </connections>
+                            </button>
+                            <view contentMode="scaleToFill" id="cHb-dz-DuP" customClass="iCarousel">
+                                <rect key="frame" x="0.0" y="68" width="320" height="194"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="iP3-J8-PEn" id="rDH-z0-eWe"/>
+                                    <outlet property="delegate" destination="iP3-J8-PEn" id="hct-FK-Bxz"/>
+                                </connections>
+                            </view>
+                            <view contentMode="scaleToFill" misplaced="YES" id="YqY-dl-Vm0">
+                                <rect key="frame" x="0.0" y="272" width="320" height="1"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <color key="backgroundColor" red="0.85098039215686272" green="0.85098039215686272" blue="0.85098039215686272" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </subviews>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="carouselProduct" destination="cHb-dz-DuP" id="awk-qc-KbT"/>
+                <outlet property="imgBG" destination="saA-RX-5BT" id="fgo-Ix-3NS"/>
+                <outlet property="imgContents" destination="m7O-mW-Nza" id="u93-DC-K4s"/>
+                <outlet property="viewBottomLine" destination="YqY-dl-Vm0" id="JTK-0a-tPl"/>
+                <outlet property="view_Default" destination="dPG-gx-z8U" id="dPC-MT-XSQ"/>
+            </connections>
+            <point key="canvasLocation" x="519" y="244"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="noimg_500.png" width="640" height="500"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

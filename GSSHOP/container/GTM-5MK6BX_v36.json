@@ -1,0 +1,1487 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2019-10-14 04:49:33",
+    "containerVersion": {
+        "path": "accounts/338556/containers/1015044/versions/36",
+        "accountId": "338556",
+        "containerId": "1015044",
+        "containerVersionId": "36",
+        "container": {
+            "path": "accounts/338556/containers/1015044",
+            "accountId": "338556",
+            "containerId": "1015044",
+            "name": "MC APP",
+            "publicId": "GTM-5MK6BX",
+            "usageContext": [
+                "ANDROID",
+                "IOS"
+            ],
+            "fingerprint": "1442219593607",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/338556/containers/1015044/workspaces?apiLink=container"
+        },
+        "tag": [
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "tagId": "2",
+                "name": "App ScreenViewTag",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "BOOLEAN",
+                        "key": "useEcommerceDataLayer",
+                        "value": "true"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "fieldsToSet",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "fieldName",
+                                        "value": "screenName"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "value",
+                                        "value": "{{SCREEN NAME}}"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "collectAdid",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_APPVIEW"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "enableEcommerce",
+                        "value": "true"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "{{GA Tracking App}}"
+                    }
+                ],
+                "fingerprint": "1442219593606",
+                "firingTriggerId": [
+                    "6"
+                ]
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "tagId": "5",
+                "name": "App checkoutOption Tag",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "BOOLEAN",
+                        "key": "nonInteraction",
+                        "value": "false"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "useEcommerceDataLayer",
+                        "value": "true"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventCategory",
+                        "value": "Ecommerce_App"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_EVENT"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "collectAdid",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventAction",
+                        "value": "Checkout Option"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "enableEcommerce",
+                        "value": "true"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "UA-42058338-1"
+                    }
+                ],
+                "fingerprint": "1438680602533",
+                "firingTriggerId": [
+                    "9"
+                ],
+                "tagFiringOption": "ONCE_PER_EVENT"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "tagId": "3",
+                "name": "App productClick Tag",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "BOOLEAN",
+                        "key": "nonInteraction",
+                        "value": "false"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "useEcommerceDataLayer",
+                        "value": "true"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventCategory",
+                        "value": "Ecommerce_App"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_EVENT"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "collectAdid",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventAction",
+                        "value": "Product Click"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "enableEcommerce",
+                        "value": "true"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "UA-42058338-1"
+                    }
+                ],
+                "fingerprint": "1438680429770",
+                "firingTriggerId": [
+                    "7"
+                ],
+                "tagFiringOption": "ONCE_PER_EVENT"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "tagId": "4",
+                "name": "App checkout Tag",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "BOOLEAN",
+                        "key": "nonInteraction",
+                        "value": "false"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "useEcommerceDataLayer",
+                        "value": "true"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventCategory",
+                        "value": "Ecommerce_App"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_EVENT"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "collectAdid",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventAction",
+                        "value": "Checkout"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "enableEcommerce",
+                        "value": "true"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "UA-42058338-1"
+                    }
+                ],
+                "fingerprint": "1438680413079",
+                "firingTriggerId": [
+                    "8"
+                ],
+                "tagFiringOption": "ONCE_PER_EVENT"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "tagId": "1",
+                "name": "Img Click",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "BOOLEAN",
+                        "key": "nonInteraction",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventCategory",
+                        "value": "{{EVENT CATEGORY}}"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "collectAdid",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_EVENT"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventLabel",
+                        "value": "{{EVENT LABEL}}"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventAction",
+                        "value": "{{EVENT ACTION}}"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "enableEcommerce",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "{{GA Tracking App}}"
+                    }
+                ],
+                "fingerprint": "1442219290868",
+                "firingTriggerId": [
+                    "5"
+                ]
+            }
+        ],
+        "trigger": [
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "triggerId": "4",
+                "name": "Always",
+                "type": "ALWAYS",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{true}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "true"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1423559532579"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "triggerId": "7",
+                "name": "App productClick Click",
+                "type": "ALWAYS",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{event}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "productClick"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1438679570681"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "triggerId": "9",
+                "name": "App Checkout Option",
+                "type": "ALWAYS",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{event}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "checkoutOption"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1438680588337"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "triggerId": "8",
+                "name": "App checkout",
+                "type": "ALWAYS",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{event}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "checkout"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1438680400806"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "triggerId": "5",
+                "name": "Img Click Event",
+                "type": "ALWAYS",
+                "filter": [
+                    {
+                        "type": "CONTAINS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{event}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "imgClick"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1424069095470"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "triggerId": "6",
+                "name": "Screen Open Event",
+                "type": "ALWAYS",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{event}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "screenOpen"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1438678596801"
+            }
+        ],
+        "variable": [
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "32",
+                "name": "201504 BulletDelivery AB Test",
+                "type": "gae",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricId",
+                        "value": "analytics.transactions"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "endingVariation",
+                        "value": "BEST_PERFORMING"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "minLength",
+                        "value": "14"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaPropertyId",
+                        "value": "71693355"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveOptimizationType",
+                        "value": "MAXIMUM"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaTrackingId",
+                        "value": "UA-42058338-1"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaAccountId",
+                        "value": "42058338"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "trafficCoverage",
+                        "value": "100"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaProfileId",
+                        "value": "73964858"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "variations",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Original"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{\n  'bullet_ver': 'A',\n  '201504_obj': '201504_BulletDelivery_A',\n}\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Variation 1"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{\n  'bullet_ver': 'B',\n  '201504_obj': '201504_BulletDelivery_B',\n}\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricBackendName",
+                        "value": "analytics.transactions"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "experimentKey",
+                        "value": "GTM-5MK6BX_KFF66"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "uniformWeight",
+                        "value": "false"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "winnerConfidence",
+                        "value": "950"
+                    }
+                ],
+                "enablingTriggerId": [
+                    "4"
+                ],
+                "fingerprint": "1428886714530"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "44",
+                "name": "App_ImageAB_ver2_각메인 매장별 AB테스트",
+                "type": "gae",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricId",
+                        "value": "analytics.goal11Completions"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "endingVariation",
+                        "value": "BEST_PERFORMING"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "minLength",
+                        "value": "14"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaPropertyId",
+                        "value": "71693355"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveOptimizationType",
+                        "value": "MAXIMUM"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaTrackingId",
+                        "value": "UA-42058338-1"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaAccountId",
+                        "value": "42058338"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "trafficCoverage",
+                        "value": "100"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaProfileId",
+                        "value": "73964858"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "variations",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Original"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{ 'App_ImageAB_ver2': 'A', 'App_ImageAB_Area_obj2': '총알배송_A', }"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Variation 1"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{ 'App_ImageAB_ver2': 'B', 'App_ImageAB_Area_obj2': '총알배송_B', }"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricBackendName",
+                        "value": "analytics.goal_completions_11"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "experimentKey",
+                        "value": "GTM-5MK6BX_N8GMC"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "uniformWeight",
+                        "value": "false"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "winnerConfidence",
+                        "value": "950"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalId",
+                        "value": "25110519"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalNumber",
+                        "value": "11"
+                    }
+                ],
+                "enablingTriggerId": [
+                    "2147479555"
+                ],
+                "fingerprint": "1436505487759"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "18",
+                "name": "EVENT ACTION",
+                "type": "v",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "name",
+                        "value": "eventAction"
+                    }
+                ],
+                "fingerprint": "1424068931486"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "17",
+                "name": "EVENT CATEGORY",
+                "type": "v",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "name",
+                        "value": "eventCategory"
+                    }
+                ],
+                "fingerprint": "1424068898647"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "19",
+                "name": "EVENT LABEL",
+                "type": "v",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "name",
+                        "value": "eventLabel"
+                    }
+                ],
+                "fingerprint": "1424080085217"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "52",
+                "name": "GA Tracking App",
+                "type": "c",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "value",
+                        "value": "UA-42058338-5"
+                    }
+                ],
+                "fingerprint": "1442219237910"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "16",
+                "name": "IMG URL AB Test",
+                "type": "gae",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricId",
+                        "value": "analytics.appviews"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "endingVariation",
+                        "value": "BEST_PERFORMING"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "minLength",
+                        "value": "14"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaPropertyId",
+                        "value": "92397324"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveOptimizationType",
+                        "value": "MAXIMUM"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaTrackingId",
+                        "value": "UA-48514918-4"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaAccountId",
+                        "value": "48514918"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "trafficCoverage",
+                        "value": "100"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaProfileId",
+                        "value": "96186046"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "variations",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Original"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'img-url':'/img/a.jpg'}\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Variation 1"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'img-url':'/img/b.jpg'}\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricBackendName",
+                        "value": "analytics.appviews"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "experimentKey",
+                        "value": "GTM-5MK6BX_WFFQVC49N2V87"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "uniformWeight",
+                        "value": "false"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "winnerConfidence",
+                        "value": "950"
+                    }
+                ],
+                "enablingTriggerId": [
+                    "4"
+                ],
+                "fingerprint": "1424064632078"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "24",
+                "name": "IMG URL AB Test_3",
+                "type": "gae",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricId",
+                        "value": "analytics.goal6Completions"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "endingVariation",
+                        "value": "BEST_PERFORMING"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "minLength",
+                        "value": "14"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaPropertyId",
+                        "value": "71693355"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveOptimizationType",
+                        "value": "MAXIMUM"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaTrackingId",
+                        "value": "UA-42058338-1"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaAccountId",
+                        "value": "42058338"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "trafficCoverage",
+                        "value": "100"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaProfileId",
+                        "value": "73964858"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "variations",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Original"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'img-url':'/img/a.jpg'}\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Variation 1"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'img-url':'/img/b.jpg'}\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricBackendName",
+                        "value": "analytics.goal_completions_6"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "experimentKey",
+                        "value": "GTM-5MK6BX_TPF5K"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "uniformWeight",
+                        "value": "false"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "winnerConfidence",
+                        "value": "950"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalId",
+                        "value": "22450315"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalNumber",
+                        "value": "6"
+                    }
+                ],
+                "enablingTriggerId": [
+                    "4"
+                ],
+                "fingerprint": "1424841067532"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "33",
+                "name": "SCREEN NAME",
+                "type": "v",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "name",
+                        "value": "screenName"
+                    }
+                ],
+                "fingerprint": "1430096939103"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "15",
+                "name": "Title Color AB Test",
+                "type": "gae",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricId",
+                        "value": "analytics.appviews"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "endingVariation",
+                        "value": "BEST_PERFORMING"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "minLength",
+                        "value": "14"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaPropertyId",
+                        "value": "92397324"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveOptimizationType",
+                        "value": "MAXIMUM"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaTrackingId",
+                        "value": "UA-48514918-4"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaAccountId",
+                        "value": "48514918"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "trafficCoverage",
+                        "value": "100"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaProfileId",
+                        "value": "96186046"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "variations",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Original"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'titleColor':'red'}\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Variation 1"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'titleColor':'blue'}\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricBackendName",
+                        "value": "analytics.appviews"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "experimentKey",
+                        "value": "GTM-5MK6BX_MZ8RX"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "uniformWeight",
+                        "value": "false"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "winnerConfidence",
+                        "value": "950"
+                    }
+                ],
+                "enablingTriggerId": [
+                    "4"
+                ],
+                "fingerprint": "1424064372568"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "23",
+                "name": "Title Color AB Test_3",
+                "type": "gae",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricId",
+                        "value": "analytics.goal6Completions"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "endingVariation",
+                        "value": "BEST_PERFORMING"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "minLength",
+                        "value": "14"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaPropertyId",
+                        "value": "71693355"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveOptimizationType",
+                        "value": "MAXIMUM"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaTrackingId",
+                        "value": "UA-42058338-1"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaAccountId",
+                        "value": "42058338"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "trafficCoverage",
+                        "value": "100"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaProfileId",
+                        "value": "73964858"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "variations",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Original"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'titleColor':'red'}\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Variation 1"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{'titleColor':'blue'}\n"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricBackendName",
+                        "value": "analytics.goal_completions_6"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "experimentKey",
+                        "value": "GTM-5MK6BX_KDGHJ"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "uniformWeight",
+                        "value": "false"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "winnerConfidence",
+                        "value": "950"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalId",
+                        "value": "22450315"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalNumber",
+                        "value": "6"
+                    }
+                ],
+                "enablingTriggerId": [
+                    "4"
+                ],
+                "fingerprint": "1424840944346"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "10",
+                "name": "advertising tracking enabled",
+                "type": "ate",
+                "fingerprint": "1423559532577"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "11",
+                "name": "app id",
+                "type": "ai",
+                "fingerprint": "1423559532578"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "1",
+                "name": "app name",
+                "type": "an",
+                "fingerprint": "1423559532575"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "2",
+                "name": "app version",
+                "type": "av",
+                "fingerprint": "1423559532575"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "14",
+                "name": "device id",
+                "type": "did",
+                "fingerprint": "1423559532578"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "3",
+                "name": "device name",
+                "type": "dn",
+                "fingerprint": "1423559532576"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "12",
+                "name": "event",
+                "type": "e",
+                "fingerprint": "1423559532578"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "13",
+                "name": "id for advertising",
+                "type": "aid",
+                "fingerprint": "1423559532578"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "4",
+                "name": "language",
+                "type": "l",
+                "fingerprint": "1423559532576"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "5",
+                "name": "os version",
+                "type": "ov",
+                "fingerprint": "1423559532576"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "6",
+                "name": "platform",
+                "type": "p",
+                "fingerprint": "1423559532576"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "7",
+                "name": "screen resolution",
+                "type": "rs",
+                "fingerprint": "1423559532577"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "8",
+                "name": "sdk version",
+                "type": "sv",
+                "fingerprint": "1423559532577"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "9",
+                "name": "true",
+                "type": "c",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "value",
+                        "value": "true"
+                    }
+                ],
+                "fingerprint": "1423559532577"
+            },
+            {
+                "accountId": "338556",
+                "containerId": "1015044",
+                "variableId": "36",
+                "name": "재설정 201505 Back_Key Test",
+                "type": "gae",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricId",
+                        "value": "analytics.goal8Completions"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "endingVariation",
+                        "value": "BEST_PERFORMING"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "minLength",
+                        "value": "14"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaPropertyId",
+                        "value": "71693355"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveOptimizationType",
+                        "value": "MAXIMUM"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaTrackingId",
+                        "value": "UA-42058338-1"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaAccountId",
+                        "value": "42058338"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "trafficCoverage",
+                        "value": "100"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "gaProfileId",
+                        "value": "73964858"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "variations",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Original"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{\n  'backKey_ver': 'A',\n  '201505_obj2': '201505_BackKey_A',\n}"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "name",
+                                        "value": "Variation 1"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "collection",
+                                        "value": "{\n  'backKey_ver': 'B',\n  '201505_obj2': '201505_BackKey_B',\n}"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveMetricBackendName",
+                        "value": "analytics.goal_completions_8"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "experimentKey",
+                        "value": "GTM-5MK6BX_TWTPDQ85J7CM"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "uniformWeight",
+                        "value": "false"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "key": "winnerConfidence",
+                        "value": "950"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalId",
+                        "value": "24988268"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "objectiveGoalNumber",
+                        "value": "8"
+                    }
+                ],
+                "enablingTriggerId": [
+                    "2147479555"
+                ],
+                "fingerprint": "1435815934694"
+            }
+        ],
+        "fingerprint": "1442219597763",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/338556/containers/1015044/versions/36?apiLink=version"
+    }
+}

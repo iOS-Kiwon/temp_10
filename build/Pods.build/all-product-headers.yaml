@@ -1,0 +1,467 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/Appboy-iOS-SDK/Appboy_iOS_SDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ABKAppboyEndpointDelegate.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKAppboyEndpointDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKAttributionData.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKAttributionData.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKBannerCard.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKBannerCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKCaptionedImageCard.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKCaptionedImageCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKCard.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKClassicCard.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKClassicCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKCrossPromotionCard.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKCrossPromotionCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFacebookUser.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFacebookUser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedViewControllerDelegate.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedViewControllerDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedViewControllerGenericContext.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedViewControllerGenericContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedViewControllerModalContext.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedViewControllerModalContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedViewControllerNavigationContext.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedViewControllerNavigationContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedViewControllerPopoverContext.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedViewControllerPopoverContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedback.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedback.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedbackViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedbackViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedbackViewControllerModalContext.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedbackViewControllerModalContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedbackViewControllerNavigationContext.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedbackViewControllerNavigationContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKFeedbackViewControllerPopoverContext.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKFeedbackViewControllerPopoverContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKIDFADelegate.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKIDFADelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKIdentifierForAdvertisingProvider.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKIdentifierForAdvertisingProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessage.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageButton.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageControllerDelegate.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageControllerDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageFull.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageFull.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageFullViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageFullViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageHTML.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageHTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageHTMLFull.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageHTMLFull.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageHTMLFullViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageHTMLFullViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageHTMLViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageHTMLViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageImmersive.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageImmersive.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageImmersiveViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageImmersiveViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageModal.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageModal.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageModalViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageModalViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageSlideup.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageSlideup.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageSlideupViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageSlideupViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageView.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKInAppMessageWindowController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKInAppMessageWindowController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKLocationManager.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKLocationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKModalWebViewController.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKModalWebViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKNavigationBar.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKNavigationBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKNoConnectionLocalization.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKNoConnectionLocalization.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKPushURIDelegate.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKPushURIDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKPushUtils.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKPushUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKSDWebImageProxy.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKSDWebImageProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKTextAnnouncementCard.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKTextAnnouncementCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKThemableFeedNavigationBar.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKThemableFeedNavigationBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKTwitterUser.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKTwitterUser.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKURLDelegate.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKURLDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ABKUser.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/ABKUser.h"
+        },
+        {
+          'type': 'file',
+          'name': "Appboy-iOS-SDK-umbrella.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Target Support Files/Appboy-iOS-SDK/Appboy-iOS-SDK-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Appboy.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/Appboy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppboyKit.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Appboy-iOS-SDK/AppboyKit/headers/AppboyKitLibrary/AppboyKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "Appboy_iOS_SDK-Swift.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/Appboy-iOS-SDK/Appboy_iOS_SDK.framework/Headers/Appboy_iOS_SDK-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/Appboy-iOS-SDK/Appboy_iOS_SDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Pods.build/Debug-iphonesimulator/Appboy-iOS-SDK.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/FLAnimatedImage/FLAnimatedImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLAnimatedImage-Swift.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/FLAnimatedImage/FLAnimatedImage.framework/Headers/FLAnimatedImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLAnimatedImage-umbrella.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Target Support Files/FLAnimatedImage/FLAnimatedImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLAnimatedImage.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/FLAnimatedImage/FLAnimatedImage/FLAnimatedImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLAnimatedImageView.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/FLAnimatedImage/FLAnimatedImage/FLAnimatedImageView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/FLAnimatedImage/FLAnimatedImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Pods.build/Debug-iphonesimulator/FLAnimatedImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLAnimatedImageView+WebCache.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/FLAnimatedImage/FLAnimatedImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSImage+WebCache.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/NSImage+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCacheConfig.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCache.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/UIView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/nami0342/GS_SVN/SVN_NEXT/GSSHOP/trunk/gsshop-iphone/build/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="W9R-1c-818">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="27"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="W9R-1c-818" id="NfR-jZ-fV8">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="26"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="7vE-a3-5Wa" userLabel="point">
+                        <rect key="frame" x="9" y="6" width="6" height="6"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="6" id="RO4-gw-aDI"/>
+                            <constraint firstAttribute="height" constant="6" id="SI9-Ih-nmY"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="4월11일" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="56n-7m-jzS">
+                        <rect key="frame" x="19" y="-2" width="58" height="21"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                        <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="7vE-a3-5Wa" firstAttribute="centerY" secondItem="56n-7m-jzS" secondAttribute="centerY" id="mMd-iy-21Q"/>
+                </constraints>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="56n-7m-jzS" secondAttribute="bottom" constant="8" id="JQ1-9P-BMt"/>
+                <constraint firstItem="56n-7m-jzS" firstAttribute="leading" secondItem="W9R-1c-818" secondAttribute="leading" constant="19" id="Juk-a7-nZW"/>
+                <constraint firstItem="7vE-a3-5Wa" firstAttribute="leading" secondItem="W9R-1c-818" secondAttribute="leading" constant="9" id="KUy-p0-0HQ"/>
+            </constraints>
+            <point key="canvasLocation" x="224" y="166.5"/>
+        </tableViewCell>
+    </objects>
+</document>

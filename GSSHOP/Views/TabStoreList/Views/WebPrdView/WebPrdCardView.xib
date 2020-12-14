@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="iN0-l3-epB" customClass="WebPrdCardView" customModule="GSSHOP_APPSTORE" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="70"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_card" translatesAutoresizingMaskIntoConstraints="NO" id="X49-wH-Std">
+                    <rect key="frame" x="14" y="2" width="20" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="E78-mR-Oyb"/>
+                        <constraint firstAttribute="width" constant="20" id="mD2-xw-nA4"/>
+                    </constraints>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EbF-I9-Ifc">
+                    <rect key="frame" x="42" y="3" width="238" height="55"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                </view>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_arrow_right_24" translatesAutoresizingMaskIntoConstraints="NO" id="BUO-jk-tO0">
+                    <rect key="frame" x="288" y="18.5" width="24" height="24"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="24" id="hTr-P6-tSQ"/>
+                        <constraint firstAttribute="width" constant="24" id="hvG-wP-acc"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="B46-sS-vHp">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="70"/>
+                    <connections>
+                        <action selector="linkBtnAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="59v-xt-Epv"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="X49-wH-Std" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="14" id="13l-HD-fvp"/>
+                <constraint firstItem="B46-sS-vHp" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="3OJ-RN-STb"/>
+                <constraint firstAttribute="bottom" secondItem="EbF-I9-Ifc" secondAttribute="bottom" constant="12" id="3cA-bZ-zbJ"/>
+                <constraint firstItem="X49-wH-Std" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="2" id="7ec-zK-aC3"/>
+                <constraint firstItem="B46-sS-vHp" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="9JJ-CU-RlI"/>
+                <constraint firstAttribute="trailing" secondItem="B46-sS-vHp" secondAttribute="trailing" id="AvK-gk-FNq"/>
+                <constraint firstItem="BUO-jk-tO0" firstAttribute="leading" secondItem="EbF-I9-Ifc" secondAttribute="trailing" constant="8" id="Bfv-QG-tNS"/>
+                <constraint firstItem="BUO-jk-tO0" firstAttribute="centerY" secondItem="EbF-I9-Ifc" secondAttribute="centerY" id="ZcA-Xl-rn4"/>
+                <constraint firstAttribute="trailing" secondItem="BUO-jk-tO0" secondAttribute="trailing" constant="8" id="kzd-Jx-Ybe"/>
+                <constraint firstItem="EbF-I9-Ifc" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="3" id="wHH-Ma-MQa"/>
+                <constraint firstItem="EbF-I9-Ifc" firstAttribute="leading" secondItem="X49-wH-Std" secondAttribute="trailing" constant="8" id="wPS-qW-hiW"/>
+                <constraint firstAttribute="bottom" secondItem="B46-sS-vHp" secondAttribute="bottom" id="xsg-L1-jTN"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="baseView" destination="EbF-I9-Ifc" id="Mg0-wv-3cn"/>
+                <outlet property="iconImgView" destination="X49-wH-Std" id="rSB-Pf-rkQ"/>
+                <outlet property="linkImgView" destination="BUO-jk-tO0" id="iTJ-dR-rsT"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="144.64285714285714"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_arrow_right_24" width="24" height="24"/>
+        <image name="ic_card" width="20" height="20"/>
+    </resources>
+</document>

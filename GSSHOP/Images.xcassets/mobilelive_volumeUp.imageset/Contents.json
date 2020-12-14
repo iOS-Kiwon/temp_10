@@ -1,0 +1,34 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "mobilelive_volumeUp.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "mobilelive_volumeUp@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "3-part-horizontal",
+        "center" : {
+          "mode" : "stretch",
+          "width" : 1
+        },
+        "cap-insets" : {
+          "right" : 42,
+          "left" : 41
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "mobilelive_volumeUp@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

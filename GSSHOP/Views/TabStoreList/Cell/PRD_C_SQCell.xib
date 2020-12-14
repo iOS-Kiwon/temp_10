@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="PRD_C_SQCell" rowHeight="354" id="KGk-i7-Jjw" customClass="PRD_C_SQCell" customModule="GSSHOP" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="354"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="353.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="eda-cz-ULa" userLabel="Top Bg View">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="343.5"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </view>
+                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="Dre-Ti-pij">
+                        <rect key="frame" x="0.0" y="56" width="320" height="229"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="229" id="Ts2-PF-M8a"/>
+                        </constraints>
+                        <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="IWh-YC-6cJ">
+                            <size key="itemSize" width="50" height="50"/>
+                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        </collectionViewFlowLayout>
+                    </collectionView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TAi-8a-yUC" userLabel="Line VIew">
+                        <rect key="frame" x="0.0" y="342.5" width="320" height="1"/>
+                        <color key="backgroundColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="0.10000000000000001" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="Yab-vD-GzL"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="eda-cz-ULa" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="5FI-da-JmR"/>
+                    <constraint firstItem="TAi-8a-yUC" firstAttribute="bottom" secondItem="eda-cz-ULa" secondAttribute="bottom" id="5kx-XZ-mC6"/>
+                    <constraint firstItem="TAi-8a-yUC" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="8Q6-p8-ELR"/>
+                    <constraint firstAttribute="trailing" secondItem="eda-cz-ULa" secondAttribute="trailing" id="A4V-ts-xey"/>
+                    <constraint firstAttribute="trailing" secondItem="TAi-8a-yUC" secondAttribute="trailing" id="IST-lY-ckc"/>
+                    <constraint firstItem="Dre-Ti-pij" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="SH8-uR-vSJ"/>
+                    <constraint firstItem="eda-cz-ULa" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="a1j-IN-ViI"/>
+                    <constraint firstAttribute="bottom" secondItem="eda-cz-ULa" secondAttribute="bottom" constant="10" id="ma7-aD-cyK"/>
+                    <constraint firstAttribute="trailing" secondItem="Dre-Ti-pij" secondAttribute="trailing" id="xG1-6X-5Te"/>
+                    <constraint firstItem="Dre-Ti-pij" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="56" id="xSn-7j-fzo"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="collectionView" destination="Dre-Ti-pij" id="ufT-SM-jX2"/>
+                <outlet property="collectionViewTop" destination="xSn-7j-fzo" id="CSj-hY-j2i"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="256.47321428571428"/>
+        </tableViewCell>
+    </objects>
+</document>

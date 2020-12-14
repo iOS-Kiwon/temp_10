@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15705"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="iN0-l3-epB" customClass="WebPrdVipView" customModule="GSSHOP" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="75"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="y7p-p6-0pw">
+                    <rect key="frame" x="14" y="0.0" width="292" height="63"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="y7p-p6-0pw" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="6b0-Dp-Wqj"/>
+                <constraint firstItem="y7p-p6-0pw" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="14" id="Oim-lg-ltV"/>
+                <constraint firstAttribute="trailing" secondItem="y7p-p6-0pw" secondAttribute="trailing" constant="14" id="ewc-pQ-SAw"/>
+                <constraint firstAttribute="bottom" secondItem="y7p-p6-0pw" secondAttribute="bottom" constant="12" id="l1t-e3-fkd"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="baseView" destination="y7p-p6-0pw" id="rWd-z5-s3U"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="58.59375"/>
+        </view>
+    </objects>
+</document>

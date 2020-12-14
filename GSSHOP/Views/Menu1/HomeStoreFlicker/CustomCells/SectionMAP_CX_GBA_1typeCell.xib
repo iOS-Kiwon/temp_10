@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="default" indentationWidth="10" reuseIdentifier="SectionMAP_CX_GBA_1typeCell" rowHeight="131" id="KGk-i7-Jjw" customClass="SectionMAP_CX_GBA_1typeCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="160"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="159.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_320.png" translatesAutoresizingMaskIntoConstraints="NO" id="j7u-JJ-f6e" userLabel="noImg">
+                        <rect key="frame" x="0.0" y="-1" width="320" height="160"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="6s3-Rm-G1C">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="160"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ShR-er-Qq5">
+                        <rect key="frame" x="30" y="0.0" width="260" height="160"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="btn_arrow.png" translatesAutoresizingMaskIntoConstraints="NO" id="uHl-ht-EeZ">
+                        <rect key="frame" x="286" y="126" width="24" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="24" id="0dy-ZG-OnC"/>
+                            <constraint firstAttribute="width" constant="24" id="ASO-GY-YFR"/>
+                        </constraints>
+                    </imageView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lAw-44-ObD" userLabel="zzim">
+                        <rect key="frame" x="276" y="115" width="44" height="44"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="zzim_off.png" highlightedImage="zzim_on.png" translatesAutoresizingMaskIntoConstraints="NO" id="UnP-72-Mhx">
+                                <rect key="frame" x="10" y="10" width="24" height="24"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="24" id="dAX-6N-foh"/>
+                                    <constraint firstAttribute="width" constant="24" id="t5H-wz-soN"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b65-Pb-EQi" userLabel="zzim">
+                                <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                                <connections>
+                                    <action selector="zzimAction:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="XW2-xS-VdR"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="b65-Pb-EQi" firstAttribute="width" secondItem="lAw-44-ObD" secondAttribute="width" id="5Dt-Lg-ZbE"/>
+                            <constraint firstItem="UnP-72-Mhx" firstAttribute="centerY" secondItem="lAw-44-ObD" secondAttribute="centerY" id="6jS-iV-MCt"/>
+                            <constraint firstItem="b65-Pb-EQi" firstAttribute="centerY" secondItem="lAw-44-ObD" secondAttribute="centerY" id="8h6-9p-VTw"/>
+                            <constraint firstAttribute="height" constant="44" id="9vT-Hb-Rtx"/>
+                            <constraint firstItem="b65-Pb-EQi" firstAttribute="centerX" secondItem="lAw-44-ObD" secondAttribute="centerX" id="KcA-qM-c1d"/>
+                            <constraint firstAttribute="width" constant="44" id="Z7A-Sr-nLo"/>
+                            <constraint firstItem="UnP-72-Mhx" firstAttribute="centerX" secondItem="lAw-44-ObD" secondAttribute="centerX" id="qvl-GI-LPG"/>
+                            <constraint firstItem="b65-Pb-EQi" firstAttribute="height" secondItem="lAw-44-ObD" secondAttribute="height" id="sTa-yh-rYs"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="ShR-er-Qq5" firstAttribute="centerY" secondItem="6s3-Rm-G1C" secondAttribute="centerY" id="30L-HW-785"/>
+                    <constraint firstItem="lAw-44-ObD" firstAttribute="trailing" secondItem="j7u-JJ-f6e" secondAttribute="trailing" id="7Fd-TV-GWM"/>
+                    <constraint firstItem="lAw-44-ObD" firstAttribute="bottom" secondItem="j7u-JJ-f6e" secondAttribute="bottom" id="pn5-0j-Vxg"/>
+                    <constraint firstItem="ShR-er-Qq5" firstAttribute="centerX" secondItem="6s3-Rm-G1C" secondAttribute="centerX" id="zMU-SM-1FJ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstItem="j7u-JJ-f6e" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" constant="-1" id="EsQ-hj-6HI"/>
+                <constraint firstItem="6s3-Rm-G1C" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="H2z-c8-Uni"/>
+                <constraint firstItem="j7u-JJ-f6e" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="Ry4-ga-ZjK"/>
+                <constraint firstItem="6s3-Rm-G1C" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="UzJ-PC-Wcs"/>
+                <constraint firstItem="6s3-Rm-G1C" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" id="VQE-Py-jr9"/>
+                <constraint firstAttribute="trailing" secondItem="uHl-ht-EeZ" secondAttribute="trailing" constant="10" id="XYZ-eT-8hg"/>
+                <constraint firstItem="ShR-er-Qq5" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="YnH-BR-EBz"/>
+                <constraint firstAttribute="bottom" secondItem="uHl-ht-EeZ" secondAttribute="bottom" constant="10" id="akU-xm-PQQ"/>
+                <constraint firstItem="j7u-JJ-f6e" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="eqz-vF-6f1"/>
+                <constraint firstItem="ShR-er-Qq5" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" constant="-60" id="ezM-Fa-z28"/>
+                <constraint firstItem="j7u-JJ-f6e" firstAttribute="width" secondItem="KGk-i7-Jjw" secondAttribute="width" id="joo-QO-d9Z"/>
+                <constraint firstItem="6s3-Rm-G1C" firstAttribute="height" secondItem="KGk-i7-Jjw" secondAttribute="height" id="vjI-I6-Ppp"/>
+            </constraints>
+            <connections>
+                <outlet property="btnZzim" destination="b65-Pb-EQi" id="1mI-lH-fv6"/>
+                <outlet property="mainImg" destination="6s3-Rm-G1C" id="5DQ-Kh-CVM"/>
+                <outlet property="mainTitle" destination="ShR-er-Qq5" id="scb-TA-Usi"/>
+                <outlet property="zzimImg" destination="UnP-72-Mhx" id="n4X-KE-Sbn"/>
+            </connections>
+            <point key="canvasLocation" x="33.600000000000001" y="28.785607196401802"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="btn_arrow.png" width="24" height="24"/>
+        <image name="noimg_320.png" width="640" height="324"/>
+        <image name="zzim_off.png" width="24" height="22"/>
+        <image name="zzim_on.png" width="24" height="22"/>
+    </resources>
+</document>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="5kx-ly-3yk" customClass="ChangeTVPWPopupView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view alpha="0.60000002384185791" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dYd-pB-jZq">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6fr-4g-lH9">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                    <connections>
+                        <action selector="onClickBtn:" destination="5kx-ly-3yk" eventType="touchUpInside" id="AOF-Iz-1Sg"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Dkl-Az-mMw">
+                    <rect key="frame" x="37.666666666666657" y="256" width="300" height="300"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="TV회원 로그인번호 4자리 변경 안내" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IFX-3N-cYb">
+                            <rect key="frame" x="0.0" y="0.0" width="300" height="40"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="uAb-pP-EcF"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                            <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sHz-sw-kxx">
+                            <rect key="frame" x="0.0" y="40" width="300" height="260"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="고객님, 최근 180일 동안 같은 로그인번호를 사용하고 계십니다." textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UVu-tz-wyR">
+                                    <rect key="frame" x="20" y="25" width="260" height="54"/>
+                                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                    <color key="textColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="로그인번호를 변경하여 개인정보를 안전하게 보호하시기 바랍니다." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ldZ-0L-2lM">
+                                    <rect key="frame" x="20" y="94" width="260" height="36"/>
+                                    <constraints>
+                                        <constraint firstAttribute="width" constant="260" id="BUw-OH-rkY"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                    <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="1020" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ctC-Vj-WRn">
+                                    <rect key="frame" x="50.333333333333343" y="150" width="200" height="40"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="40" id="nCf-JV-h0p"/>
+                                        <constraint firstAttribute="width" constant="200" id="pjO-ad-wlE"/>
+                                    </constraints>
+                                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                    <state key="normal" title="TV회원 로그인번호 변경하기" backgroundImage="bt_pw.png">
+                                        <color key="titleColor" red="0.066666666669999999" green="0.066666666669999999" blue="0.066666666669999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="onClickBtn:" destination="5kx-ly-3yk" eventType="touchUpInside" id="pI0-UN-DUW"/>
+                                    </connections>
+                                </button>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qVe-eq-wef">
+                                    <rect key="frame" x="0.0" y="215" width="300" height="45"/>
+                                    <subviews>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LL5-oK-UIK">
+                                            <rect key="frame" x="0.0" y="0.0" width="300" height="1"/>
+                                            <color key="backgroundColor" red="0.8980392157" green="0.8980392157" blue="0.8980392157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="1" id="NTc-X4-HfU"/>
+                                            </constraints>
+                                        </view>
+                                        <button opaque="NO" tag="1010" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ju8-aZ-mlu">
+                                            <rect key="frame" x="0.0" y="0.0" width="150" height="45"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                            <state key="normal" title="30일간 보지 않기">
+                                                <color key="titleColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </state>
+                                            <connections>
+                                                <action selector="onClickBtn:" destination="5kx-ly-3yk" eventType="touchUpInside" id="VgC-g5-nlq"/>
+                                            </connections>
+                                        </button>
+                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mzv-km-2Iv">
+                                            <rect key="frame" x="150" y="0.0" width="150" height="45"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                            <state key="normal" title="닫기">
+                                                <color key="titleColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </state>
+                                            <connections>
+                                                <action selector="onClickBtn:" destination="5kx-ly-3yk" eventType="touchUpInside" id="VL8-on-CtK"/>
+                                            </connections>
+                                        </button>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2tU-NF-w6r">
+                                            <rect key="frame" x="150" y="0.0" width="1" height="45"/>
+                                            <color key="backgroundColor" red="0.8980392157" green="0.8980392157" blue="0.8980392157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="1" id="T9l-HX-viB"/>
+                                            </constraints>
+                                        </view>
+                                    </subviews>
+                                    <color key="backgroundColor" red="0.96862745100000003" green="0.96862745100000003" blue="0.96862745100000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <constraints>
+                                        <constraint firstItem="LL5-oK-UIK" firstAttribute="leading" secondItem="qVe-eq-wef" secondAttribute="leading" id="1JK-R9-7qU"/>
+                                        <constraint firstItem="Ju8-aZ-mlu" firstAttribute="top" secondItem="qVe-eq-wef" secondAttribute="top" id="4if-nI-sL1"/>
+                                        <constraint firstAttribute="height" constant="45" id="7qA-CM-ATz"/>
+                                        <constraint firstItem="mzv-km-2Iv" firstAttribute="top" secondItem="qVe-eq-wef" secondAttribute="top" id="IEO-kG-kTN"/>
+                                        <constraint firstItem="2tU-NF-w6r" firstAttribute="centerX" secondItem="qVe-eq-wef" secondAttribute="centerX" id="LgF-tE-zAl"/>
+                                        <constraint firstItem="Ju8-aZ-mlu" firstAttribute="leading" secondItem="qVe-eq-wef" secondAttribute="leading" id="UVo-Gz-AMf"/>
+                                        <constraint firstItem="Ju8-aZ-mlu" firstAttribute="height" secondItem="qVe-eq-wef" secondAttribute="height" id="UxZ-jq-EAF"/>
+                                        <constraint firstItem="2tU-NF-w6r" firstAttribute="height" secondItem="qVe-eq-wef" secondAttribute="height" id="W49-sA-e4U"/>
+                                        <constraint firstItem="mzv-km-2Iv" firstAttribute="width" secondItem="qVe-eq-wef" secondAttribute="width" multiplier="0.5" id="Xn6-NK-d12"/>
+                                        <constraint firstItem="LL5-oK-UIK" firstAttribute="width" secondItem="qVe-eq-wef" secondAttribute="width" id="b3D-Wt-ffb"/>
+                                        <constraint firstItem="mzv-km-2Iv" firstAttribute="height" secondItem="qVe-eq-wef" secondAttribute="height" id="glD-EC-xfV"/>
+                                        <constraint firstItem="2tU-NF-w6r" firstAttribute="centerY" secondItem="qVe-eq-wef" secondAttribute="centerY" id="rba-eW-Svt"/>
+                                        <constraint firstAttribute="trailing" secondItem="mzv-km-2Iv" secondAttribute="trailing" id="u3v-Wg-TFv"/>
+                                        <constraint firstItem="Ju8-aZ-mlu" firstAttribute="width" secondItem="qVe-eq-wef" secondAttribute="width" multiplier="0.5" id="xuH-Kf-hgP"/>
+                                        <constraint firstItem="LL5-oK-UIK" firstAttribute="top" secondItem="qVe-eq-wef" secondAttribute="top" id="z8l-O8-eLk"/>
+                                    </constraints>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstItem="ldZ-0L-2lM" firstAttribute="top" secondItem="UVu-tz-wyR" secondAttribute="bottom" constant="15" id="4Em-z9-hxU"/>
+                                <constraint firstAttribute="width" constant="300" id="6hU-zM-kCF"/>
+                                <constraint firstItem="ctC-Vj-WRn" firstAttribute="centerX" secondItem="sHz-sw-kxx" secondAttribute="centerX" id="8UV-MW-bVj"/>
+                                <constraint firstItem="ldZ-0L-2lM" firstAttribute="centerX" secondItem="sHz-sw-kxx" secondAttribute="centerX" id="Cra-dt-bV3"/>
+                                <constraint firstItem="ctC-Vj-WRn" firstAttribute="top" secondItem="ldZ-0L-2lM" secondAttribute="bottom" constant="20" id="DhN-V8-e0R"/>
+                                <constraint firstItem="UVu-tz-wyR" firstAttribute="top" secondItem="sHz-sw-kxx" secondAttribute="top" constant="25" id="FA5-2k-g2G"/>
+                                <constraint firstAttribute="height" constant="260" id="OjE-K4-olZ"/>
+                                <constraint firstItem="qVe-eq-wef" firstAttribute="width" secondItem="sHz-sw-kxx" secondAttribute="width" id="YGl-N3-2jC"/>
+                                <constraint firstItem="UVu-tz-wyR" firstAttribute="centerX" secondItem="sHz-sw-kxx" secondAttribute="centerX" id="bQ0-tQ-h2c"/>
+                                <constraint firstAttribute="bottom" secondItem="qVe-eq-wef" secondAttribute="bottom" id="i26-Rv-2BP"/>
+                                <constraint firstItem="UVu-tz-wyR" firstAttribute="width" secondItem="sHz-sw-kxx" secondAttribute="width" constant="-40" id="ide-KL-tHy"/>
+                                <constraint firstItem="qVe-eq-wef" firstAttribute="centerX" secondItem="sHz-sw-kxx" secondAttribute="centerX" id="nIX-bR-TSj"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IdW-CT-J2p">
+                            <rect key="frame" x="0.0" y="40" width="300" height="1"/>
+                            <color key="backgroundColor" red="0.89803921568627454" green="0.89803921568627454" blue="0.89803921568627454" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="W6V-ZW-DHU"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="IFX-3N-cYb" firstAttribute="centerX" secondItem="Dkl-Az-mMw" secondAttribute="centerX" id="45g-QV-dHt"/>
+                        <constraint firstItem="IFX-3N-cYb" firstAttribute="width" secondItem="Dkl-Az-mMw" secondAttribute="width" id="5PJ-gD-5rQ"/>
+                        <constraint firstItem="sHz-sw-kxx" firstAttribute="top" secondItem="Dkl-Az-mMw" secondAttribute="top" constant="40" id="PZT-3F-FpE"/>
+                        <constraint firstItem="IdW-CT-J2p" firstAttribute="leading" secondItem="Dkl-Az-mMw" secondAttribute="leading" id="SU0-IH-XLm"/>
+                        <constraint firstItem="sHz-sw-kxx" firstAttribute="leading" secondItem="Dkl-Az-mMw" secondAttribute="leading" id="SeA-7R-kWa"/>
+                        <constraint firstItem="IdW-CT-J2p" firstAttribute="top" secondItem="Dkl-Az-mMw" secondAttribute="top" constant="40" id="fzV-ra-IsX"/>
+                        <constraint firstAttribute="width" constant="300" id="jyz-Fc-UMJ"/>
+                        <constraint firstItem="IFX-3N-cYb" firstAttribute="top" secondItem="Dkl-Az-mMw" secondAttribute="top" id="k76-Zv-Xz8"/>
+                        <constraint firstAttribute="height" constant="300" id="qdP-vS-abE"/>
+                        <constraint firstItem="IdW-CT-J2p" firstAttribute="width" secondItem="Dkl-Az-mMw" secondAttribute="width" id="sqL-7i-x4U"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="6fr-4g-lH9" firstAttribute="centerY" secondItem="5kx-ly-3yk" secondAttribute="centerY" id="1hM-zJ-eDc"/>
+                <constraint firstItem="6fr-4g-lH9" firstAttribute="width" secondItem="5kx-ly-3yk" secondAttribute="width" id="B34-Bd-JAP"/>
+                <constraint firstItem="Dkl-Az-mMw" firstAttribute="centerX" secondItem="5kx-ly-3yk" secondAttribute="centerX" id="CeZ-Cy-XvW"/>
+                <constraint firstItem="dYd-pB-jZq" firstAttribute="centerX" secondItem="5kx-ly-3yk" secondAttribute="centerX" id="JFL-lx-ceV"/>
+                <constraint firstItem="Dkl-Az-mMw" firstAttribute="centerY" secondItem="5kx-ly-3yk" secondAttribute="centerY" id="Owj-YX-o3c"/>
+                <constraint firstItem="6fr-4g-lH9" firstAttribute="height" secondItem="5kx-ly-3yk" secondAttribute="height" id="ZEa-BQ-lAx"/>
+                <constraint firstItem="dYd-pB-jZq" firstAttribute="centerY" secondItem="5kx-ly-3yk" secondAttribute="centerY" id="bX5-09-KeA"/>
+                <constraint firstItem="dYd-pB-jZq" firstAttribute="height" secondItem="5kx-ly-3yk" secondAttribute="height" id="cIr-0b-oGG"/>
+                <constraint firstItem="6fr-4g-lH9" firstAttribute="centerX" secondItem="5kx-ly-3yk" secondAttribute="centerX" id="qkp-uB-kFJ"/>
+                <constraint firstItem="dYd-pB-jZq" firstAttribute="width" secondItem="5kx-ly-3yk" secondAttribute="width" id="w78-xK-mUj"/>
+            </constraints>
+            <connections>
+                <outlet property="viewPopupContents" destination="sHz-sw-kxx" id="vp0-4Y-5JR"/>
+            </connections>
+            <point key="canvasLocation" x="494" y="-15"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bt_pw.png" width="180" height="40"/>
+    </resources>
+</document>

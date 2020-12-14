@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="none" indentationWidth="10" reuseIdentifier="SectionPCtypeSubCell" id="KGk-i7-Jjw" customClass="SectionPCtypeSubCell">
+            <rect key="frame" x="0.0" y="0.0" width="116" height="108"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="116" height="107.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="btnProgram" destination="zcA-b6-wrU" id="gQS-3J-j0p"/>
+                <outlet property="imgProgram" destination="XvY-Ag-6nT" id="odW-rB-VgE"/>
+                <outlet property="lblProgramTime" destination="7NH-Bt-VYq" id="Bcg-ch-pkN"/>
+                <outlet property="lblProgramTitle" destination="LV8-6Q-stf" id="t5w-G2-IOh"/>
+                <outlet property="viewProgram" destination="xgw-HF-vnv" id="zYP-8P-0SS"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="54"/>
+        </tableViewCell>
+        <view contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="xgw-HF-vnv">
+            <rect key="frame" x="0.0" y="0.0" width="78" height="122"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="noimg_160.png" translatesAutoresizingMaskIntoConstraints="NO" id="XvY-Ag-6nT">
+                    <rect key="frame" x="0.0" y="0.0" width="78" height="78"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="78" id="HxM-iH-UGe"/>
+                        <constraint firstAttribute="width" constant="78" id="xTm-dw-AgJ"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="월20시 / 화23시" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7NH-Bt-VYq">
+                    <rect key="frame" x="-2" y="89" width="82" height="14"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" red="0.53333333333333333" green="0.53333333333333333" blue="0.53333333333333333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="모바일라이브" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LV8-6Q-stf">
+                    <rect key="frame" x="2" y="106" width="73" height="17"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="0.066666666666666666" green="0.066666666666666666" blue="0.066666666666666666" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zcA-b6-wrU">
+                    <rect key="frame" x="0.0" y="0.0" width="100" height="139"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="100" id="Vv6-tn-Rbl"/>
+                        <constraint firstAttribute="height" constant="139" id="fA0-nA-s0a"/>
+                    </constraints>
+                    <connections>
+                        <action selector="onBtnProgram" destination="KGk-i7-Jjw" eventType="touchUpInside" id="QAO-KA-0en"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="XvY-Ag-6nT" firstAttribute="leading" secondItem="xgw-HF-vnv" secondAttribute="leading" id="1bS-C3-jO3"/>
+                <constraint firstItem="LV8-6Q-stf" firstAttribute="centerX" secondItem="xgw-HF-vnv" secondAttribute="centerX" id="1eb-bz-YEQ"/>
+                <constraint firstItem="zcA-b6-wrU" firstAttribute="leading" secondItem="xgw-HF-vnv" secondAttribute="leading" id="Ku5-z3-Fyk"/>
+                <constraint firstItem="zcA-b6-wrU" firstAttribute="top" secondItem="xgw-HF-vnv" secondAttribute="top" id="UDe-R3-eW7"/>
+                <constraint firstItem="7NH-Bt-VYq" firstAttribute="top" secondItem="XvY-Ag-6nT" secondAttribute="bottom" constant="11" id="dxC-lW-qDG"/>
+                <constraint firstItem="7NH-Bt-VYq" firstAttribute="centerX" secondItem="xgw-HF-vnv" secondAttribute="centerX" id="iMp-GJ-bMi"/>
+                <constraint firstItem="XvY-Ag-6nT" firstAttribute="top" secondItem="xgw-HF-vnv" secondAttribute="top" id="p8z-ty-6DK"/>
+                <constraint firstItem="LV8-6Q-stf" firstAttribute="top" secondItem="XvY-Ag-6nT" secondAttribute="bottom" constant="28" id="t4k-ax-hL8"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="347" y="54"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="noimg_160.png" width="160" height="160"/>
+    </resources>
+</document>

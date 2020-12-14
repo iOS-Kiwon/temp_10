@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" reuseIdentifier="BAN_SLD_GBGTypeSubImgCell" id="mt1-uR-jvp" customClass="BAN_SLD_GBGTypeSubImgCell" customModule="GSSHOP_Ent" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="140" height="172"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="140" height="172"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zTU-Zo-fL9">
+                        <rect key="frame" x="0.0" y="0.0" width="140" height="172"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uW2-MW-bHs">
+                                <rect key="frame" x="0.0" y="0.0" width="140" height="172"/>
+                            </imageView>
+                            <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fDg-sF-VIO">
+                                <rect key="frame" x="0.0" y="0.0" width="140" height="172"/>
+                                <connections>
+                                    <action selector="onClickImgCollection:" destination="mt1-uR-jvp" eventType="touchUpInside" id="RrZ-Ma-5fD"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.95686274509803915" green="0.95686274509803915" blue="0.95686274509803915" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="uW2-MW-bHs" firstAttribute="width" secondItem="zTU-Zo-fL9" secondAttribute="width" id="2t9-WS-0Qs"/>
+                            <constraint firstItem="uW2-MW-bHs" firstAttribute="centerY" secondItem="zTU-Zo-fL9" secondAttribute="centerY" id="3HI-2h-1sa"/>
+                            <constraint firstItem="fDg-sF-VIO" firstAttribute="leading" secondItem="zTU-Zo-fL9" secondAttribute="leading" id="7qa-Ag-M4C"/>
+                            <constraint firstItem="fDg-sF-VIO" firstAttribute="width" secondItem="zTU-Zo-fL9" secondAttribute="width" id="C22-IH-mHV"/>
+                            <constraint firstItem="fDg-sF-VIO" firstAttribute="top" secondItem="zTU-Zo-fL9" secondAttribute="top" id="K80-bJ-gq0"/>
+                            <constraint firstItem="uW2-MW-bHs" firstAttribute="centerX" secondItem="zTU-Zo-fL9" secondAttribute="centerX" id="R0X-e5-W5q"/>
+                            <constraint firstItem="uW2-MW-bHs" firstAttribute="height" secondItem="zTU-Zo-fL9" secondAttribute="height" id="YNi-hn-s8e"/>
+                            <constraint firstItem="fDg-sF-VIO" firstAttribute="height" secondItem="zTU-Zo-fL9" secondAttribute="height" id="zum-Hy-wH1"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="zTU-Zo-fL9" firstAttribute="top" secondItem="mt1-uR-jvp" secondAttribute="top" id="4MR-9x-eDG"/>
+                <constraint firstItem="zTU-Zo-fL9" firstAttribute="leading" secondItem="mt1-uR-jvp" secondAttribute="leading" id="8nS-jK-9ME"/>
+                <constraint firstItem="zTU-Zo-fL9" firstAttribute="height" secondItem="mt1-uR-jvp" secondAttribute="height" id="Rkl-gY-fY6"/>
+                <constraint firstItem="zTU-Zo-fL9" firstAttribute="width" secondItem="mt1-uR-jvp" secondAttribute="width" id="ZRk-YU-fup"/>
+            </constraints>
+            <size key="customSize" width="98" height="136"/>
+            <connections>
+                <outlet property="backGdView" destination="zTU-Zo-fL9" id="pv6-p0-ZKw"/>
+                <outlet property="imageView" destination="uW2-MW-bHs" id="Qyd-Ou-Chm"/>
+            </connections>
+            <point key="canvasLocation" x="176" y="192.50374812593705"/>
+        </collectionViewCell>
+    </objects>
+</document>
